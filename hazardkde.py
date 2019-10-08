@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  7 21:12:37 2019
-
-@author: lukem
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import json
@@ -27,7 +20,7 @@ def smoothing(df, bw):
     ker = ker[limit:]
     return ker    
 
-def df_hazard(name):
+def kde_df(name):
     df = pd.read_csv(f'data/batting/test/eventTable/{name}.csv')
     df['hazard'] = df['observed']/df['at_risk']
     ker1 = smoothing(df, 3)

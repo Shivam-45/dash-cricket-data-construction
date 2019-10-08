@@ -1,8 +1,3 @@
-"""
-Created on Tue Aug 20 00:05:09 2019
-
-@author: lukem
-
 Survival Model of Batsmen
 check if pos is relevant 
 """
