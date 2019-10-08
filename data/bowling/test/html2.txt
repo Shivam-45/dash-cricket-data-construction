@@ -1,0 +1,3183 @@
+</thead>
+<tbody>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/16337.html" class="data-link">GA Lohmann</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1886-1896</td>
+  <td>18</td>
+  <td>36</td>
+  <td>3830</td>
+  <td>1205</td>
+  <td>112</td>
+  <td>9/28</td>
+  <td>15/45</td>
+  <td><b>10.75</b></td>
+  <td>1.88</td>
+  <td>34.1</td>
+  <td>9</td>
+  <td>5</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd1', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/8996.html" class="data-link">SF Barnes</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1901-1914</td>
+  <td>27</td>
+  <td>50</td>
+  <td>7873</td>
+  <td>3106</td>
+  <td>189</td>
+  <td>9/103</td>
+  <td>17/159</td>
+  <td><b>16.43</b></td>
+  <td>2.36</td>
+  <td>41.6</td>
+  <td>24</td>
+  <td>7</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd2', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/7990.html" class="data-link">CTB Turner</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1887-1895</td>
+  <td>17</td>
+  <td>30</td>
+  <td>5179</td>
+  <td>1670</td>
+  <td>101</td>
+  <td>7/43</td>
+  <td>12/87</td>
+  <td><b>16.53</b></td>
+  <td>1.93</td>
+  <td>51.2</td>
+  <td>11</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd3', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/18489.html" class="data-link">R Peel</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1884-1896</td>
+  <td>20</td>
+  <td>35</td>
+  <td>5216</td>
+  <td>1715</td>
+  <td>101</td>
+  <td>7/31</td>
+  <td>11/68</td>
+  <td><b>16.98</b></td>
+  <td>1.97</td>
+  <td>51.6</td>
+  <td>5</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd4', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/9223.html" class="data-link">J Briggs</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1884-1899</td>
+  <td>33</td>
+  <td>49</td>
+  <td>5332</td>
+  <td>2095</td>
+  <td>118</td>
+  <td>8/11</td>
+  <td>15/28</td>
+  <td><b>17.75</b></td>
+  <td>2.35</td>
+  <td>45.1</td>
+  <td>9</td>
+  <td>4</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd5', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/9134.html" class="data-link">C Blythe</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1901-1910</td>
+  <td>19</td>
+  <td>37</td>
+  <td>4546</td>
+  <td>1863</td>
+  <td>100</td>
+  <td>8/59</td>
+  <td>15/99</td>
+  <td><b>18.63</b></td>
+  <td>2.45</td>
+  <td>45.4</td>
+  <td>9</td>
+  <td>4</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd6', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/22288.html" class="data-link">JH Wardle</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1948-1957</td>
+  <td>28</td>
+  <td>52</td>
+  <td>6597</td>
+  <td>2080</td>
+  <td>102</td>
+  <td>7/36</td>
+  <td>12/89</td>
+  <td><b>20.39</b></td>
+  <td>1.89</td>
+  <td>64.6</td>
+  <td>5</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd7', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/4902.html" class="data-link">AK Davidson</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1953-1963</td>
+  <td>44</td>
+  <td>82</td>
+  <td>11587</td>
+  <td>3819</td>
+  <td>186</td>
+  <td>7/93</td>
+  <td>12/124</td>
+  <td><b>20.53</b></td>
+  <td>1.97</td>
+  <td>62.2</td>
+  <td>14</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd8', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/52419.html" class="data-link">MD Marshall</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1978-1991</td>
+  <td>81</td>
+  <td>151</td>
+  <td>17584</td>
+  <td>7876</td>
+  <td>376</td>
+  <td>7/22</td>
+  <td>11/89</td>
+  <td><b>20.94</b></td>
+  <td>2.68</td>
+  <td>46.7</td>
+  <td>22</td>
+  <td>4</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd9', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/51876.html" class="data-link">J Garner</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1977-1987</td>
+  <td>58</td>
+  <td>111</td>
+  <td>13169</td>
+  <td>5433</td>
+  <td>259</td>
+  <td>6/56</td>
+  <td>9/108</td>
+  <td><b>20.97</b></td>
+  <td>2.47</td>
+  <td>50.8</td>
+  <td>7</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd10', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/51107.html" class="data-link">CEL Ambrose</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1988-2000</td>
+  <td>98</td>
+  <td>179</td>
+  <td>22103</td>
+  <td>8501</td>
+  <td>405</td>
+  <td>8/45</td>
+  <td>11/84</td>
+  <td><b>20.99</b></td>
+  <td>2.30</td>
+  <td>54.5</td>
+  <td>22</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd11', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/43923.html" class="data-link">NAT Adcock</a> (SA)</td>
+  <td class="left" nowrap="nowrap">1953-1962</td>
+  <td>26</td>
+  <td>46</td>
+  <td>6391</td>
+  <td>2195</td>
+  <td>104</td>
+  <td>6/43</td>
+  <td>8/87</td>
+  <td><b>21.10</b></td>
+  <td>2.06</td>
+  <td>61.4</td>
+  <td>5</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd12', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/16172.html" class="data-link">JC Laker</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1948-1959</td>
+  <td>46</td>
+  <td>86</td>
+  <td>12027</td>
+  <td>4101</td>
+  <td>193</td>
+  <td>10/53</td>
+  <td>19/90</td>
+  <td><b>21.24</b></td>
+  <td>2.04</td>
+  <td>62.3</td>
+  <td>9</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd13', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/21600.html" class="data-link">FS Trueman</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1952-1965</td>
+  <td>67</td>
+  <td>127</td>
+  <td>15178</td>
+  <td>6625</td>
+  <td>307</td>
+  <td>8/31</td>
+  <td>12/119</td>
+  <td><b>21.57</b></td>
+  <td>2.61</td>
+  <td>49.4</td>
+  <td>17</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd14', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6565.html" class="data-link">GD McGrath</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1993-2007</td>
+  <td>124</td>
+  <td>243</td>
+  <td>29248</td>
+  <td>12186</td>
+  <td>563</td>
+  <td>8/24</td>
+  <td>10/27</td>
+  <td><b>21.64</b></td>
+  <td>2.49</td>
+  <td>51.9</td>
+  <td>29</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd15', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/46945.html" class="data-link">VD Philander</a> (SA)</td>
+  <td class="left" nowrap="nowrap">2011-2019</td>
+  <td>58</td>
+  <td>109</td>
+  <td>10420</td>
+  <td>4632</td>
+  <td>214</td>
+  <td>6/21</td>
+  <td>10/102</td>
+  <td><b>21.64</b></td>
+  <td>2.66</td>
+  <td>48.6</td>
+  <td>13</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd16', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/550215.html" class="data-link">K Rabada</a> (SA)</td>
+  <td class="left" nowrap="nowrap">2015-2019</td>
+  <td>37</td>
+  <td>69</td>
+  <td>6830</td>
+  <td>3833</td>
+  <td>176</td>
+  <td>7/112</td>
+  <td>13/144</td>
+  <td><b>21.77</b></td>
+  <td>3.36</td>
+  <td>38.8</td>
+  <td>9</td>
+  <td>4</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd17', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/7977.html" class="data-link">H Trumble</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1890-1904</td>
+  <td>32</td>
+  <td>57</td>
+  <td>8099</td>
+  <td>3072</td>
+  <td>141</td>
+  <td>8/65</td>
+  <td>12/89</td>
+  <td><b>21.78</b></td>
+  <td>2.27</td>
+  <td>57.4</td>
+  <td>9</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd18', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/44716.html" class="data-link">AA Donald</a> (SA)</td>
+  <td class="left" nowrap="nowrap">1992-2002</td>
+  <td>72</td>
+  <td>129</td>
+  <td>15519</td>
+  <td>7344</td>
+  <td>330</td>
+  <td>8/71</td>
+  <td>12/139</td>
+  <td><b>22.25</b></td>
+  <td>2.83</td>
+  <td>47.0</td>
+  <td>20</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd19', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/37224.html" class="data-link">Sir RJ Hadlee</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">1973-1990</td>
+  <td>86</td>
+  <td>150</td>
+  <td>21918</td>
+  <td>9611</td>
+  <td>431</td>
+  <td>9/52</td>
+  <td>15/123</td>
+  <td><b>22.29</b></td>
+  <td>2.63</td>
+  <td>50.8</td>
+  <td>36</td>
+  <td>9</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd20', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/7020.html" class="data-link">WJ O'Reilly</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1932-1946</td>
+  <td>27</td>
+  <td>48</td>
+  <td>10024</td>
+  <td>3254</td>
+  <td>144</td>
+  <td>7/54</td>
+  <td>11/129</td>
+  <td><b>22.59</b></td>
+  <td>1.94</td>
+  <td>69.6</td>
+  <td>11</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd21', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/49636.html" class="data-link">M Muralitharan</a> (ICC/SL)</td>
+  <td class="left" nowrap="nowrap">1992-2010</td>
+  <td>133</td>
+  <td>230</td>
+  <td>44039</td>
+  <td>18180</td>
+  <td>800</td>
+  <td>9/51</td>
+  <td>16/220</td>
+  <td><b>22.72</b></td>
+  <td>2.47</td>
+  <td>55.0</td>
+  <td>67</td>
+  <td>22</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd22', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/40560.html" class="data-link">Imran Khan</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1971-1992</td>
+  <td>88</td>
+  <td>142</td>
+  <td>19458</td>
+  <td>8258</td>
+  <td>362</td>
+  <td>8/58</td>
+  <td>14/116</td>
+  <td><b>22.81</b></td>
+  <td>2.54</td>
+  <td>53.7</td>
+  <td>23</td>
+  <td>6</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd23', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/47492.html" class="data-link">DW Steyn</a> (SA)</td>
+  <td class="left" nowrap="nowrap">2004-2019</td>
+  <td>93</td>
+  <td>171</td>
+  <td>18608</td>
+  <td>10077</td>
+  <td>439</td>
+  <td>7/51</td>
+  <td>11/60</td>
+  <td><b>22.95</b></td>
+  <td>3.24</td>
+  <td>42.3</td>
+  <td>26</td>
+  <td>5</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd24', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6612.html" class="data-link">KR Miller</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1946-1956</td>
+  <td>55</td>
+  <td>95</td>
+  <td>10461</td>
+  <td>3906</td>
+  <td>170</td>
+  <td>7/60</td>
+  <td>10/152</td>
+  <td><b>22.97</b></td>
+  <td>2.24</td>
+  <td>61.5</td>
+  <td>7</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd25', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6299.html" class="data-link">RR Lindwall</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1946-1960</td>
+  <td>61</td>
+  <td>113</td>
+  <td>13650</td>
+  <td>5251</td>
+  <td>228</td>
+  <td>7/38</td>
+  <td>9/70</td>
+  <td><b>23.03</b></td>
+  <td>2.30</td>
+  <td>59.8</td>
+  <td>12</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd26', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/46774.html" class="data-link">SM Pollock</a> (SA)</td>
+  <td class="left" nowrap="nowrap">1995-2008</td>
+  <td>108</td>
+  <td>202</td>
+  <td>24353</td>
+  <td>9733</td>
+  <td>421</td>
+  <td>7/87</td>
+  <td>10/147</td>
+  <td><b>23.11</b></td>
+  <td>2.39</td>
+  <td>57.8</td>
+  <td>16</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd27', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/51485.html" class="data-link">CEH Croft</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1977-1982</td>
+  <td>27</td>
+  <td>52</td>
+  <td>6165</td>
+  <td>2913</td>
+  <td>125</td>
+  <td>8/29</td>
+  <td>9/95</td>
+  <td><b>23.30</b></td>
+  <td>2.83</td>
+  <td>49.3</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd28', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/5779.html" class="data-link">RJ Harris</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">2010-2015</td>
+  <td>27</td>
+  <td>52</td>
+  <td>5736</td>
+  <td>2658</td>
+  <td>113</td>
+  <td>7/117</td>
+  <td>9/106</td>
+  <td><b>23.52</b></td>
+  <td>2.78</td>
+  <td>50.7</td>
+  <td>5</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd29', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/43543.html" class="data-link">Waqar Younis</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1989-2003</td>
+  <td>87</td>
+  <td>154</td>
+  <td>16224</td>
+  <td>8788</td>
+  <td>373</td>
+  <td>7/76</td>
+  <td>13/135</td>
+  <td><b>23.56</b></td>
+  <td>3.25</td>
+  <td>43.4</td>
+  <td>22</td>
+  <td>5</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd30', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/43547.html" class="data-link">Wasim Akram</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1985-2002</td>
+  <td>104</td>
+  <td>181</td>
+  <td>22627</td>
+  <td>9779</td>
+  <td>414</td>
+  <td>7/119</td>
+  <td>11/110</td>
+  <td><b>23.62</b></td>
+  <td>2.59</td>
+  <td>54.6</td>
+  <td>25</td>
+  <td>5</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd31', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/52063.html" class="data-link">MA Holding</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1975-1987</td>
+  <td>60</td>
+  <td>113</td>
+  <td>12680</td>
+  <td>5898</td>
+  <td>249</td>
+  <td>8/92</td>
+  <td>14/149</td>
+  <td><b>23.68</b></td>
+  <td>2.79</td>
+  <td>50.9</td>
+  <td>13</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd32', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/234675.html" class="data-link">RA Jadeja</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">2012-2019</td>
+  <td>41</td>
+  <td>78</td>
+  <td>11480</td>
+  <td>4548</td>
+  <td>192</td>
+  <td>7/48</td>
+  <td>10/154</td>
+  <td><b>23.68</b></td>
+  <td>2.37</td>
+  <td>59.7</td>
+  <td>9</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd33', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6041.html" class="data-link">WA Johnston</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1947-1955</td>
+  <td>40</td>
+  <td>75</td>
+  <td>11048</td>
+  <td>3826</td>
+  <td>160</td>
+  <td>6/44</td>
+  <td>9/183</td>
+  <td><b>23.91</b></td>
+  <td>2.07</td>
+  <td>69.0</td>
+  <td>7</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd34', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6295.html" class="data-link">DK Lillee</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1971-1984</td>
+  <td>70</td>
+  <td>132</td>
+  <td>18467</td>
+  <td>8493</td>
+  <td>355</td>
+  <td>7/83</td>
+  <td>11/123</td>
+  <td><b>23.92</b></td>
+  <td>2.75</td>
+  <td>52.0</td>
+  <td>23</td>
+  <td>7</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd35', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/46770.html" class="data-link">PM Pollock</a> (SA)</td>
+  <td class="left" nowrap="nowrap">1961-1970</td>
+  <td>28</td>
+  <td>52</td>
+  <td>6522</td>
+  <td>2806</td>
+  <td>116</td>
+  <td>6/38</td>
+  <td>10/87</td>
+  <td><b>24.18</b></td>
+  <td>2.58</td>
+  <td>56.2</td>
+  <td>9</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd36', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/5443.html" class="data-link">CV Grimmett</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1925-1936</td>
+  <td>37</td>
+  <td>67</td>
+  <td>14513</td>
+  <td>5231</td>
+  <td>216</td>
+  <td>7/40</td>
+  <td>14/199</td>
+  <td><b>24.21</b></td>
+  <td>2.16</td>
+  <td>67.1</td>
+  <td>21</td>
+  <td>7</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd37', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/51226.html" class="data-link">IR Bishop</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1989-1998</td>
+  <td>43</td>
+  <td>76</td>
+  <td>8407</td>
+  <td>3909</td>
+  <td>161</td>
+  <td>6/40</td>
+  <td>8/57</td>
+  <td><b>24.27</b></td>
+  <td>2.78</td>
+  <td>52.2</td>
+  <td>6</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd38', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/41411.html" class="data-link">Mohammad Asif</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">2005-2010</td>
+  <td>23</td>
+  <td>44</td>
+  <td>5171</td>
+  <td>2583</td>
+  <td>106</td>
+  <td>6/41</td>
+  <td>11/71</td>
+  <td><b>24.36</b></td>
+  <td>2.99</td>
+  <td>48.7</td>
+  <td>7</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd39', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/22185.html" class="data-link">H Verity</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1931-1939</td>
+  <td>40</td>
+  <td>73</td>
+  <td>11173</td>
+  <td>3510</td>
+  <td>144</td>
+  <td>8/43</td>
+  <td>15/104</td>
+  <td><b>24.37</b></td>
+  <td>1.88</td>
+  <td>77.5</td>
+  <td>5</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd40', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/53216.html" class="data-link">CA Walsh</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1984-2001</td>
+  <td>132</td>
+  <td>242</td>
+  <td>30019</td>
+  <td>12688</td>
+  <td>519</td>
+  <td>7/37</td>
+  <td>13/55</td>
+  <td><b>24.44</b></td>
+  <td>2.53</td>
+  <td>57.8</td>
+  <td>22</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd41', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/7319.html" class="data-link">BA Reid</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1985-1992</td>
+  <td>27</td>
+  <td>42</td>
+  <td>6244</td>
+  <td>2784</td>
+  <td>113</td>
+  <td>7/51</td>
+  <td>13/148</td>
+  <td><b>24.63</b></td>
+  <td>2.67</td>
+  <td>55.2</td>
+  <td>5</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd42', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/40092.html" class="data-link">Fazal Mahmood</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1952-1962</td>
+  <td>34</td>
+  <td>53</td>
+  <td>9834</td>
+  <td>3434</td>
+  <td>139</td>
+  <td>7/42</td>
+  <td>13/114</td>
+  <td><b>24.70</b></td>
+  <td>2.09</td>
+  <td>70.7</td>
+  <td>13</td>
+  <td>4</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd43', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/20341.html" class="data-link">JB Statham</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1951-1965</td>
+  <td>70</td>
+  <td>129</td>
+  <td>16056</td>
+  <td>6261</td>
+  <td>252</td>
+  <td>7/39</td>
+  <td>11/97</td>
+  <td><b>24.84</b></td>
+  <td>2.33</td>
+  <td>63.7</td>
+  <td>9</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd44', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/9057.html" class="data-link">AV Bedser</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1946-1955</td>
+  <td>51</td>
+  <td>92</td>
+  <td>15918</td>
+  <td>5876</td>
+  <td>236</td>
+  <td>7/44</td>
+  <td>14/99</td>
+  <td><b>24.89</b></td>
+  <td>2.21</td>
+  <td>67.4</td>
+  <td>15</td>
+  <td>5</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd45', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6936.html" class="data-link">MA Noble</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1898-1909</td>
+  <td>42</td>
+  <td>71</td>
+  <td>7159</td>
+  <td>3025</td>
+  <td>121</td>
+  <td>7/17</td>
+  <td>13/77</td>
+  <td><b>25.00</b></td>
+  <td>2.53</td>
+  <td>59.1</td>
+  <td>9</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd46', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/22462.html" class="data-link">RGD Willis</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1971-1984</td>
+  <td>90</td>
+  <td>165</td>
+  <td>17357</td>
+  <td>8190</td>
+  <td>325</td>
+  <td>8/43</td>
+  <td>9/92</td>
+  <td><b>25.20</b></td>
+  <td>2.83</td>
+  <td>53.4</td>
+  <td>16</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd47', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/8166.html" class="data-link">SK Warne</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1992-2007</td>
+  <td>145</td>
+  <td>273</td>
+  <td>40705</td>
+  <td>17995</td>
+  <td>708</td>
+  <td>8/71</td>
+  <td>12/128</td>
+  <td><b>25.41</b></td>
+  <td>2.65</td>
+  <td>57.4</td>
+  <td>37</td>
+  <td>10</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd48', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/26421.html" class="data-link">R Ashwin</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">2011-2018</td>
+  <td>65</td>
+  <td>122</td>
+  <td>18372</td>
+  <td>8700</td>
+  <td>342</td>
+  <td>7/59</td>
+  <td>13/140</td>
+  <td><b>25.43</b></td>
+  <td>2.84</td>
+  <td>53.7</td>
+  <td>26</td>
+  <td>7</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd49', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/16331.html" class="data-link">GAR Lock</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1952-1968</td>
+  <td>49</td>
+  <td>88</td>
+  <td>13147</td>
+  <td>4451</td>
+  <td>174</td>
+  <td>7/35</td>
+  <td>11/48</td>
+  <td><b>25.58</b></td>
+  <td>2.03</td>
+  <td>75.5</td>
+  <td>9</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd50', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/52817.html" class="data-link">AME Roberts</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1974-1983</td>
+  <td>47</td>
+  <td>90</td>
+  <td>11135</td>
+  <td>5174</td>
+  <td>202</td>
+  <td>7/54</td>
+  <td>12/121</td>
+  <td><b>25.61</b></td>
+  <td>2.78</td>
+  <td>55.1</td>
+  <td>11</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd51', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/42655.html" class="data-link">Shoaib Akhtar</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1997-2007</td>
+  <td>46</td>
+  <td>82</td>
+  <td>8143</td>
+  <td>4574</td>
+  <td>178</td>
+  <td>6/11</td>
+  <td>11/78</td>
+  <td><b>25.69</b></td>
+  <td>3.37</td>
+  <td>45.7</td>
+  <td>12</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd52', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/22149.html" class="data-link">DL Underwood</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1966-1982</td>
+  <td>86</td>
+  <td>151</td>
+  <td>21862</td>
+  <td>7674</td>
+  <td>297</td>
+  <td>8/51</td>
+  <td>13/71</td>
+  <td><b>25.83</b></td>
+  <td>2.10</td>
+  <td>73.6</td>
+  <td>17</td>
+  <td>6</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd53', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/47531.html" class="data-link">HJ Tayfield</a> (SA)</td>
+  <td class="left" nowrap="nowrap">1949-1960</td>
+  <td>37</td>
+  <td>61</td>
+  <td>13568</td>
+  <td>4405</td>
+  <td>170</td>
+  <td>9/113</td>
+  <td>13/165</td>
+  <td><b>25.91</b></td>
+  <td>1.94</td>
+  <td>79.8</td>
+  <td>14</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd54', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/5392.html" class="data-link">JN Gillespie</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1996-2006</td>
+  <td>71</td>
+  <td>137</td>
+  <td>14234</td>
+  <td>6770</td>
+  <td>259</td>
+  <td>7/37</td>
+  <td>9/80</td>
+  <td><b>26.13</b></td>
+  <td>2.85</td>
+  <td>54.9</td>
+  <td>8</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd55', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/21462.html" class="data-link">MW Tate</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1924-1935</td>
+  <td>39</td>
+  <td>68</td>
+  <td>12523</td>
+  <td>4055</td>
+  <td>155</td>
+  <td>6/42</td>
+  <td>11/228</td>
+  <td><b>26.16</b></td>
+  <td>1.94</td>
+  <td>80.7</td>
+  <td>7</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd56', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/45234.html" class="data-link">TL Goddard</a> (SA)</td>
+  <td class="left" nowrap="nowrap">1955-1970</td>
+  <td>41</td>
+  <td>75</td>
+  <td>11736</td>
+  <td>3226</td>
+  <td>123</td>
+  <td>6/53</td>
+  <td>8/92</td>
+  <td><b>26.22</b></td>
+  <td>1.64</td>
+  <td>95.4</td>
+  <td>5</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd57', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/52043.html" class="data-link">WW Hall</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1958-1969</td>
+  <td>48</td>
+  <td>92</td>
+  <td>10421</td>
+  <td>5066</td>
+  <td>192</td>
+  <td>7/69</td>
+  <td>11/126</td>
+  <td><b>26.38</b></td>
+  <td>2.91</td>
+  <td>54.2</td>
+  <td>9</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd58', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/38609.html" class="data-link">BR Taylor</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">1965-1973</td>
+  <td>30</td>
+  <td>53</td>
+  <td>6334</td>
+  <td>2953</td>
+  <td>111</td>
+  <td>7/74</td>
+  <td>9/182</td>
+  <td><b>26.60</b></td>
+  <td>2.79</td>
+  <td>57.0</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd59', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/20282.html" class="data-link">JA Snow</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1965-1976</td>
+  <td>49</td>
+  <td>93</td>
+  <td>12021</td>
+  <td>5387</td>
+  <td>202</td>
+  <td>7/40</td>
+  <td>10/142</td>
+  <td><b>26.66</b></td>
+  <td>2.68</td>
+  <td>59.5</td>
+  <td>8</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd60', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/8608.html" class="data-link">JM Anderson</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">2003-2019</td>
+  <td>149</td>
+  <td>278</td>
+  <td>32359</td>
+  <td>15491</td>
+  <td>575</td>
+  <td>7/42</td>
+  <td>11/71</td>
+  <td><b>26.94</b></td>
+  <td>2.87</td>
+  <td>56.2</td>
+  <td>27</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd61', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/7326.html" class="data-link">PR Reiffel</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1992-1998</td>
+  <td>35</td>
+  <td>67</td>
+  <td>6403</td>
+  <td>2804</td>
+  <td>104</td>
+  <td>6/71</td>
+  <td>8/152</td>
+  <td><b>26.96</b></td>
+  <td>2.62</td>
+  <td>61.5</td>
+  <td>5</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd62', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/19376.html" class="data-link">W Rhodes</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1899-1930</td>
+  <td>58</td>
+  <td>90</td>
+  <td>8225</td>
+  <td>3425</td>
+  <td>127</td>
+  <td>8/68</td>
+  <td>15/124</td>
+  <td><b>26.96</b></td>
+  <td>2.49</td>
+  <td>64.7</td>
+  <td>6</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd63', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/4123.html" class="data-link">R Benaud</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1952-1964</td>
+  <td>63</td>
+  <td>116</td>
+  <td>19108</td>
+  <td>6704</td>
+  <td>248</td>
+  <td>7/72</td>
+  <td>11/105</td>
+  <td><b>27.03</b></td>
+  <td>2.10</td>
+  <td>77.0</td>
+  <td>16</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd64', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/5382.html" class="data-link">G Giffen</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1881-1896</td>
+  <td>31</td>
+  <td>43</td>
+  <td>6391</td>
+  <td>2791</td>
+  <td>103</td>
+  <td>7/117</td>
+  <td>10/160</td>
+  <td><b>27.09</b></td>
+  <td>2.62</td>
+  <td>62.0</td>
+  <td>7</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd65', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/288284.html" class="data-link">JR Hazlewood</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">2014-2019</td>
+  <td>44</td>
+  <td>82</td>
+  <td>9575</td>
+  <td>4452</td>
+  <td>164</td>
+  <td>6/67</td>
+  <td>9/136</td>
+  <td><b>27.14</b></td>
+  <td>2.78</td>
+  <td>58.3</td>
+  <td>6</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd66', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/3943.html" class="data-link">TM Alderman</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1981-1991</td>
+  <td>41</td>
+  <td>73</td>
+  <td>10181</td>
+  <td>4616</td>
+  <td>170</td>
+  <td>6/47</td>
+  <td>10/151</td>
+  <td><b>27.15</b></td>
+  <td>2.72</td>
+  <td>59.8</td>
+  <td>14</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd67', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/230553.html" class="data-link">KAJ Roach</a> (WI)</td>
+  <td class="left" nowrap="nowrap">2009-2019</td>
+  <td>53</td>
+  <td>94</td>
+  <td>9438</td>
+  <td>5000</td>
+  <td>184</td>
+  <td>6/48</td>
+  <td>10/146</td>
+  <td><b>27.17</b></td>
+  <td>3.17</td>
+  <td>51.2</td>
+  <td>9</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd68', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/12909.html" class="data-link">ARC Fraser</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1989-1998</td>
+  <td>46</td>
+  <td>79</td>
+  <td>10876</td>
+  <td>4836</td>
+  <td>177</td>
+  <td>8/53</td>
+  <td>11/110</td>
+  <td><b>27.32</b></td>
+  <td>2.66</td>
+  <td>61.4</td>
+  <td>13</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd69', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/8137.html" class="data-link">MHN Walker</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1972-1977</td>
+  <td>34</td>
+  <td>63</td>
+  <td>10094</td>
+  <td>3792</td>
+  <td>138</td>
+  <td>8/143</td>
+  <td>8/143</td>
+  <td><b>27.47</b></td>
+  <td>2.25</td>
+  <td>73.1</td>
+  <td>6</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd70', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/233713.html" class="data-link">N Wagner</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">2012-2019</td>
+  <td>42</td>
+  <td>79</td>
+  <td>9167</td>
+  <td>4788</td>
+  <td>174</td>
+  <td>7/39</td>
+  <td>9/73</td>
+  <td><b>27.51</b></td>
+  <td>3.13</td>
+  <td>52.6</td>
+  <td>7</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd71', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/277912.html" class="data-link">TA Boult</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">2011-2019</td>
+  <td>61</td>
+  <td>115</td>
+  <td>13591</td>
+  <td>6776</td>
+  <td>246</td>
+  <td>6/30</td>
+  <td>10/80</td>
+  <td><b>27.54</b></td>
+  <td>2.99</td>
+  <td>55.2</td>
+  <td>8</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd72', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/46538.html" class="data-link">M Morkel</a> (SA)</td>
+  <td class="left" nowrap="nowrap">2006-2018</td>
+  <td>86</td>
+  <td>160</td>
+  <td>16498</td>
+  <td>8550</td>
+  <td>309</td>
+  <td>6/23</td>
+  <td>9/110</td>
+  <td><b>27.66</b></td>
+  <td>3.10</td>
+  <td>53.3</td>
+  <td>8</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd73', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/7946.html" class="data-link">JR Thomson</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1972-1985</td>
+  <td>51</td>
+  <td>90</td>
+  <td>10535</td>
+  <td>5601</td>
+  <td>200</td>
+  <td>6/46</td>
+  <td>9/105</td>
+  <td><b>28.00</b></td>
+  <td>3.18</td>
+  <td>52.6</td>
+  <td>8</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd74', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/49178.html" class="data-link">HMRKB Herath</a> (SL)</td>
+  <td class="left" nowrap="nowrap">1999-2018</td>
+  <td>93</td>
+  <td>170</td>
+  <td>25993</td>
+  <td>12157</td>
+  <td>433</td>
+  <td>9/127</td>
+  <td>14/184</td>
+  <td><b>28.07</b></td>
+  <td>2.80</td>
+  <td>60.0</td>
+  <td>34</td>
+  <td>9</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd75', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/42699.html" class="data-link">Saeed Ajmal</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">2009-2014</td>
+  <td>35</td>
+  <td>67</td>
+  <td>11592</td>
+  <td>5003</td>
+  <td>178</td>
+  <td>7/55</td>
+  <td>11/111</td>
+  <td><b>28.10</b></td>
+  <td>2.58</td>
+  <td>65.1</td>
+  <td>10</td>
+  <td>4</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd76', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/40572.html" class="data-link">Iqbal Qasim</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1976-1988</td>
+  <td>50</td>
+  <td>86</td>
+  <td>13019</td>
+  <td>4807</td>
+  <td>171</td>
+  <td>7/49</td>
+  <td>11/118</td>
+  <td><b>28.11</b></td>
+  <td>2.21</td>
+  <td>76.1</td>
+  <td>8</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd77', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/18256.html" class="data-link">CM Old</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1972-1981</td>
+  <td>46</td>
+  <td>81</td>
+  <td>8858</td>
+  <td>4020</td>
+  <td>143</td>
+  <td>7/50</td>
+  <td>9/88</td>
+  <td><b>28.11</b></td>
+  <td>2.72</td>
+  <td>61.9</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd78', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/55761.html" class="data-link">HH Streak</a> (ZIM)</td>
+  <td class="left" nowrap="nowrap">1993-2005</td>
+  <td>65</td>
+  <td>102</td>
+  <td>13559</td>
+  <td>6079</td>
+  <td>216</td>
+  <td>6/73</td>
+  <td>9/72</td>
+  <td><b>28.14</b></td>
+  <td>2.69</td>
+  <td>62.7</td>
+  <td>7</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd79', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/311592.html" class="data-link">MA Starc</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">2011-2019</td>
+  <td>51</td>
+  <td>97</td>
+  <td>10532</td>
+  <td>5951</td>
+  <td>211</td>
+  <td>6/50</td>
+  <td>11/94</td>
+  <td><b>28.20</b></td>
+  <td>3.39</td>
+  <td>49.9</td>
+  <td>11</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd80', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/8566.html" class="data-link">GG Arnold</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1967-1975</td>
+  <td>34</td>
+  <td>61</td>
+  <td>7650</td>
+  <td>3254</td>
+  <td>115</td>
+  <td>6/45</td>
+  <td>9/91</td>
+  <td><b>28.29</b></td>
+  <td>2.55</td>
+  <td>66.5</td>
+  <td>6</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd81', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/5726.html" class="data-link">MG Hughes</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1985-1994</td>
+  <td>53</td>
+  <td>97</td>
+  <td>12285</td>
+  <td>6017</td>
+  <td>212</td>
+  <td>8/87</td>
+  <td>13/217</td>
+  <td><b>28.38</b></td>
+  <td>2.93</td>
+  <td>57.9</td>
+  <td>7</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd82', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/13411.html" class="data-link">D Gough</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1994-2003</td>
+  <td>58</td>
+  <td>95</td>
+  <td>11821</td>
+  <td>6503</td>
+  <td>229</td>
+  <td>6/42</td>
+  <td>9/92</td>
+  <td><b>28.39</b></td>
+  <td>3.30</td>
+  <td>51.6</td>
+  <td>9</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd83', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/9163.html" class="data-link">IT Botham</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1977-1992</td>
+  <td>102</td>
+  <td>168</td>
+  <td>21815</td>
+  <td>10878</td>
+  <td>383</td>
+  <td>8/34</td>
+  <td>13/106</td>
+  <td><b>28.40</b></td>
+  <td>2.99</td>
+  <td>56.9</td>
+  <td>27</td>
+  <td>4</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd84', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6033.html" class="data-link">MG Johnson</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">2007-2015</td>
+  <td>73</td>
+  <td>140</td>
+  <td>16001</td>
+  <td>8891</td>
+  <td>313</td>
+  <td>8/61</td>
+  <td>12/127</td>
+  <td><b>28.40</b></td>
+  <td>3.33</td>
+  <td>51.1</td>
+  <td>12</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd85', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/5685.html" class="data-link">RM Hogg</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1978-1984</td>
+  <td>38</td>
+  <td>66</td>
+  <td>7633</td>
+  <td>3503</td>
+  <td>123</td>
+  <td>6/74</td>
+  <td>10/66</td>
+  <td><b>28.47</b></td>
+  <td>2.75</td>
+  <td>62.0</td>
+  <td>6</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd86', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6551.html" class="data-link">CJ McDermott</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1984-1996</td>
+  <td>71</td>
+  <td>124</td>
+  <td>16586</td>
+  <td>8332</td>
+  <td>291</td>
+  <td>8/97</td>
+  <td>11/157</td>
+  <td><b>28.63</b></td>
+  <td>3.01</td>
+  <td>56.9</td>
+  <td>14</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd87', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/10617.html" class="data-link">SCJ Broad</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">2007-2019</td>
+  <td>128</td>
+  <td>234</td>
+  <td>26035</td>
+  <td>12863</td>
+  <td>449</td>
+  <td>8/15</td>
+  <td>11/121</td>
+  <td><b>28.64</b></td>
+  <td>2.96</td>
+  <td>57.9</td>
+  <td>17</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd88', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/26875.html" class="data-link">BS Bedi</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1966-1979</td>
+  <td>67</td>
+  <td>118</td>
+  <td>21364</td>
+  <td>7637</td>
+  <td>266</td>
+  <td>7/98</td>
+  <td>10/194</td>
+  <td><b>28.71</b></td>
+  <td>2.14</td>
+  <td>80.3</td>
+  <td>14</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd89', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/43685.html" class="data-link">Yasir Shah</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">2014-2019</td>
+  <td>35</td>
+  <td>67</td>
+  <td>11293</td>
+  <td>5832</td>
+  <td>203</td>
+  <td>8/41</td>
+  <td>14/184</td>
+  <td><b>28.72</b></td>
+  <td>3.09</td>
+  <td>55.6</td>
+  <td>16</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd90', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/46592.html" class="data-link">M Ntini</a> (SA)</td>
+  <td class="left" nowrap="nowrap">1998-2009</td>
+  <td>101</td>
+  <td>190</td>
+  <td>20834</td>
+  <td>11242</td>
+  <td>390</td>
+  <td>7/37</td>
+  <td>13/132</td>
+  <td><b>28.82</b></td>
+  <td>3.23</td>
+  <td>53.4</td>
+  <td>18</td>
+  <td>4</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd91', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/52804.html" class="data-link">S Ramadhin</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1950-1961</td>
+  <td>43</td>
+  <td>76</td>
+  <td>13939</td>
+  <td>4579</td>
+  <td>158</td>
+  <td>7/49</td>
+  <td>11/152</td>
+  <td><b>28.98</b></td>
+  <td>1.97</td>
+  <td>88.2</td>
+  <td>10</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd92', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6441.html" class="data-link">SCG MacGill</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1998-2008</td>
+  <td>44</td>
+  <td>85</td>
+  <td>11237</td>
+  <td>6038</td>
+  <td>208</td>
+  <td>8/108</td>
+  <td>12/107</td>
+  <td><b>29.02</b></td>
+  <td>3.22</td>
+  <td>54.0</td>
+  <td>12</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd93', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/51883.html" class="data-link">LR Gibbs</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1958-1976</td>
+  <td>79</td>
+  <td>148</td>
+  <td>27115</td>
+  <td>8989</td>
+  <td>309</td>
+  <td>8/38</td>
+  <td>11/157</td>
+  <td><b>29.09</b></td>
+  <td>1.98</td>
+  <td>87.7</td>
+  <td>18</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd94', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6100.html" class="data-link">IWG Johnson</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1946-1956</td>
+  <td>45</td>
+  <td>74</td>
+  <td>8780</td>
+  <td>3182</td>
+  <td>109</td>
+  <td>7/44</td>
+  <td>8/86</td>
+  <td><b>29.19</b></td>
+  <td>2.17</td>
+  <td>80.5</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd95', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/8944.html" class="data-link">TE Bailey</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1949-1959</td>
+  <td>61</td>
+  <td>95</td>
+  <td>9712</td>
+  <td>3856</td>
+  <td>132</td>
+  <td>7/34</td>
+  <td>11/98</td>
+  <td><b>29.21</b></td>
+  <td>2.38</td>
+  <td>73.5</td>
+  <td>5</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd96', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/4613.html" class="data-link">AN Connolly</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1963-1971</td>
+  <td>29</td>
+  <td>55</td>
+  <td>7818</td>
+  <td>2981</td>
+  <td>102</td>
+  <td>6/47</td>
+  <td>7/109</td>
+  <td><b>29.22</b></td>
+  <td>2.28</td>
+  <td>76.6</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd97', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/36606.html" class="data-link">RO Collinge</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">1965-1978</td>
+  <td>35</td>
+  <td>62</td>
+  <td>7689</td>
+  <td>3393</td>
+  <td>116</td>
+  <td>6/63</td>
+  <td>9/166</td>
+  <td><b>29.25</b></td>
+  <td>2.64</td>
+  <td>66.2</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd98', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/36597.html" class="data-link">CL Cairns</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">1989-2004</td>
+  <td>62</td>
+  <td>104</td>
+  <td>11698</td>
+  <td>6410</td>
+  <td>218</td>
+  <td>7/27</td>
+  <td>10/100</td>
+  <td><b>29.40</b></td>
+  <td>3.28</td>
+  <td>53.6</td>
+  <td>13</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd99', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/481896.html" class="data-link">Mohammed Shami</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">2013-2019</td>
+  <td>40</td>
+  <td>77</td>
+  <td>7562</td>
+  <td>4254</td>
+  <td>144</td>
+  <td>6/56</td>
+  <td>9/118</td>
+  <td><b>29.54</b></td>
+  <td>3.37</td>
+  <td>52.5</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd100', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/28880.html" class="data-link">SP Gupte</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1951-1961</td>
+  <td>36</td>
+  <td>61</td>
+  <td>11284</td>
+  <td>4403</td>
+  <td>149</td>
+  <td>9/102</td>
+  <td>10/223</td>
+  <td><b>29.55</b></td>
+  <td>2.34</td>
+  <td>75.7</td>
+  <td>12</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd101', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/50804.html" class="data-link">WPUJC Vaas</a> (SL)</td>
+  <td class="left" nowrap="nowrap">1994-2009</td>
+  <td>111</td>
+  <td>194</td>
+  <td>23438</td>
+  <td>10501</td>
+  <td>355</td>
+  <td>7/71</td>
+  <td>14/191</td>
+  <td><b>29.58</b></td>
+  <td>2.68</td>
+  <td>66.0</td>
+  <td>12</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd102', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/30028.html" class="data-link">N Kapil Dev</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1978-1994</td>
+  <td>131</td>
+  <td>227</td>
+  <td>27740</td>
+  <td>12867</td>
+  <td>434</td>
+  <td>9/83</td>
+  <td>11/146</td>
+  <td><b>29.64</b></td>
+  <td>2.78</td>
+  <td>63.9</td>
+  <td>23</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd103', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/30176.html" class="data-link">A Kumble</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1990-2008</td>
+  <td>132</td>
+  <td>236</td>
+  <td>40850</td>
+  <td>18355</td>
+  <td>619</td>
+  <td>10/74</td>
+  <td>14/149</td>
+  <td><b>29.65</b></td>
+  <td>2.69</td>
+  <td>65.9</td>
+  <td>35</td>
+  <td>8</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd104', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/27591.html" class="data-link">BS Chandrasekhar</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1964-1979</td>
+  <td>58</td>
+  <td>97</td>
+  <td>15963</td>
+  <td>7199</td>
+  <td>242</td>
+  <td>8/79</td>
+  <td>12/104</td>
+  <td><b>29.74</b></td>
+  <td>2.70</td>
+  <td>65.9</td>
+  <td>16</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd105', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/11893.html" class="data-link">GR Dilley</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1979-1989</td>
+  <td>41</td>
+  <td>65</td>
+  <td>8192</td>
+  <td>4107</td>
+  <td>138</td>
+  <td>6/38</td>
+  <td>9/128</td>
+  <td><b>29.76</b></td>
+  <td>3.00</td>
+  <td>59.3</td>
+  <td>6</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd106', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6576.html" class="data-link">GD McKenzie</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1961-1971</td>
+  <td>60</td>
+  <td>113</td>
+  <td>17681</td>
+  <td>7328</td>
+  <td>246</td>
+  <td>8/71</td>
+  <td>10/91</td>
+  <td><b>29.78</b></td>
+  <td>2.48</td>
+  <td>71.8</td>
+  <td>16</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd107', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/10816.html" class="data-link">DG Cork</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1995-2002</td>
+  <td>37</td>
+  <td>62</td>
+  <td>7678</td>
+  <td>3906</td>
+  <td>131</td>
+  <td>7/43</td>
+  <td>9/162</td>
+  <td><b>29.81</b></td>
+  <td>3.05</td>
+  <td>58.6</td>
+  <td>5</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd108', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/42628.html" class="data-link">Saqlain Mushtaq</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1995-2004</td>
+  <td>49</td>
+  <td>86</td>
+  <td>14070</td>
+  <td>6206</td>
+  <td>208</td>
+  <td>8/164</td>
+  <td>10/155</td>
+  <td><b>29.83</b></td>
+  <td>2.64</td>
+  <td>67.6</td>
+  <td>13</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd109', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/446101.html" class="data-link">ST Gabriel</a> (WI)</td>
+  <td class="left" nowrap="nowrap">2012-2019</td>
+  <td>43</td>
+  <td>74</td>
+  <td>6838</td>
+  <td>3849</td>
+  <td>129</td>
+  <td>8/62</td>
+  <td>13/121</td>
+  <td><b>29.83</b></td>
+  <td>3.37</td>
+  <td>53.0</td>
+  <td>5</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd110', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6472.html" class="data-link">AA Mallett</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1968-1980</td>
+  <td>38</td>
+  <td>71</td>
+  <td>9990</td>
+  <td>3940</td>
+  <td>132</td>
+  <td>8/59</td>
+  <td>10/144</td>
+  <td><b>29.84</b></td>
+  <td>2.36</td>
+  <td>75.6</td>
+  <td>6</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd111', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/10633.html" class="data-link">AR Caddick</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1993-2003</td>
+  <td>62</td>
+  <td>105</td>
+  <td>13558</td>
+  <td>6999</td>
+  <td>234</td>
+  <td>7/46</td>
+  <td>10/215</td>
+  <td><b>29.91</b></td>
+  <td>3.09</td>
+  <td>57.9</td>
+  <td>13</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd112', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/20431.html" class="data-link">GP Swann</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">2008-2013</td>
+  <td>60</td>
+  <td>109</td>
+  <td>15349</td>
+  <td>7642</td>
+  <td>255</td>
+  <td>6/65</td>
+  <td>10/132</td>
+  <td><b>29.96</b></td>
+  <td>2.98</td>
+  <td>60.1</td>
+  <td>17</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd113', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/232364.html" class="data-link">TG Southee</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">2008-2019</td>
+  <td>65</td>
+  <td>121</td>
+  <td>14510</td>
+  <td>7378</td>
+  <td>244</td>
+  <td>7/64</td>
+  <td>10/108</td>
+  <td><b>30.23</b></td>
+  <td>3.05</td>
+  <td>59.4</td>
+  <td>8</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd114', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/32130.html" class="data-link">PP Ojha</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">2009-2013</td>
+  <td>24</td>
+  <td>48</td>
+  <td>7633</td>
+  <td>3420</td>
+  <td>113</td>
+  <td>6/47</td>
+  <td>10/89</td>
+  <td><b>30.26</b></td>
+  <td>2.68</td>
+  <td>67.5</td>
+  <td>7</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd115', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/53196.html" class="data-link">AL Valentine</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1950-1962</td>
+  <td>36</td>
+  <td>63</td>
+  <td>12953</td>
+  <td>4215</td>
+  <td>139</td>
+  <td>8/104</td>
+  <td>11/204</td>
+  <td><b>30.32</b></td>
+  <td>1.95</td>
+  <td>93.1</td>
+  <td>8</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd116', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/7898.html" class="data-link">PM Siddle</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">2008-2019</td>
+  <td>65</td>
+  <td>121</td>
+  <td>13451</td>
+  <td>6525</td>
+  <td>215</td>
+  <td>6/54</td>
+  <td>9/104</td>
+  <td><b>30.34</b></td>
+  <td>2.91</td>
+  <td>62.5</td>
+  <td>8</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd117', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/32357.html" class="data-link">EAS Prasanna</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1962-1978</td>
+  <td>49</td>
+  <td>86</td>
+  <td>14353</td>
+  <td>5742</td>
+  <td>189</td>
+  <td>8/76</td>
+  <td>11/140</td>
+  <td><b>30.38</b></td>
+  <td>2.40</td>
+  <td>75.9</td>
+  <td>10</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd118', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/210283.html" class="data-link">ST Finn</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">2010-2016</td>
+  <td>36</td>
+  <td>66</td>
+  <td>6412</td>
+  <td>3800</td>
+  <td>125</td>
+  <td>6/79</td>
+  <td>9/187</td>
+  <td><b>30.40</b></td>
+  <td>3.55</td>
+  <td>51.2</td>
+  <td>5</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd119', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/290948.html" class="data-link">Mohammad Amir</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">2009-2019</td>
+  <td>36</td>
+  <td>67</td>
+  <td>7619</td>
+  <td>3627</td>
+  <td>119</td>
+  <td>6/44</td>
+  <td>7/64</td>
+  <td><b>30.47</b></td>
+  <td>2.85</td>
+  <td>64.0</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd120', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/34105.html" class="data-link">J Srinath</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1991-2002</td>
+  <td>67</td>
+  <td>121</td>
+  <td>15104</td>
+  <td>7196</td>
+  <td>236</td>
+  <td>8/86</td>
+  <td>13/132</td>
+  <td><b>30.49</b></td>
+  <td>2.85</td>
+  <td>64.0</td>
+  <td>10</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd121', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/14236.html" class="data-link">MJ Hoggard</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">2000-2008</td>
+  <td>67</td>
+  <td>122</td>
+  <td>13909</td>
+  <td>7564</td>
+  <td>248</td>
+  <td>7/61</td>
+  <td>12/205</td>
+  <td><b>30.50</b></td>
+  <td>3.26</td>
+  <td>56.0</td>
+  <td>7</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd122', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6272.html" class="data-link">GF Lawson</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1980-1989</td>
+  <td>46</td>
+  <td>78</td>
+  <td>11118</td>
+  <td>5501</td>
+  <td>180</td>
+  <td>8/112</td>
+  <td>11/134</td>
+  <td><b>30.56</b></td>
+  <td>2.96</td>
+  <td>61.7</td>
+  <td>11</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd123', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/28107.html" class="data-link">DR Doshi</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1979-1983</td>
+  <td>33</td>
+  <td>55</td>
+  <td>9322</td>
+  <td>3502</td>
+  <td>114</td>
+  <td>6/102</td>
+  <td>8/103</td>
+  <td><b>30.71</b></td>
+  <td>2.25</td>
+  <td>81.7</td>
+  <td>6</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd124', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6278.html" class="data-link">B Lee</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1999-2008</td>
+  <td>76</td>
+  <td>150</td>
+  <td>16531</td>
+  <td>9554</td>
+  <td>310</td>
+  <td>5/30</td>
+  <td>9/171</td>
+  <td><b>30.81</b></td>
+  <td>3.46</td>
+  <td>53.3</td>
+  <td>10</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd125', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/8513.html" class="data-link">DA Allen</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1960-1966</td>
+  <td>39</td>
+  <td>65</td>
+  <td>11297</td>
+  <td>3779</td>
+  <td>122</td>
+  <td>5/30</td>
+  <td>9/162</td>
+  <td><b>30.97</b></td>
+  <td>2.00</td>
+  <td>92.5</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd126', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/15385.html" class="data-link">R Illingworth</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1958-1973</td>
+  <td>61</td>
+  <td>100</td>
+  <td>11934</td>
+  <td>3807</td>
+  <td>122</td>
+  <td>6/29</td>
+  <td>7/29</td>
+  <td><b>31.20</b></td>
+  <td>1.91</td>
+  <td>97.8</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd127', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/56143.html" class="data-link">Shakib Al Hasan</a> (BDESH)</td>
+  <td class="left" nowrap="nowrap">2007-2018</td>
+  <td>55</td>
+  <td>93</td>
+  <td>12774</td>
+  <td>6415</td>
+  <td>205</td>
+  <td>7/36</td>
+  <td>10/124</td>
+  <td><b>31.29</b></td>
+  <td>3.01</td>
+  <td>62.3</td>
+  <td>18</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd128', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/37733.html" class="data-link">RC Motz</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">1961-1969</td>
+  <td>32</td>
+  <td>55</td>
+  <td>7034</td>
+  <td>3148</td>
+  <td>100</td>
+  <td>6/63</td>
+  <td>8/113</td>
+  <td><b>31.48</b></td>
+  <td>2.68</td>
+  <td>70.3</td>
+  <td>5</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd129', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/8449.html" class="data-link">B Yardley</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1978-1983</td>
+  <td>33</td>
+  <td>58</td>
+  <td>8909</td>
+  <td>3986</td>
+  <td>126</td>
+  <td>7/98</td>
+  <td>10/185</td>
+  <td><b>31.63</b></td>
+  <td>2.68</td>
+  <td>70.7</td>
+  <td>6</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd130', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/14054.html" class="data-link">SJ Harmison</a> (ENG/ICC)</td>
+  <td class="left" nowrap="nowrap">2002-2009</td>
+  <td>63</td>
+  <td>115</td>
+  <td>13375</td>
+  <td>7192</td>
+  <td>226</td>
+  <td>7/12</td>
+  <td>11/76</td>
+  <td><b>31.82</b></td>
+  <td>3.22</td>
+  <td>59.1</td>
+  <td>8</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd131', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/46569.html" class="data-link">A Nel</a> (SA)</td>
+  <td class="left" nowrap="nowrap">2001-2008</td>
+  <td>36</td>
+  <td>69</td>
+  <td>7630</td>
+  <td>3919</td>
+  <td>123</td>
+  <td>6/32</td>
+  <td>10/88</td>
+  <td><b>31.86</b></td>
+  <td>3.08</td>
+  <td>62.0</td>
+  <td>3</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd132', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/36603.html" class="data-link">EJ Chatfield</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">1975-1989</td>
+  <td>43</td>
+  <td>73</td>
+  <td>10360</td>
+  <td>3958</td>
+  <td>123</td>
+  <td>6/73</td>
+  <td>10/124</td>
+  <td><b>32.17</b></td>
+  <td>2.29</td>
+  <td>84.2</td>
+  <td>3</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd133', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/13463.html" class="data-link">AW Greig</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1972-1977</td>
+  <td>58</td>
+  <td>93</td>
+  <td>9802</td>
+  <td>4541</td>
+  <td>141</td>
+  <td>8/86</td>
+  <td>13/156</td>
+  <td><b>32.20</b></td>
+  <td>2.77</td>
+  <td>69.5</td>
+  <td>6</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd134', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/21548.html" class="data-link">FJ Titmus</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1955-1975</td>
+  <td>53</td>
+  <td>90</td>
+  <td>15118</td>
+  <td>4931</td>
+  <td>153</td>
+  <td>7/79</td>
+  <td>9/162</td>
+  <td><b>32.22</b></td>
+  <td>1.95</td>
+  <td>98.8</td>
+  <td>7</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd135', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/32685.html" class="data-link">IK Pathan</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">2003-2008</td>
+  <td>29</td>
+  <td>54</td>
+  <td>5884</td>
+  <td>3226</td>
+  <td>100</td>
+  <td>7/59</td>
+  <td>12/126</td>
+  <td><b>32.26</b></td>
+  <td>3.28</td>
+  <td>58.8</td>
+  <td>7</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd136', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/311158.html" class="data-link">BA Stokes</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">2013-2019</td>
+  <td>53</td>
+  <td>90</td>
+  <td>7436</td>
+  <td>4131</td>
+  <td>128</td>
+  <td>6/22</td>
+  <td>8/161</td>
+  <td><b>32.27</b></td>
+  <td>3.33</td>
+  <td>58.0</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd137', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/30939.html" class="data-link">MH Mankad</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1946-1959</td>
+  <td>44</td>
+  <td>70</td>
+  <td>14686</td>
+  <td>5236</td>
+  <td>162</td>
+  <td>8/52</td>
+  <td>13/131</td>
+  <td><b>32.32</b></td>
+  <td>2.13</td>
+  <td>90.6</td>
+  <td>8</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd138', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/29264.html" class="data-link">Harbhajan Singh</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1998-2015</td>
+  <td>103</td>
+  <td>190</td>
+  <td>28580</td>
+  <td>13537</td>
+  <td>417</td>
+  <td>8/84</td>
+  <td>15/217</td>
+  <td><b>32.46</b></td>
+  <td>2.84</td>
+  <td>68.5</td>
+  <td>25</td>
+  <td>5</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd139', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/272279.html" class="data-link">NM Lyon</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">2011-2019</td>
+  <td>87</td>
+  <td>165</td>
+  <td>22073</td>
+  <td>11138</td>
+  <td>343</td>
+  <td>8/50</td>
+  <td>13/154</td>
+  <td><b>32.47</b></td>
+  <td>3.02</td>
+  <td>64.3</td>
+  <td>14</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd140', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/45789.html" class="data-link">JH Kallis</a> (ICC/SA)</td>
+  <td class="left" nowrap="nowrap">1995-2013</td>
+  <td>166</td>
+  <td>272</td>
+  <td>20232</td>
+  <td>9535</td>
+  <td>292</td>
+  <td>6/54</td>
+  <td>9/92</td>
+  <td><b>32.65</b></td>
+  <td>2.82</td>
+  <td>69.2</td>
+  <td>5</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd141', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/42630.html" class="data-link">Sarfraz Nawaz</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1969-1984</td>
+  <td>55</td>
+  <td>95</td>
+  <td>13951</td>
+  <td>5798</td>
+  <td>177</td>
+  <td>9/86</td>
+  <td>11/125</td>
+  <td><b>32.75</b></td>
+  <td>2.49</td>
+  <td>78.8</td>
+  <td>4</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd142', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/12856.html" class="data-link">A Flintoff</a> (ENG/ICC)</td>
+  <td class="left" nowrap="nowrap">1998-2009</td>
+  <td>79</td>
+  <td>137</td>
+  <td>14951</td>
+  <td>7410</td>
+  <td>226</td>
+  <td>5/58</td>
+  <td>8/156</td>
+  <td><b>32.78</b></td>
+  <td>2.97</td>
+  <td>66.1</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd143', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/38973.html" class="data-link">Abdul Qadir</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1977-1990</td>
+  <td>67</td>
+  <td>111</td>
+  <td>17126</td>
+  <td>7742</td>
+  <td>236</td>
+  <td>9/56</td>
+  <td>13/101</td>
+  <td><b>32.80</b></td>
+  <td>2.71</td>
+  <td>72.5</td>
+  <td>15</td>
+  <td>5</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd144', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/43919.html" class="data-link">PR Adams</a> (SA)</td>
+  <td class="left" nowrap="nowrap">1995-2004</td>
+  <td>45</td>
+  <td>76</td>
+  <td>8850</td>
+  <td>4405</td>
+  <td>134</td>
+  <td>7/128</td>
+  <td>10/106</td>
+  <td><b>32.87</b></td>
+  <td>2.98</td>
+  <td>66.0</td>
+  <td>4</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd145', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/6126.html" class="data-link">MS Kasprowicz</a> (AUS)</td>
+  <td class="left" nowrap="nowrap">1996-2006</td>
+  <td>38</td>
+  <td>73</td>
+  <td>7140</td>
+  <td>3716</td>
+  <td>113</td>
+  <td>7/36</td>
+  <td>8/92</td>
+  <td><b>32.88</b></td>
+  <td>3.12</td>
+  <td>63.1</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd146', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/36595.html" class="data-link">BL Cairns</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">1974-1985</td>
+  <td>43</td>
+  <td>72</td>
+  <td>10628</td>
+  <td>4280</td>
+  <td>130</td>
+  <td>7/74</td>
+  <td>10/144</td>
+  <td><b>32.92</b></td>
+  <td>2.41</td>
+  <td>81.7</td>
+  <td>6</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd147', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/30102.html" class="data-link">Z Khan</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">2000-2014</td>
+  <td>92</td>
+  <td>165</td>
+  <td>18785</td>
+  <td>10247</td>
+  <td>311</td>
+  <td>7/87</td>
+  <td>10/149</td>
+  <td><b>32.94</b></td>
+  <td>3.27</td>
+  <td>60.4</td>
+  <td>11</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd148', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/41316.html" class="data-link">Mushtaq Ahmed</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1990-2003</td>
+  <td>52</td>
+  <td>89</td>
+  <td>12532</td>
+  <td>6100</td>
+  <td>185</td>
+  <td>7/56</td>
+  <td>10/106</td>
+  <td><b>32.97</b></td>
+  <td>2.92</td>
+  <td>67.7</td>
+  <td>10</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd149', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/49758.html" class="data-link">SL Malinga</a> (SL)</td>
+  <td class="left" nowrap="nowrap">2004-2010</td>
+  <td>30</td>
+  <td>59</td>
+  <td>5209</td>
+  <td>3349</td>
+  <td>101</td>
+  <td>5/50</td>
+  <td>9/210</td>
+  <td><b>33.15</b></td>
+  <td>3.85</td>
+  <td>51.5</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd150', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/52061.html" class="data-link">VA Holder</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1969-1979</td>
+  <td>40</td>
+  <td>72</td>
+  <td>9095</td>
+  <td>3627</td>
+  <td>109</td>
+  <td>6/28</td>
+  <td>8/223</td>
+  <td><b>33.27</b></td>
+  <td>2.39</td>
+  <td>83.4</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd151', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/376116.html" class="data-link">UT Yadav</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">2011-2018</td>
+  <td>41</td>
+  <td>80</td>
+  <td>6659</td>
+  <td>3983</td>
+  <td>119</td>
+  <td>6/88</td>
+  <td>10/133</td>
+  <td><b>33.47</b></td>
+  <td>3.58</td>
+  <td>55.9</td>
+  <td>2</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd152', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/28813.html" class="data-link">KD Ghavri</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1974-1981</td>
+  <td>39</td>
+  <td>69</td>
+  <td>7036</td>
+  <td>3656</td>
+  <td>109</td>
+  <td>5/33</td>
+  <td>7/120</td>
+  <td><b>33.54</b></td>
+  <td>3.11</td>
+  <td>64.5</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd153', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/11865.html" class="data-link">PAJ DeFreitas</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1986-1995</td>
+  <td>44</td>
+  <td>76</td>
+  <td>9838</td>
+  <td>4700</td>
+  <td>140</td>
+  <td>7/70</td>
+  <td>9/165</td>
+  <td><b>33.57</b></td>
+  <td>2.86</td>
+  <td>70.2</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd154', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/51651.html" class="data-link">M Dillon</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1997-2004</td>
+  <td>38</td>
+  <td>66</td>
+  <td>8704</td>
+  <td>4398</td>
+  <td>131</td>
+  <td>5/71</td>
+  <td>8/123</td>
+  <td><b>33.57</b></td>
+  <td>3.03</td>
+  <td>66.4</td>
+  <td>2</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd155', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/37700.html" class="data-link">CS Martin</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">2000-2013</td>
+  <td>71</td>
+  <td>126</td>
+  <td>14026</td>
+  <td>7878</td>
+  <td>233</td>
+  <td>6/26</td>
+  <td>11/180</td>
+  <td><b>33.81</b></td>
+  <td>3.37</td>
+  <td>60.1</td>
+  <td>10</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd156', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/49920.html" class="data-link">MDK Perera</a> (SL)</td>
+  <td class="left" nowrap="nowrap">2014-2019</td>
+  <td>38</td>
+  <td>70</td>
+  <td>9712</td>
+  <td>5196</td>
+  <td>153</td>
+  <td>6/32</td>
+  <td>10/78</td>
+  <td><b>33.96</b></td>
+  <td>3.21</td>
+  <td>63.4</td>
+  <td>8</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd157', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/52946.html" class="data-link">GS Sobers</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1954-1974</td>
+  <td>93</td>
+  <td>159</td>
+  <td>21599</td>
+  <td>7999</td>
+  <td>235</td>
+  <td>6/73</td>
+  <td>8/80</td>
+  <td><b>34.03</b></td>
+  <td>2.22</td>
+  <td>91.9</td>
+  <td>6</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd158', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/43524.html" class="data-link">Umar Gul</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">2003-2013</td>
+  <td>47</td>
+  <td>90</td>
+  <td>9599</td>
+  <td>5553</td>
+  <td>163</td>
+  <td>6/135</td>
+  <td>9/164</td>
+  <td><b>34.06</b></td>
+  <td>3.47</td>
+  <td>58.8</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd159', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/12486.html" class="data-link">PH Edmonds</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1975-1987</td>
+  <td>51</td>
+  <td>84</td>
+  <td>12028</td>
+  <td>4273</td>
+  <td>125</td>
+  <td>7/66</td>
+  <td>7/66</td>
+  <td><b>34.18</b></td>
+  <td>2.13</td>
+  <td>96.2</td>
+  <td>2</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd160', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/236779.html" class="data-link">I Sharma</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">2007-2018</td>
+  <td>90</td>
+  <td>161</td>
+  <td>17196</td>
+  <td>9155</td>
+  <td>267</td>
+  <td>7/74</td>
+  <td>10/108</td>
+  <td><b>34.28</b></td>
+  <td>3.19</td>
+  <td>64.4</td>
+  <td>8</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd161', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/38710.html" class="data-link">DL Vettori</a> (ICC/NZ)</td>
+  <td class="left" nowrap="nowrap">1997-2014</td>
+  <td>113</td>
+  <td>187</td>
+  <td>28814</td>
+  <td>12441</td>
+  <td>362</td>
+  <td>7/87</td>
+  <td>12/149</td>
+  <td><b>34.36</b></td>
+  <td>2.59</td>
+  <td>79.5</td>
+  <td>20</td>
+  <td>3</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd162', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/53191.html" class="data-link">JE Taylor</a> (WI)</td>
+  <td class="left" nowrap="nowrap">2003-2016</td>
+  <td>46</td>
+  <td>78</td>
+  <td>7757</td>
+  <td>4480</td>
+  <td>130</td>
+  <td>6/47</td>
+  <td>9/95</td>
+  <td><b>34.46</b></td>
+  <td>3.46</td>
+  <td>59.6</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd163', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/51479.html" class="data-link">PT Collins</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1999-2006</td>
+  <td>32</td>
+  <td>61</td>
+  <td>6964</td>
+  <td>3671</td>
+  <td>106</td>
+  <td>6/53</td>
+  <td>9/117</td>
+  <td><b>34.63</b></td>
+  <td>3.16</td>
+  <td>65.6</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd164', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/37730.html" class="data-link">DK Morrison</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">1987-1997</td>
+  <td>48</td>
+  <td>76</td>
+  <td>10064</td>
+  <td>5549</td>
+  <td>160</td>
+  <td>7/89</td>
+  <td>8/83</td>
+  <td><b>34.68</b></td>
+  <td>3.30</td>
+  <td>62.9</td>
+  <td>10</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd165', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/18655.html" class="data-link">MS Panesar</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">2006-2013</td>
+  <td>50</td>
+  <td>85</td>
+  <td>12475</td>
+  <td>5797</td>
+  <td>167</td>
+  <td>6/37</td>
+  <td>11/210</td>
+  <td><b>34.71</b></td>
+  <td>2.78</td>
+  <td>74.7</td>
+  <td>12</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd166', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/40043.html" class="data-link">Danish Kaneria</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">2000-2010</td>
+  <td>61</td>
+  <td>112</td>
+  <td>17697</td>
+  <td>9082</td>
+  <td>261</td>
+  <td>7/77</td>
+  <td>12/94</td>
+  <td><b>34.79</b></td>
+  <td>3.07</td>
+  <td>67.8</td>
+  <td>15</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd167', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/36064.html" class="data-link">NS Yadav</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1979-1987</td>
+  <td>35</td>
+  <td>61</td>
+  <td>8360</td>
+  <td>3580</td>
+  <td>102</td>
+  <td>5/76</td>
+  <td>8/118</td>
+  <td><b>35.09</b></td>
+  <td>2.56</td>
+  <td>81.9</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd168', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/36306.html" class="data-link">JG Bracewell</a> (NZ)</td>
+  <td class="left" nowrap="nowrap">1980-1990</td>
+  <td>41</td>
+  <td>67</td>
+  <td>8403</td>
+  <td>3653</td>
+  <td>102</td>
+  <td>6/32</td>
+  <td>10/106</td>
+  <td><b>35.81</b></td>
+  <td>2.60</td>
+  <td>82.3</td>
+  <td>4</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd169', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/40567.html" class="data-link">Intikhab Alam</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1959-1977</td>
+  <td>47</td>
+  <td>78</td>
+  <td>10474</td>
+  <td>4494</td>
+  <td>125</td>
+  <td>7/52</td>
+  <td>11/130</td>
+  <td><b>35.95</b></td>
+  <td>2.57</td>
+  <td>83.7</td>
+  <td>5</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd170', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/35656.html" class="data-link">S Venkataraghavan</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1965-1983</td>
+  <td>57</td>
+  <td>96</td>
+  <td>14877</td>
+  <td>5634</td>
+  <td>156</td>
+  <td>8/72</td>
+  <td>12/152</td>
+  <td><b>36.11</b></td>
+  <td>2.27</td>
+  <td>95.3</td>
+  <td>3</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd171', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/8917.html" class="data-link">MM Ali</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">2014-2019</td>
+  <td>60</td>
+  <td>104</td>
+  <td>10798</td>
+  <td>6494</td>
+  <td>179</td>
+  <td>6/53</td>
+  <td>10/112</td>
+  <td><b>36.27</b></td>
+  <td>3.60</td>
+  <td>60.3</td>
+  <td>5</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd172', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/39836.html" class="data-link">Abdul Razzaq</a> (PAK)</td>
+  <td class="left" nowrap="nowrap">1999-2006</td>
+  <td>46</td>
+  <td>76</td>
+  <td>7008</td>
+  <td>3694</td>
+  <td>100</td>
+  <td>5/35</td>
+  <td>7/155</td>
+  <td><b>36.94</b></td>
+  <td>3.16</td>
+  <td>70.0</td>
+  <td>1</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd173', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/16885.html" class="data-link">DE Malcolm</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1989-1997</td>
+  <td>40</td>
+  <td>72</td>
+  <td>8480</td>
+  <td>4748</td>
+  <td>128</td>
+  <td>9/57</td>
+  <td>10/137</td>
+  <td><b>37.09</b></td>
+  <td>3.35</td>
+  <td>66.2</td>
+  <td>5</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd174', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/341593.html" class="data-link">D Bishoo</a> (WI)</td>
+  <td class="left" nowrap="nowrap">2011-2018</td>
+  <td>36</td>
+  <td>59</td>
+  <td>8067</td>
+  <td>4350</td>
+  <td>117</td>
+  <td>8/49</td>
+  <td>10/174</td>
+  <td><b>37.17</b></td>
+  <td>3.23</td>
+  <td>68.9</td>
+  <td>4</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd175', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/21611.html" class="data-link">PCR Tufnell</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1990-2001</td>
+  <td>42</td>
+  <td>70</td>
+  <td>11288</td>
+  <td>4560</td>
+  <td>121</td>
+  <td>7/47</td>
+  <td>11/93</td>
+  <td><b>37.68</b></td>
+  <td>2.42</td>
+  <td>93.2</td>
+  <td>5</td>
+  <td>2</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd176', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/48835.html" class="data-link">CRD Fernando</a> (SL)</td>
+  <td class="left" nowrap="nowrap">2000-2012</td>
+  <td>40</td>
+  <td>68</td>
+  <td>6181</td>
+  <td>3784</td>
+  <td>100</td>
+  <td>5/42</td>
+  <td>7/95</td>
+  <td><b>37.84</b></td>
+  <td>3.67</td>
+  <td>61.8</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd177', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/51782.html" class="data-link">FH Edwards</a> (WI)</td>
+  <td class="left" nowrap="nowrap">2003-2012</td>
+  <td>55</td>
+  <td>97</td>
+  <td>9602</td>
+  <td>6249</td>
+  <td>165</td>
+  <td>7/87</td>
+  <td>8/132</td>
+  <td><b>37.87</b></td>
+  <td>3.90</td>
+  <td>58.1</td>
+  <td>12</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd178', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/45568.html" class="data-link">PL Harris</a> (SA)</td>
+  <td class="left" nowrap="nowrap">2007-2011</td>
+  <td>37</td>
+  <td>63</td>
+  <td>8809</td>
+  <td>3901</td>
+  <td>103</td>
+  <td>6/127</td>
+  <td>9/161</td>
+  <td><b>37.87</b></td>
+  <td>2.65</td>
+  <td>85.5</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd179', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/12514.html" class="data-link">JE Emburey</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1978-1995</td>
+  <td>64</td>
+  <td>103</td>
+  <td>15391</td>
+  <td>5646</td>
+  <td>147</td>
+  <td>7/78</td>
+  <td>7/105</td>
+  <td><b>38.40</b></td>
+  <td>2.20</td>
+  <td>104.7</td>
+  <td>6</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd180', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/22536.html" class="data-link">DVP Wright</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1938-1951</td>
+  <td>34</td>
+  <td>59</td>
+  <td>8135</td>
+  <td>4224</td>
+  <td>108</td>
+  <td>7/105</td>
+  <td>10/175</td>
+  <td><b>39.11</b></td>
+  <td>3.11</td>
+  <td>75.3</td>
+  <td>6</td>
+  <td>1</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd181', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/49619.html" class="data-link">RAS Lakmal</a> (SL)</td>
+  <td class="left" nowrap="nowrap">2010-2019</td>
+  <td>57</td>
+  <td>101</td>
+  <td>10329</td>
+  <td>5402</td>
+  <td>137</td>
+  <td>5/54</td>
+  <td>7/119</td>
+  <td><b>39.43</b></td>
+  <td>3.13</td>
+  <td>75.3</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd182', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/13368.html" class="data-link">AF Giles</a> (ENG)</td>
+  <td class="left" nowrap="nowrap">1998-2006</td>
+  <td>54</td>
+  <td>88</td>
+  <td>12180</td>
+  <td>5806</td>
+  <td>143</td>
+  <td>5/57</td>
+  <td>9/122</td>
+  <td><b>40.60</b></td>
+  <td>2.86</td>
+  <td>85.1</td>
+  <td>5</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd183', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/55973.html" class="data-link">Mohammad Rafique</a> (BDESH)</td>
+  <td class="left" nowrap="nowrap">2000-2008</td>
+  <td>33</td>
+  <td>48</td>
+  <td>8744</td>
+  <td>4076</td>
+  <td>100</td>
+  <td>6/77</td>
+  <td>9/160</td>
+  <td><b>40.76</b></td>
+  <td>2.79</td>
+  <td>87.4</td>
+  <td>7</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd184', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/33975.html" class="data-link">RJ Shastri</a> (INDIA)</td>
+  <td class="left" nowrap="nowrap">1981-1992</td>
+  <td>80</td>
+  <td>125</td>
+  <td>15751</td>
+  <td>6185</td>
+  <td>151</td>
+  <td>5/75</td>
+  <td>8/179</td>
+  <td><b>40.96</b></td>
+  <td>2.35</td>
+  <td>104.3</td>
+  <td>2</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd185', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/44091.html" class="data-link">N Boje</a> (SA)</td>
+  <td class="left" nowrap="nowrap">2000-2006</td>
+  <td>43</td>
+  <td>72</td>
+  <td>8620</td>
+  <td>4265</td>
+  <td>100</td>
+  <td>5/62</td>
+  <td>8/134</td>
+  <td><b>42.65</b></td>
+  <td>2.96</td>
+  <td>86.2</td>
+  <td>3</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseover="menuLayers.show('engine-dd186', event); window.status='investigate this query'; return true" onmouseout="menuLayers.hide()"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+ <tr class="data1">
+  <td class="left" nowrap="nowrap"><a href="/ci/content/player/52066.html" class="data-link">CL Hooper</a> (WI)</td>
+  <td class="left" nowrap="nowrap">1987-2002</td>
+  <td>102</td>
+  <td>145</td>
+  <td>13794</td>
+  <td>5635</td>
+  <td>114</td>
+  <td>5/26</td>
+  <td>7/178</td>
+  <td><b>49.42</b></td>
+  <td>2.45</td>
+  <td>121.0</td>
+  <td>4</td>
+  <td>0</td>
+  <td class="padDD"><a href="javascript:void(0)" onmouseout="menuLayers.hide()" onmouseover="menuLayers.show('engine-dd187', event); window.status='investigate this query'; return true"><img src="http://i.imgci.com/espncricinfo/guruInvestigate.gif" width="11" height="11" border="0" alt="investigate this query"></a></td>
+ </tr>
+</tbody>
+</table>

@@ -1,0 +1,55 @@
+,Runs,BF,Pos,Dismissal,Opposition,Dismissed,Ground,Start Date,Date,DisType,Tally,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
+0,70,0,5,1,v England,1,Kingston,17 Feb 1960,1960,caught,70,70.0,,,,,,,,SM Nurse
+1,11,0,5,2,v England,1,Kingston,17 Feb 1960,1960,bowled,81,40.5,,,,,,,,SM Nurse
+2,70,259,3,3,v Australia,1,Melbourne,30 Dec 1960,1960,caught,151,50.33,,,,,,,,SM Nurse
+3,3,17,3,4,v Australia,1,Melbourne,30 Dec 1960,1960,run out,154,38.5,,,,,,,,SM Nurse
+4,43,118,6,5,v Australia,1,Sydney,13 Jan 1961,1961,caught,197,39.4,,,,,,,,SM Nurse
+5,11,57,6,6,v Australia,1,Sydney,13 Jan 1961,1961,caught,208,34.67,,,,,,,,SM Nurse
+6,49,0,6,7,v Australia,1,Adelaide,27 Jan 1961,1961,caught,257,36.71,,,,,,,,SM Nurse
+7,5,0,6,8,v Australia,1,Adelaide,27 Jan 1961,1961,caught,262,32.75,,,,,,,,SM Nurse
+8,1,0,4,9,v India,1,Port of Spain,4 Apr 1962,1962,caught,263,29.22,,,,,,,,SM Nurse
+9,46,0,4,9,v India,0,Port of Spain,4 Apr 1962,1962,not out,309,34.33,34.333333333333336,,,,,,,SM Nurse
+10,15,0,2,10,v Australia,1,Kingston,3 Mar 1965,1965,caught,324,32.4,28.222222222222218,,,,,,,SM Nurse
+11,17,0,2,11,v Australia,1,Kingston,3 Mar 1965,1965,run out,341,31.0,28.88888888888889,,,,,,,SM Nurse
+12,42,0,5,12,v Australia,1,Georgetown,14 Apr 1965,1965,caught,383,31.92,25.777777777777782,,,,,,,SM Nurse
+13,6,0,5,13,v Australia,1,Georgetown,14 Apr 1965,1965,stumped,389,29.92,26.11111111111111,,,,,,,SM Nurse
+14,201,0,5,14,v Australia,1,Bridgetown,5 May 1965,1965,caught,590,42.14,43.66666666666666,,,,,,,SM Nurse
+15,0,0,6,15,v Australia,1,Bridgetown,5 May 1965,1965,lbw,590,39.33,42.444444444444436,,,,,,,SM Nurse
+16,9,0,5,16,v Australia,1,Port of Spain,14 May 1965,1965,bowled,599,37.44,38.0,,,,,,,SM Nurse
+17,1,0,5,17,v Australia,1,Port of Spain,14 May 1965,1965,lbw,600,35.29,37.555555555555564,,,,,,,SM Nurse
+18,49,72,5,18,v England,1,Manchester,2 Jun 1966,1966,bowled,649,36.06,42.888888888888886,,,,,,,SM Nurse
+19,64,130,5,19,v England,1,Lord's,16 Jun 1966,1966,bowled,713,37.53,40.4,37.526315789473685,,,,,,SM Nurse
+20,35,39,5,20,v England,1,Lord's,16 Jun 1966,1966,caught,748,37.4,42.4,35.68421052631579,,,,,,SM Nurse
+21,93,142,5,21,v England,1,Nottingham,30 Jun 1966,1966,caught,841,40.05,50.0,40.0,,,,,,SM Nurse
+22,53,91,5,22,v England,1,Nottingham,30 Jun 1966,1966,lbw,894,40.64,51.1,39.10526315789474,,,,,,SM Nurse
+23,137,323,5,23,v England,1,Leeds,4 Aug 1966,1966,caught,1031,44.83,64.2,46.157894736842096,,,,,,SM Nurse
+24,0,4,5,24,v England,1,The Oval,18 Aug 1966,1966,caught,1031,42.96,44.1,43.89473684210525,,,,,,SM Nurse
+25,70,121,5,25,v England,1,The Oval,18 Aug 1966,1966,caught,1101,44.04,51.1,47.0,,,,,,SM Nurse
+26,56,0,6,26,v India,1,Kolkata,31 Dec 1966,1966,caught,1157,44.5,55.8,47.368421052631575,,,,,,SM Nurse
+27,26,0,6,27,v India,1,Chennai,13 Jan 1967,1967,bowled,1183,43.81,58.3,48.47368421052632,,,,,,SM Nurse
+28,0,0,6,28,v India,1,Chennai,13 Jan 1967,1967,lbw,1183,42.25,53.4,48.42105263157895,,,,,,SM Nurse
+29,41,0,1,29,v England,1,Port of Spain,19 Jan 1968,1968,caught,1224,42.21,51.1,45.75,42.206896551724135,,,,,SM Nurse
+30,42,0,1,30,v England,1,Port of Spain,19 Jan 1968,1968,bowled,1266,42.2,51.8,47.1,41.24137931034483,,,,,SM Nurse
+31,22,0,4,31,v England,1,Kingston,8 Feb 1968,1968,bowled,1288,41.55,44.7,47.35,41.620689655172406,,,,,SM Nurse
+32,73,0,2,32,v England,1,Kingston,8 Feb 1968,1968,bowled,1361,42.53,46.7,48.9,41.72413793103448,,,,,SM Nurse
+33,26,0,1,33,v England,1,Bridgetown,29 Feb 1968,1968,caught,1387,42.03,35.6,49.9,42.51724137931035,,,,,SM Nurse
+34,19,0,1,34,v England,1,Bridgetown,29 Feb 1968,1968,caught,1406,41.35,37.5,40.8,41.68965517241379,,,,,SM Nurse
+35,136,0,3,35,v England,1,Port of Spain,14 Mar 1968,1968,caught,1542,44.06,44.1,47.6,46.0,,,,,SM Nurse
+36,9,0,3,36,v England,1,Port of Spain,14 Mar 1968,1968,run out,1551,43.08,39.4,47.6,44.620689655172406,,,,,SM Nurse
+37,17,35,1,37,v England,1,Georgetown,28 Mar 1968,1968,caught,1568,42.38,38.5,48.4,45.03448275862069,,,,,SM Nurse
+38,49,54,1,38,v England,1,Georgetown,28 Mar 1968,1968,lbw,1617,42.55,43.4,48.4,46.68965517241379,,,,,SM Nurse
+39,25,0,4,39,v Australia,1,Brisbane,6 Dec 1968,1968,caught,1642,42.1,41.8,46.45,44.43333333333333,42.1025641025641,,,,SM Nurse
+40,16,0,2,40,v Australia,1,Brisbane,6 Dec 1968,1968,caught,1658,41.45,39.2,45.5,44.46666666666667,40.717948717948715,,,,SM Nurse
+41,22,30,4,41,v Australia,1,Melbourne,26 Dec 1968,1968,caught,1680,40.98,39.2,41.95,44.63333333333333,41.0,,,,SM Nurse
+42,74,192,5,42,v Australia,1,Melbourne,26 Dec 1968,1968,caught,1754,41.76,39.3,43.0,45.7,41.1025641025641,,,,SM Nurse
+43,3,19,5,43,v Australia,1,Sydney,3 Jan 1969,1969,caught,1757,40.86,37.0,36.3,45.6,41.1025641025641,,,,SM Nurse
+44,17,35,5,44,v Australia,1,Sydney,3 Jan 1969,1969,caught,1774,40.32,36.8,37.15,39.46666666666667,40.43589743589744,,,,SM Nurse
+45,5,0,5,45,v Australia,1,Adelaide,24 Jan 1969,1969,caught,1779,39.53,23.7,33.9,39.63333333333333,40.282051282051285,,,,SM Nurse
+46,40,0,6,46,v Australia,1,Adelaide,24 Jan 1969,1969,lbw,1819,39.54,26.8,33.1,40.66666666666666,40.05128205128205,,,,SM Nurse
+47,9,16,7,47,v Australia,1,Sydney,14 Feb 1969,1969,caught,1828,38.89,26.0,32.25,40.93333333333333,40.153846153846146,,,,SM Nurse
+48,137,204,7,48,v Australia,1,Sydney,14 Feb 1969,1969,bowled,1965,40.94,34.8,39.1,43.86666666666667,43.641025641025635,,,,SM Nurse
+49,95,0,3,49,v New Zealand,1,Auckland,27 Feb 1969,1969,caught,2060,42.04,41.8,41.8,44.9,43.775,42.04081632653061,,,SM Nurse
+50,168,0,3,50,v New Zealand,1,Auckland,27 Feb 1969,1969,caught,2228,44.56,57.0,48.1,49.33333333333334,47.6,44.04081632653061,,,SM Nurse
+51,21,0,3,51,v New Zealand,1,Wellington,7 Mar 1969,1969,bowled,2249,44.1,56.9,48.05,46.93333333333333,47.7,44.24489795918368,,,SM Nurse
+52,16,0,3,52,v New Zealand,1,Wellington,7 Mar 1969,1969,caught,2265,43.56,51.1,45.2,45.7,47.05,43.14285714285715,,,SM Nurse
+53,258,0,3,53,v New Zealand,1,Christchurch,13 Mar 1969,1969,stumped,2523,47.6,76.6,56.8,49.73333333333333,53.35,48.3469387755102,,,SM Nurse
