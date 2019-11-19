@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import pygal as pyg
 
+
 class Batsman:
     """Gather and format data batsman data"""
     def __init__(self, name, player_id, match):
@@ -12,11 +13,11 @@ class Batsman:
         self.player_id = player_id
         self.match = match
 
-    def download_df(self, create=False):
+    def download_df(self):
         """fetch full innings table from players batting summary page"""
         if self.match == 'odi':
             df = pd.read_html(f'http://stats.espncricinfo.com/ci/engine/player/{self.player_id}.html?class=2;template=results;type=batting;view=innings')
-        if self.match == 'test':
+        else:
             df = pd.read_html(f'http://stats.espncricinfo.com/ci/engine/player/{self.player_id}.html?class=1;template=results;type=batting;view=innings')
         df = df[3]
         df.to_pickle(f'data/batting/{self.match}/original/{self.name}.pkl')            
@@ -34,11 +35,11 @@ class Batsman:
     def _runs_per_inns_df(self, df):
         """edit the dataframe to display runs per inning, BF, dismissal status"""
         df['DisType'] = df['Dismissal']
-        df = df.replace({'Runs':['absent', '-', 'DNB', 'TDNB', 'sub']}, np.NaN)
-        df = df.replace({'Dismissal':['lbw', 'caught', 'run out', 'bowled',
-                                      'stumped', 'hit wicket', 'obstruct field',
-                                      'handled ball', 'retired out']}, 1)
-        df = df.replace({'Dismissal':['not out', 'retired notout']}, 0)
+        df = df.replace({'Runs': ['absent', '-', 'DNB', 'TDNB', 'sub']}, np.NaN)
+        df = df.replace({'Dismissal': ['lbw', 'caught', 'run out', 'bowled',
+                                       'stumped', 'hit wicket', 'obstruct field',
+                                       'handled ball', 'retired out']}, 1)
+        df = df.replace({'Dismissal': ['not out', 'retired notout']}, 0)
         df = df.replace({'BF': ['-']}, 0)
         df.dropna(inplace=True)
         df = df.reset_index()

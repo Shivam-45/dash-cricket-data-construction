@@ -8,12 +8,16 @@ import requests
 
 
 def get_html(style, discipline):
-    # top 200 test run scorers with average > 35
-    if style == 'test':
-        html = requests.get('http://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;orderby=runs;qualmin1=35;qualval1=batting_average;size=200;template=results;type=batting').text
     # top 100 odi run scorers with average > 30
     if style == 'odi':
-        html = requests.get('http://stats.espncricinfo.com/ci/engine/stats/index.html?class=2;filter=advanced;orderby=runs;qualmin1=30;qualval1=batting_average;size=100;template=results;type=batting').text
+        html = requests.get(
+            'http://stats.espncricinfo.com/ci/engine/stats/index.html?class=2;filter=advanced;orderby=runs;qualmin1=30;qualval1=batting_average;size=100;template=results;type=batting'
+        ).text
+    # top 200 test run scorers with average > 35
+    else:
+        html = requests.get(
+            'http://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;orderby=runs;qualmin1=35;qualval1=batting_average;size=200;template=results;type=batting'
+        ).text
     with open(f'data/{discipline}/{style}/html.txt', 'w') as file:
         file.write(html)
 
