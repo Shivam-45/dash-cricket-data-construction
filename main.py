@@ -1,4 +1,4 @@
-"""Run through pipeline to create csv's needed for cricket dashboard"""
+"""Create csv's needed for cricket dashboard"""
 
 import pandas as pd
 import json
@@ -9,13 +9,8 @@ from survivalFunctions import make_tables
 from hazardkde import kernel_density_df
 
 
-pd.options.mode.chained_assignment = None
-pd.set_option('display.max_rows', 250)
-pd.set_option('display.max_columns', 12)
-pd.set_option('display.width', 140)
-
-
 def rolling_df(download=False):
+    """create csv's with all average/opposition/dismissal data"""
     with open(f'data/{d}/{s}/ids_names.json') as file:
         i_n = json.load(file)
     master_df = pd.DataFrame(columns=['Runs', 'BF', 'Pos', 'Dismissal', 'Dismissed', 'Opposition', 'Ground',
@@ -31,7 +26,7 @@ def rolling_df(download=False):
     master_df.to_csv(f'data/batting/test/rolling/rollingMaster.csv')
 
 def survival_df():
-    """run after using the r package to create KM files"""
+    """edit survival csv's"""
     master_df = pd.DataFrame(columns=['time', 'survival', 'lower','upper'])
     for n in i_n.values():
         df = pd.read_csv(f'data/batting/test/KM/{n}.csv')
@@ -43,16 +38,17 @@ def survival_df():
         df = df[['time', 'survival', 'lower', 'upper', 'Name']]
         master_df = master_df.append(df)
     master_df.to_csv(f'data/batting/test/KM/kmMaster.csv')
-    df = pd.read_csv(f'data/batting/test/KM/kmOverall.csv')
+    df = pd.read_csv(f'data/batting/test/KM/master.csv')
     for row in range(len(df)):
         match_regex = re.compile(r'(\d*),')
         df['time interval'][row] = match_regex.findall(df['time interval'][row])[0]
     df.rename(columns={'time interval':'time', 'lower 95% CL':'lower', 'upper 95% CL':'upper'}, inplace=True)
     df = df[['time', 'survival', 'lower', 'upper']]
-    df.to_csv(f'data/batting/test/KM/overall.csv')
+    df.to_csv(f'data/batting/test/KM/kmOverall.csv')
 
 
 def hazard_df():
+    """create csv's with hazard data"""
     master_df = pd.DataFrame(columns=['Name', 'time', 'hazard'])
     for n in i_n.values():
         df = kernel_density_df(n)
@@ -63,8 +59,8 @@ def hazard_df():
     df.to_csv(f'data/batting/test/kernelDensity/hazOverall.csv')
 
 
-def update_data():
-    """run this function to update all data"""
+def update_data_step_one():
+    """run this function before running create_CI.R"""
     d = 'batting'
     s = 'test'
     with open(f'data/batting/test/ids_names.json') as file:
@@ -74,6 +70,9 @@ def update_data():
     for n in i_n.values():
         make_tables(n, s)
     make_tables('master', s)
+
+def update_data_step_one():
+    """run this function after running create_CI.R"""
     survival_df()
     hazard_df()
 
