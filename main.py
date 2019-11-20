@@ -27,7 +27,7 @@ def _rolling_df(download=False):
         master_df = master_df.append(df)
     master_df = master_df.replace({'DisType': ['retired notout']}, 'not out')
     master_df = master_df.replace({'DisType': ['handled ball', 'hit wicket', 'obstruct field', 'retired out']}, 'other')
-    master_df.to_csv(f'data/batting/test/rolling/rollingMaster.csv')
+    master_df.to_csv(f'data/batting/test/final/rollingMaster.csv')
 
 
 def _survival_df(i_n):
@@ -42,14 +42,14 @@ def _survival_df(i_n):
         df['Name'] = n
         df = df[['time', 'survival', 'lower', 'upper', 'Name']]
         master_df = master_df.append(df)
-    master_df.to_csv(f'data/batting/test/KM/kmMaster.csv')
+    master_df.to_csv(f'data/batting/test/final/kmMaster.csv')
     df = pd.read_csv(f'data/batting/test/KM/overall.csv')
     for row in range(len(df)):
         match_regex = re.compile(r'(\d*),')
         df['time interval'][row] = match_regex.findall(df['time interval'][row])[0]
     df.rename(columns={'time interval': 'time', 'lower 95% CL': 'lower', 'upper 95% CL': 'upper'}, inplace=True)
     df = df[['time', 'survival', 'lower', 'upper']]
-    df.to_csv(f'data/batting/test/KM/kmOverall.csv')
+    df.to_csv(f'data/batting/test/final/kmOverall.csv')
 
 
 def _hazard_df(i_n):
@@ -59,9 +59,9 @@ def _hazard_df(i_n):
         df = kernel_density_df(n)
         df.to_csv(f'data/batting/test/kernelDensity/{n}.csv')
         master_df = master_df.append(df)
-    master_df.to_csv(f'data/batting/test/kernelDensity/hazMaster.csv')
+    master_df.to_csv(f'data/batting/test/final/hazMaster.csv')
     df = kernel_density_df('master')
-    df.to_csv(f'data/batting/test/kernelDensity/hazOverall.csv')
+    df.to_csv(f'data/batting/test/final/hazOverall.csv')
 
 
 def update_data_step_one(download=True):
