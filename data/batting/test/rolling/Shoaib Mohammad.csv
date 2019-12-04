@@ -1,69 +1,69 @@
-,Runs,BF,Pos,Dismissal,Opposition,Dismissed,Start Date,Date,DisType,Tally,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,6,0,2,1,India,1,24 Sep 1983,1983,caught,6,6.0,,,,,,,,Shoaib Mohammad
-1,6,0,2,1,India,0,24 Sep 1983,1983,not out,12,12.0,,,,,,,,Shoaib Mohammad
-2,9,0,2,2,India,1,5 Oct 1983,1983,caught,21,10.5,,,,,,,,Shoaib Mohammad
-3,7,10,2,3,England,1,19 Mar 1984,1984,lbw,28,9.33,,,,,,,,Shoaib Mohammad
-4,80,148,2,4,England,1,19 Mar 1984,1984,caught,108,27.0,,,,,,,,Shoaib Mohammad
-5,31,79,2,5,New Zealand,1,10 Dec 1984,1984,caught,139,27.8,,,,,,,,Shoaib Mohammad
-6,34,99,2,6,New Zealand,1,10 Dec 1984,1984,caught,173,28.83,,,,,,,,Shoaib Mohammad
-7,7,43,3,7,New Zealand,1,18 Jan 1985,1985,run out,180,25.71,,,,,,,,Shoaib Mohammad
-8,33,0,2,8,Sri Lanka,1,16 Oct 1985,1985,caught,213,26.62,,,,,,,,Shoaib Mohammad
-9,101,0,2,9,India,1,3 Feb 1987,1987,lbw,314,34.89,34.888888888888886,,,,,,,Shoaib Mohammad
-10,45,0,2,10,India,1,3 Feb 1987,1987,caught,359,35.9,39.22222222222222,,,,,,,Shoaib Mohammad
-11,24,0,1,11,India,1,11 Feb 1987,1987,run out,383,34.82,37.1,,,,,,,Shoaib Mohammad
-12,5,0,1,12,India,1,11 Feb 1987,1987,lbw,388,32.33,36.7,,,,,,,Shoaib Mohammad
-13,0,0,2,13,India,1,21 Feb 1987,1987,caught,388,29.85,36.0,,,,,,,Shoaib Mohammad
-14,0,7,2,14,England,1,4 Jun 1987,1987,caught,388,27.71,28.0,,,,,,,Shoaib Mohammad
-15,16,39,2,15,England,1,2 Jul 1987,1987,caught,404,26.93,26.5,,,,,,,Shoaib Mohammad
-16,18,49,2,16,England,1,23 Jul 1987,1987,caught,422,26.38,24.9,,,,,,,Shoaib Mohammad
-17,50,136,2,17,England,1,23 Jul 1987,1987,lbw,472,27.76,29.2,,,,,,,Shoaib Mohammad
-18,0,1,6,18,England,1,7 Dec 1987,1987,bowled,472,26.22,25.9,,,,,,,Shoaib Mohammad
-19,46,67,3,19,West Indies,1,2 Apr 1988,1988,caught,518,27.26,20.4,27.263157894736842,,,,,,Shoaib Mohammad
-20,13,10,3,19,West Indies,0,2 Apr 1988,1988,not out,531,27.95,19.11111111111111,29.166666666666668,,,,,,Shoaib Mohammad
-21,12,32,3,20,West Indies,1,14 Apr 1988,1988,caught,543,27.15,17.77777777777778,27.94736842105263,,,,,,Shoaib Mohammad
-22,0,15,3,21,West Indies,1,14 Apr 1988,1988,bowled,543,25.86,17.22222222222222,27.473684210526315,,,,,,Shoaib Mohammad
-23,54,107,3,22,West Indies,1,22 Apr 1988,1988,caught,597,27.14,23.22222222222222,29.94736842105263,,,,,,Shoaib Mohammad
-24,64,141,3,23,West Indies,1,22 Apr 1988,1988,caught,661,28.74,30.333333333333332,29.105263157894736,,,,,,Shoaib Mohammad
-25,94,241,3,24,Australia,1,15 Sep 1988,1988,bowled,755,31.46,39.0,32.421052631578945,,,,,,Shoaib Mohammad
-26,11,18,3,25,Australia,1,23 Sep 1988,1988,bowled,766,30.64,38.22222222222222,31.210526315789473,,,,,,Shoaib Mohammad
-27,74,155,3,26,Australia,1,23 Sep 1988,1988,stumped,840,32.31,40.888888888888886,34.73684210526316,,,,,,Shoaib Mohammad
-28,13,38,3,27,Australia,1,7 Oct 1988,1988,run out,853,31.59,42.333333333333336,33.68421052631579,,,,,,Shoaib Mohammad
-29,3,25,3,28,Australia,1,7 Oct 1988,1988,lbw,856,30.57,37.55555555555556,28.526315789473685,30.571428571428573,,,,,Shoaib Mohammad
-30,163,516,3,29,New Zealand,1,10 Feb 1989,1989,bowled,1019,35.14,48.8,34.73684210526316,36.17857142857143,,,,,Shoaib Mohammad
-31,112,254,3,30,New Zealand,1,24 Feb 1989,1989,run out,1131,37.7,58.8,39.36842105263158,38.58620689655172,,,,,Shoaib Mohammad
-32,67,144,3,31,India,1,15 Nov 1989,1989,caught,1198,38.65,65.5,42.63157894736842,40.58620689655172,,,,,Shoaib Mohammad
-33,95,253,3,32,India,1,15 Nov 1989,1989,lbw,1293,40.41,69.6,47.63157894736842,43.62068965517241,,,,,Shoaib Mohammad
-34,24,47,3,33,India,1,23 Nov 1989,1989,lbw,1317,39.91,65.6,48.89473684210526,41.689655172413794,,,,,Shoaib Mohammad
-35,203,338,5,33,India,0,1 Dec 1989,1989,not out,1520,46.06,85.0,62.0,49.32142857142857,,,,,Shoaib Mohammad
-36,23,87,3,34,India,1,9 Dec 1989,1989,bowled,1543,45.38,86.33333333333333,62.27777777777778,48.92857142857143,,,,,Shoaib Mohammad
-37,6,14,2,35,Australia,1,12 Jan 1990,1990,caught,1549,44.26,78.77777777777777,59.833333333333336,48.892857142857146,,,,,Shoaib Mohammad
-38,10,39,3,36,Australia,1,12 Jan 1990,1990,caught,1559,43.31,78.44444444444444,60.388888888888886,48.07142857142857,,,,,Shoaib Mohammad
-39,43,85,1,37,Australia,1,19 Jan 1990,1990,lbw,1602,43.3,82.88888888888889,60.22222222222222,46.0,43.2972972972973,,,,Shoaib Mohammad
-40,0,4,1,38,Australia,1,19 Jan 1990,1990,caught,1602,42.16,64.77777777777777,56.36842105263158,44.392857142857146,43.13513513513514,,,,Shoaib Mohammad
-41,9,20,3,39,Australia,1,3 Feb 1990,1990,lbw,1611,41.31,53.333333333333336,56.21052631578947,43.857142857142854,42.078947368421055,,,,Shoaib Mohammad
-42,203,411,2,39,New Zealand,0,10 Oct 1990,1990,not out,1814,46.51,77.0,70.61111111111111,52.81481481481482,48.45945945945946,,,,Shoaib Mohammad
-43,105,223,2,40,New Zealand,1,18 Oct 1990,1990,bowled,1919,47.98,78.25,73.44444444444444,56.7037037037037,51.108108108108105,,,,Shoaib Mohammad
-44,42,59,2,40,New Zealand,0,18 Oct 1990,1990,not out,1961,49.02,92.0,76.47058823529412,60.5,51.47222222222222,,,,Shoaib Mohammad
-45,15,35,2,41,New Zealand,1,26 Oct 1990,1990,caught,1976,48.2,57.0,71.82352941176471,60.46153846153846,51.02777777777778,,,,Shoaib Mohammad
-46,142,368,2,42,New Zealand,1,26 Oct 1990,1990,caught,2118,50.43,71.875,79.52941176470588,65.23076923076923,54.02777777777778,,,,Shoaib Mohammad
-47,86,314,1,43,West Indies,1,15 Nov 1990,1990,caught,2204,51.26,81.875,80.23529411764706,66.61538461538461,56.22222222222222,,,,Shoaib Mohammad
-48,32,105,2,43,West Indies,0,15 Nov 1990,1990,not out,2236,52.0,96.71428571428571,86.4375,70.56,57.8,,,,Shoaib Mohammad
-49,7,19,2,44,West Indies,1,23 Nov 1990,1990,caught,2243,50.98,91.57142857142857,86.6875,69.0,55.114285714285714,50.97727272727273,,,Shoaib Mohammad
-50,15,46,2,45,West Indies,1,23 Nov 1990,1990,bowled,2258,50.18,93.71428571428571,77.4375,66.42307692307692,54.25714285714286,51.18181818181818,,,Shoaib Mohammad
-51,0,1,2,46,West Indies,1,6 Dec 1990,1990,bowled,2258,49.09,92.42857142857143,70.4375,65.96153846153847,53.57142857142857,49.91111111111111,,,Shoaib Mohammad
-52,49,148,3,47,West Indies,1,6 Dec 1990,1990,bowled,2307,49.09,61.625,69.3125,67.84615384615384,54.82857142857143,50.8,,,Shoaib Mohammad
-53,43,149,2,48,Sri Lanka,1,12 Dec 1991,1991,caught,2350,48.96,53.875,66.0625,67.42307692307692,56.05714285714286,51.6,,,Shoaib Mohammad
-54,1,8,2,49,Sri Lanka,1,20 Dec 1991,1991,caught,2351,47.98,43.333333333333336,64.625,65.0,56.08571428571429,49.84444444444444,,,Shoaib Mohammad
-55,30,155,2,50,Sri Lanka,1,2 Jan 1992,1992,lbw,2381,47.62,45.0,50.64705882352941,62.53846153846154,56.48571428571429,49.82222222222222,,,Shoaib Mohammad
-56,7,36,7,51,Sri Lanka,1,2 Jan 1992,1992,bowled,2388,46.82,30.0,49.705882352941174,62.38461538461539,56.17142857142857,49.22222222222222,,,Shoaib Mohammad
-57,55,155,3,52,England,1,6 Aug 1992,1992,caught,2443,46.98,26.555555555555557,52.588235294117645,61.65384615384615,56.31428571428572,50.28888888888889,,,Shoaib Mohammad
-58,81,218,2,53,Zimbabwe,1,1 Dec 1993,1993,caught,2524,47.62,28.8,56.76470588235294,64.26923076923077,58.628571428571426,51.355555555555554,,,Shoaib Mohammad
-59,18,39,2,54,Zimbabwe,1,9 Dec 1993,1993,lbw,2542,47.07,29.9,55.294117647058826,64.84615384615384,57.82857142857143,49.51111111111111,,,Shoaib Mohammad
-60,13,58,2,55,Zimbabwe,1,9 Dec 1993,1993,caught,2555,46.45,29.7,56.05882352941177,59.07692307692308,56.22222222222222,48.8,,,Shoaib Mohammad
-61,14,46,2,56,Zimbabwe,1,16 Dec 1993,1993,caught,2569,45.88,31.1,56.35294117647059,55.30769230769231,56.27777777777778,48.577777777777776,,,Shoaib Mohammad
-62,53,236,2,56,Zimbabwe,0,16 Dec 1993,1993,not out,2622,46.82,35.0,47.529411764705884,56.96,59.4,50.77272727272727,,,Shoaib Mohammad
-63,57,112,5,57,Sri Lanka,1,8 Sep 1995,1995,caught,2679,47.0,36.55555555555556,44.705882352941174,55.44,59.48571428571429,52.06818181818182,,,Shoaib Mohammad
-64,12,38,6,58,Sri Lanka,1,15 Sep 1995,1995,run out,2691,46.4,37.77777777777778,40.55555555555556,54.96,58.0,52.34090909090909,,,Shoaib Mohammad
-65,5,9,5,59,Sri Lanka,1,15 Sep 1995,1995,lbw,2696,45.69,35.0,40.0,45.23076923076923,55.457142857142856,52.09090909090909,,,Shoaib Mohammad
-66,8,43,2,60,Sri Lanka,1,22 Sep 1995,1995,lbw,2704,45.07,35.111111111111114,32.55555555555556,44.65384615384615,55.371428571428574,51.86363636363637,,,Shoaib Mohammad
-67,1,18,2,61,Sri Lanka,1,22 Sep 1995,1995,caught,2705,44.34,29.11111111111111,27.833333333333332,44.46153846153846,53.285714285714285,50.75,,,Shoaib Mohammad
+,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
+0,6,2,India,1,1983,caught,6.0,,,,,,,,Shoaib Mohammad
+1,6,2,India,0,1983,not out,12.0,,,,,,,,Shoaib Mohammad
+2,9,2,India,1,1983,caught,10.5,,,,,,,,Shoaib Mohammad
+3,7,2,England,1,1984,lbw,9.33,,,,,,,,Shoaib Mohammad
+4,80,2,England,1,1984,caught,27.0,,,,,,,,Shoaib Mohammad
+5,31,2,New Zealand,1,1984,caught,27.8,,,,,,,,Shoaib Mohammad
+6,34,2,New Zealand,1,1984,caught,28.83,,,,,,,,Shoaib Mohammad
+7,7,3,New Zealand,1,1985,run out,25.71,,,,,,,,Shoaib Mohammad
+8,33,2,Sri Lanka,1,1985,caught,26.62,,,,,,,,Shoaib Mohammad
+9,101,2,India,1,1987,lbw,34.89,34.89,,,,,,,Shoaib Mohammad
+10,45,2,India,1,1987,caught,35.9,39.22,,,,,,,Shoaib Mohammad
+11,24,1,India,1,1987,run out,34.82,37.1,,,,,,,Shoaib Mohammad
+12,5,1,India,1,1987,lbw,32.33,36.7,,,,,,,Shoaib Mohammad
+13,0,2,India,1,1987,caught,29.85,36.0,,,,,,,Shoaib Mohammad
+14,0,2,England,1,1987,caught,27.71,28.0,,,,,,,Shoaib Mohammad
+15,16,2,England,1,1987,caught,26.93,26.5,,,,,,,Shoaib Mohammad
+16,18,2,England,1,1987,caught,26.38,24.9,,,,,,,Shoaib Mohammad
+17,50,2,England,1,1987,lbw,27.76,29.2,,,,,,,Shoaib Mohammad
+18,0,6,England,1,1987,bowled,26.22,25.9,,,,,,,Shoaib Mohammad
+19,46,3,West Indies,1,1988,caught,27.26,20.4,27.26,,,,,,Shoaib Mohammad
+20,13,3,West Indies,0,1988,not out,27.95,19.11,29.17,,,,,,Shoaib Mohammad
+21,12,3,West Indies,1,1988,caught,27.15,17.78,27.95,,,,,,Shoaib Mohammad
+22,0,3,West Indies,1,1988,bowled,25.86,17.22,27.47,,,,,,Shoaib Mohammad
+23,54,3,West Indies,1,1988,caught,27.14,23.22,29.95,,,,,,Shoaib Mohammad
+24,64,3,West Indies,1,1988,caught,28.74,30.33,29.11,,,,,,Shoaib Mohammad
+25,94,3,Australia,1,1988,bowled,31.46,39.0,32.42,,,,,,Shoaib Mohammad
+26,11,3,Australia,1,1988,bowled,30.64,38.22,31.21,,,,,,Shoaib Mohammad
+27,74,3,Australia,1,1988,stumped,32.31,40.89,34.74,,,,,,Shoaib Mohammad
+28,13,3,Australia,1,1988,run out,31.59,42.33,33.68,,,,,,Shoaib Mohammad
+29,3,3,Australia,1,1988,lbw,30.57,37.56,28.53,30.57,,,,,Shoaib Mohammad
+30,163,3,New Zealand,1,1989,bowled,35.14,48.8,34.74,36.18,,,,,Shoaib Mohammad
+31,112,3,New Zealand,1,1989,run out,37.7,58.8,39.37,38.59,,,,,Shoaib Mohammad
+32,67,3,India,1,1989,caught,38.65,65.5,42.63,40.59,,,,,Shoaib Mohammad
+33,95,3,India,1,1989,lbw,40.41,69.6,47.63,43.62,,,,,Shoaib Mohammad
+34,24,3,India,1,1989,lbw,39.91,65.6,48.89,41.69,,,,,Shoaib Mohammad
+35,203,5,India,0,1989,not out,46.06,85.0,62.0,49.32,,,,,Shoaib Mohammad
+36,23,3,India,1,1989,bowled,45.38,86.33,62.28,48.93,,,,,Shoaib Mohammad
+37,6,2,Australia,1,1990,caught,44.26,78.78,59.83,48.89,,,,,Shoaib Mohammad
+38,10,3,Australia,1,1990,caught,43.31,78.44,60.39,48.07,,,,,Shoaib Mohammad
+39,43,1,Australia,1,1990,lbw,43.3,82.89,60.22,46.0,43.3,,,,Shoaib Mohammad
+40,0,1,Australia,1,1990,caught,42.16,64.78,56.37,44.39,43.14,,,,Shoaib Mohammad
+41,9,3,Australia,1,1990,lbw,41.31,53.33,56.21,43.86,42.08,,,,Shoaib Mohammad
+42,203,2,New Zealand,0,1990,not out,46.51,77.0,70.61,52.81,48.46,,,,Shoaib Mohammad
+43,105,2,New Zealand,1,1990,bowled,47.98,78.25,73.44,56.7,51.11,,,,Shoaib Mohammad
+44,42,2,New Zealand,0,1990,not out,49.02,92.0,76.47,60.5,51.47,,,,Shoaib Mohammad
+45,15,2,New Zealand,1,1990,caught,48.2,57.0,71.82,60.46,51.03,,,,Shoaib Mohammad
+46,142,2,New Zealand,1,1990,caught,50.43,71.88,79.53,65.23,54.03,,,,Shoaib Mohammad
+47,86,1,West Indies,1,1990,caught,51.26,81.88,80.24,66.62,56.22,,,,Shoaib Mohammad
+48,32,2,West Indies,0,1990,not out,52.0,96.71,86.44,70.56,57.8,,,,Shoaib Mohammad
+49,7,2,West Indies,1,1990,caught,50.98,91.57,86.69,69.0,55.11,50.98,,,Shoaib Mohammad
+50,15,2,West Indies,1,1990,bowled,50.18,93.71,77.44,66.42,54.26,51.18,,,Shoaib Mohammad
+51,0,2,West Indies,1,1990,bowled,49.09,92.43,70.44,65.96,53.57,49.91,,,Shoaib Mohammad
+52,49,3,West Indies,1,1990,bowled,49.09,61.62,69.31,67.85,54.83,50.8,,,Shoaib Mohammad
+53,43,2,Sri Lanka,1,1991,caught,48.96,53.88,66.06,67.42,56.06,51.6,,,Shoaib Mohammad
+54,1,2,Sri Lanka,1,1991,caught,47.98,43.33,64.62,65.0,56.09,49.84,,,Shoaib Mohammad
+55,30,2,Sri Lanka,1,1992,lbw,47.62,45.0,50.65,62.54,56.49,49.82,,,Shoaib Mohammad
+56,7,7,Sri Lanka,1,1992,bowled,46.82,30.0,49.71,62.38,56.17,49.22,,,Shoaib Mohammad
+57,55,3,England,1,1992,caught,46.98,26.56,52.59,61.65,56.31,50.29,,,Shoaib Mohammad
+58,81,2,Zimbabwe,1,1993,caught,47.62,28.8,56.76,64.27,58.63,51.36,,,Shoaib Mohammad
+59,18,2,Zimbabwe,1,1993,lbw,47.07,29.9,55.29,64.85,57.83,49.51,,,Shoaib Mohammad
+60,13,2,Zimbabwe,1,1993,caught,46.45,29.7,56.06,59.08,56.22,48.8,,,Shoaib Mohammad
+61,14,2,Zimbabwe,1,1993,caught,45.88,31.1,56.35,55.31,56.28,48.58,,,Shoaib Mohammad
+62,53,2,Zimbabwe,0,1993,not out,46.82,35.0,47.53,56.96,59.4,50.77,,,Shoaib Mohammad
+63,57,5,Sri Lanka,1,1995,caught,47.0,36.56,44.71,55.44,59.49,52.07,,,Shoaib Mohammad
+64,12,6,Sri Lanka,1,1995,run out,46.4,37.78,40.56,54.96,58.0,52.34,,,Shoaib Mohammad
+65,5,5,Sri Lanka,1,1995,lbw,45.69,35.0,40.0,45.23,55.46,52.09,,,Shoaib Mohammad
+66,8,2,Sri Lanka,1,1995,lbw,45.07,35.11,32.56,44.65,55.37,51.86,,,Shoaib Mohammad
+67,1,2,Sri Lanka,1,1995,caught,44.34,29.11,27.83,44.46,53.29,50.75,,,Shoaib Mohammad

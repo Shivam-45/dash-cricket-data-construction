@@ -13,12 +13,12 @@ pd.options.mode.chained_assignment = None
 
 def _rolling_df(download=False):
     """create csv's with all average/opposition/dismissal data"""
-    with open(f'data/{d}/{s}/ids_names.json') as file:
+    with open(f'data/batting/test/ids_names.json') as file:
         i_n = json.load(file)
     master_df = pd.DataFrame(columns=[
-        'Runs', 'BF', 'Pos', 'Dismissal', 'Dismissed', 'Opposition', 'Ground',
-        'Start Date', 'Date', 'DisType', 'Tally', 'Ave', 'rolling10', 'rolling20',
-        'rolling30', 'rolling40', 'rolling50', 'rolling70', 'rolling100', 'Name'
+        'Name', 'Runs', 'Dismissed', 'Opposition', 'Date', 'Pos',
+        'DisType', 'Ave', 'rolling10', 'rolling20', 'rolling30',
+        'rolling40', 'rolling50', 'rolling70', 'rolling100'
         ]
     )
     for i, n in i_n.items():

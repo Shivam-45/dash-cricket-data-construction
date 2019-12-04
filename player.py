@@ -70,8 +70,8 @@ class Batsman:
         df['Ave'] = round(df['Ave'], 2)
         lengths = [10, 20, 30, 40, 50, 70, 100]
         for length in lengths:
-            df[f'rolling{length}'] = (df['Runs'].rolling(window=length, center=False).sum() /
-                                      df['Dismissed'].rolling(window=length, center=False).sum())
+            df[f'rolling{length}'] = round((df['Runs'].rolling(window=length, center=False).sum() /
+                                            df['Dismissed'].rolling(window=length, center=False).sum()), 2)
         return df
     
     def rolling_ave_df(self, download=False):
@@ -86,9 +86,8 @@ class Batsman:
         df = self._trim_df(df)
         df = self._runs_per_inns_df(df)
         df = self._averages_df(df)
-        df = df[['Runs', 'BF', 'Pos', 'Dismissal', 'Opposition', 'Dismissed',
-                 'Start Date', 'Date', 'DisType', 'Tally', 'Ave', 'rolling10',
-                 'rolling20', 'rolling30', 'rolling40', 'rolling50', 'rolling70', 'rolling100',
-                 'Name']]
+        df = df[['Runs', 'Pos', 'Opposition', 'Dismissed','Date', 'DisType', 'Ave',
+                 'rolling10', 'rolling20', 'rolling30', 'rolling40', 'rolling50',
+                 'rolling70', 'rolling100', 'Name']]
         df.to_csv(f'data/batting/{self.match}/rolling/{self.name}.csv')
         return df
