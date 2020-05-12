@@ -4,9 +4,9 @@ import lifelines
 import re
 
 
-def _runs_df(n):
+def _runs_df(n, s):
     """provide the dataframe for calculations based on runs scored"""
-    df = pd.read_csv(f'data/batting/test/rolling/{n}.csv')
+    df = pd.read_csv(f'data/batting/{s}/rolling/{n}.csv')
     df = df[['Runs', 'Dismissed']]
     df['Runs'] = df.Runs + 1
     df.dropna(inplace=True)
@@ -16,10 +16,10 @@ def _runs_df(n):
     return df
 
 
-def make_tables(n):
+def make_tables(n, s):
     """create fitters based on the appropriate breakpoints and data"""
-    df = _runs_df(n)
-    df.to_csv(f'data/batting/test/TE/{n}.csv', index=False)
+    df = _runs_df(n, s)
+    df.to_csv(f'data/batting/{s}/TE/{n}.csv', index=False)
     time, event = df.Runs, df.Dismissed
     kmf = lifelines.KaplanMeierFitter().fit(time, event)
-    kmf.event_table.to_csv(f'data/batting/test/eventTable/{n}.csv')
+    kmf.event_table.to_csv(f'data/batting/{s}/eventTable/{n}.csv')

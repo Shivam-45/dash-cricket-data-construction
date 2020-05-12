@@ -1,0 +1,55 @@
+,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
+0,70,5,England,1,1960,caught,70.0,,,,,,,,SM Nurse
+1,11,5,England,1,1960,bowled,40.5,,,,,,,,SM Nurse
+2,70,3,Australia,1,1960,caught,50.33,,,,,,,,SM Nurse
+3,3,3,Australia,1,1960,run out,38.5,,,,,,,,SM Nurse
+4,43,6,Australia,1,1961,caught,39.4,,,,,,,,SM Nurse
+5,11,6,Australia,1,1961,caught,34.67,,,,,,,,SM Nurse
+6,49,6,Australia,1,1961,caught,36.71,,,,,,,,SM Nurse
+7,5,6,Australia,1,1961,caught,32.75,,,,,,,,SM Nurse
+8,1,4,India,1,1962,caught,29.22,,,,,,,,SM Nurse
+9,46,4,India,0,1962,not out,34.33,34.33,,,,,,,SM Nurse
+10,15,2,Australia,1,1965,caught,32.4,28.22,,,,,,,SM Nurse
+11,17,2,Australia,1,1965,run out,31.0,28.89,,,,,,,SM Nurse
+12,42,5,Australia,1,1965,caught,31.92,25.78,,,,,,,SM Nurse
+13,6,5,Australia,1,1965,stumped,29.92,26.11,,,,,,,SM Nurse
+14,201,5,Australia,1,1965,caught,42.14,43.67,,,,,,,SM Nurse
+15,0,6,Australia,1,1965,lbw,39.33,42.44,,,,,,,SM Nurse
+16,9,5,Australia,1,1965,bowled,37.44,38.0,,,,,,,SM Nurse
+17,1,5,Australia,1,1965,lbw,35.29,37.56,,,,,,,SM Nurse
+18,49,5,England,1,1966,bowled,36.06,42.89,,,,,,,SM Nurse
+19,64,5,England,1,1966,bowled,37.53,40.4,37.53,,,,,,SM Nurse
+20,35,5,England,1,1966,caught,37.4,42.4,35.68,,,,,,SM Nurse
+21,93,5,England,1,1966,caught,40.05,50.0,40.0,,,,,,SM Nurse
+22,53,5,England,1,1966,lbw,40.64,51.1,39.11,,,,,,SM Nurse
+23,137,5,England,1,1966,caught,44.83,64.2,46.16,,,,,,SM Nurse
+24,0,5,England,1,1966,caught,42.96,44.1,43.89,,,,,,SM Nurse
+25,70,5,England,1,1966,caught,44.04,51.1,47.0,,,,,,SM Nurse
+26,56,6,India,1,1966,caught,44.5,55.8,47.37,,,,,,SM Nurse
+27,26,6,India,1,1967,bowled,43.81,58.3,48.47,,,,,,SM Nurse
+28,0,6,India,1,1967,lbw,42.25,53.4,48.42,,,,,,SM Nurse
+29,41,1,England,1,1968,caught,42.21,51.1,45.75,42.21,,,,,SM Nurse
+30,42,1,England,1,1968,bowled,42.2,51.8,47.1,41.24,,,,,SM Nurse
+31,22,4,England,1,1968,bowled,41.55,44.7,47.35,41.62,,,,,SM Nurse
+32,73,2,England,1,1968,bowled,42.53,46.7,48.9,41.72,,,,,SM Nurse
+33,26,1,England,1,1968,caught,42.03,35.6,49.9,42.52,,,,,SM Nurse
+34,19,1,England,1,1968,caught,41.35,37.5,40.8,41.69,,,,,SM Nurse
+35,136,3,England,1,1968,caught,44.06,44.1,47.6,46.0,,,,,SM Nurse
+36,9,3,England,1,1968,run out,43.08,39.4,47.6,44.62,,,,,SM Nurse
+37,17,1,England,1,1968,caught,42.38,38.5,48.4,45.03,,,,,SM Nurse
+38,49,1,England,1,1968,lbw,42.55,43.4,48.4,46.69,,,,,SM Nurse
+39,25,4,Australia,1,1968,caught,42.1,41.8,46.45,44.43,42.1,,,,SM Nurse
+40,16,2,Australia,1,1968,caught,41.45,39.2,45.5,44.47,40.72,,,,SM Nurse
+41,22,4,Australia,1,1968,caught,40.98,39.2,41.95,44.63,41.0,,,,SM Nurse
+42,74,5,Australia,1,1968,caught,41.76,39.3,43.0,45.7,41.1,,,,SM Nurse
+43,3,5,Australia,1,1969,caught,40.86,37.0,36.3,45.6,41.1,,,,SM Nurse
+44,17,5,Australia,1,1969,caught,40.32,36.8,37.15,39.47,40.44,,,,SM Nurse
+45,5,5,Australia,1,1969,caught,39.53,23.7,33.9,39.63,40.28,,,,SM Nurse
+46,40,6,Australia,1,1969,lbw,39.54,26.8,33.1,40.67,40.05,,,,SM Nurse
+47,9,7,Australia,1,1969,caught,38.89,26.0,32.25,40.93,40.15,,,,SM Nurse
+48,137,7,Australia,1,1969,bowled,40.94,34.8,39.1,43.87,43.64,,,,SM Nurse
+49,95,3,New Zealand,1,1969,caught,42.04,41.8,41.8,44.9,43.78,42.04,,,SM Nurse
+50,168,3,New Zealand,1,1969,caught,44.56,57.0,48.1,49.33,47.6,44.04,,,SM Nurse
+51,21,3,New Zealand,1,1969,bowled,44.1,56.9,48.05,46.93,47.7,44.24,,,SM Nurse
+52,16,3,New Zealand,1,1969,caught,43.56,51.1,45.2,45.7,47.05,43.14,,,SM Nurse
+53,258,3,New Zealand,1,1969,stumped,47.6,76.6,56.8,49.73,53.35,48.35,,,SM Nurse

@@ -27,6 +27,7 @@ def _rolling_df(download=False):
         master_df = master_df.append(df)
     master_df = master_df.replace({'DisType': ['retired notout']}, 'not out')
     master_df = master_df.replace({'DisType': ['handled ball', 'hit wicket', 'obstruct field', 'retired out']}, 'other')
+    master_df.to_csv(f'data/batting/test/rolling/master.csv')
     master_df.to_csv(f'data/batting/test/final/rollingMaster.csv')
 
 
@@ -64,7 +65,7 @@ def _hazard_df(i_n):
     df.to_csv(f'data/batting/test/final/hazOverall.csv')
 
 
-def update_data_step_one(download=True):
+def update_data_step_one(download=False):
     """run this function before running create_CI.R"""
     d = 'batting'
     s = 'test'
@@ -83,3 +84,6 @@ def update_data_step_two():
         i_n = json.load(file)
     _survival_df(i_n)
     _hazard_df(i_n)
+
+# update_data_step_one()
+update_data_step_two()
