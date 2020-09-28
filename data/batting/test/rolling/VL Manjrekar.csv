@@ -1,93 +1,93 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,48,7,England,1,1951,bowled,48.0,,,,,,,,VL Manjrekar
-1,6,7,England,1,1952,caught,27.0,,,,,,,,VL Manjrekar
-2,20,3,England,1,1952,caught,24.67,,,,,,,,VL Manjrekar
-3,133,5,England,1,1952,caught,51.75,,,,,,,,VL Manjrekar
-4,0,5,England,1,1952,bowled,41.4,,,,,,,,VL Manjrekar
-5,5,5,England,1,1952,lbw,35.33,,,,,,,,VL Manjrekar
-6,1,5,England,1,1952,bowled,30.43,,,,,,,,VL Manjrekar
-7,22,7,England,1,1952,caught,29.38,,,,,,,,VL Manjrekar
-8,0,7,England,1,1952,caught,26.11,,,,,,,,VL Manjrekar
-9,1,5,England,1,1952,caught,23.6,23.6,,,,,,,VL Manjrekar
-10,23,4,Pakistan,1,1952,caught,23.55,21.1,,,,,,,VL Manjrekar
-11,3,4,Pakistan,1,1952,bowled,21.83,20.8,,,,,,,VL Manjrekar
-12,3,4,Pakistan,1,1952,lbw,20.38,19.1,,,,,,,VL Manjrekar
-13,29,4,Pakistan,1,1952,caught,21.0,8.7,,,,,,,VL Manjrekar
-14,25,3,West Indies,1,1953,lbw,21.27,11.2,,,,,,,VL Manjrekar
-15,32,6,West Indies,0,1953,not out,23.4,15.44,,,,,,,VL Manjrekar
-16,3,6,West Indies,1,1953,caught,22.12,15.67,,,,,,,VL Manjrekar
-17,2,4,West Indies,1,1953,caught,20.94,13.44,,,,,,,VL Manjrekar
-18,0,4,West Indies,1,1953,run out,19.78,13.44,,,,,,,VL Manjrekar
-19,31,6,West Indies,1,1953,bowled,20.37,16.78,20.37,,,,,,VL Manjrekar
-20,43,6,West Indies,1,1953,caught,21.5,19.0,20.11,,,,,,VL Manjrekar
-21,118,3,West Indies,1,1953,caught,26.1,31.78,26.0,,,,,,VL Manjrekar
-22,18,4,Pakistan,1,1955,bowled,25.73,33.44,25.89,,,,,,VL Manjrekar
-23,74,4,Pakistan,0,1955,not out,29.09,43.25,24.06,,,,,,VL Manjrekar
-24,50,4,Pakistan,1,1955,caught,30.0,46.38,26.83,,,,,,VL Manjrekar
-25,59,4,Pakistan,1,1955,caught,31.21,44.22,29.83,,,,,,VL Manjrekar
-26,0,4,Pakistan,1,1955,bowled,29.96,43.89,29.78,,,,,,VL Manjrekar
-27,22,4,Pakistan,0,1955,not out,30.84,51.88,31.53,,,,,,VL Manjrekar
-28,32,4,Pakistan,1,1955,run out,30.88,55.88,33.41,,,,,,VL Manjrekar
-29,14,4,Pakistan,1,1955,caught,30.26,53.75,34.18,30.26,,,,,VL Manjrekar
-30,118,4,New Zealand,1,1955,caught,33.39,63.12,39.76,32.85,,,,,VL Manjrekar
-31,0,4,New Zealand,1,1955,caught,32.24,48.38,39.59,32.63,,,,,VL Manjrekar
-32,177,4,New Zealand,1,1955,caught,37.07,68.25,49.82,38.44,,,,,VL Manjrekar
-33,1,4,New Zealand,1,1955,caught,35.9,52.56,48.18,33.56,,,,,VL Manjrekar
-34,90,4,New Zealand,1,1955,caught,37.59,57.0,52.0,36.89,,,,,VL Manjrekar
-35,0,5,New Zealand,0,1956,not out,37.59,56.75,50.12,38.12,,,,,VL Manjrekar
-36,41,4,Australia,1,1956,lbw,37.7,61.88,52.35,39.65,,,,,VL Manjrekar
-37,16,5,Australia,1,1956,bowled,37.06,54.33,53.18,39.42,,,,,VL Manjrekar
-38,55,4,Australia,1,1956,caught,37.57,56.89,56.41,41.54,,,,,VL Manjrekar
-39,30,4,Australia,1,1956,bowled,37.36,58.67,56.35,42.65,37.36,,,,VL Manjrekar
-40,33,4,Australia,1,1956,caught,37.24,49.22,55.76,43.04,36.94,,,,VL Manjrekar
-41,22,4,Australia,1,1956,caught,36.84,51.67,50.12,43.77,37.39,,,,VL Manjrekar
-42,0,4,West Indies,1,1958,caught,35.9,32.0,49.06,43.65,36.83,,,,VL Manjrekar
-43,23,4,West Indies,1,1958,caught,35.58,34.44,43.5,43.42,33.78,,,,VL Manjrekar
-44,30,4,West Indies,1,1958,lbw,35.44,27.78,42.39,43.62,34.61,,,,VL Manjrekar
-45,31,4,West Indies,1,1958,run out,35.33,28.1,40.83,41.96,35.33,,,,VL Manjrekar
-46,0,6,West Indies,1,1958,bowled,34.51,24.0,40.83,41.85,35.31,,,,VL Manjrekar
-47,58,4,West Indies,0,1958,not out,35.86,31.33,42.83,45.62,37.34,,,,VL Manjrekar
-48,6,4,West Indies,1,1959,caught,35.18,25.89,41.39,45.85,37.51,,,,VL Manjrekar
-49,0,10,West Indies,0,1959,not out,35.18,25.38,43.0,46.44,38.59,35.18,,,VL Manjrekar
-50,17,4,England,1,1959,lbw,34.78,23.38,37.06,45.4,38.41,34.48,,,VL Manjrekar
-51,44,4,England,1,1959,lbw,34.98,26.12,39.65,42.44,39.62,35.34,,,VL Manjrekar
-52,12,4,England,1,1959,lbw,34.49,27.62,29.94,42.2,39.88,35.16,,,VL Manjrekar
-53,61,5,England,1,1959,lbw,35.04,32.38,33.47,40.08,40.82,33.52,,,VL Manjrekar
-54,73,4,Pakistan,1,1960,bowled,35.82,37.75,32.47,40.96,42.24,35.18,,,VL Manjrekar
-55,52,4,Pakistan,1,1960,caught,36.14,40.38,33.56,40.69,41.6,36.25,,,VL Manjrekar
-56,29,5,Pakistan,1,1960,bowled,36.0,44.0,32.89,41.81,42.34,36.89,,,VL Manjrekar
-57,45,4,Pakistan,0,1960,not out,36.88,42.38,36.53,42.69,44.85,38.28,,,VL Manjrekar
-58,30,4,Pakistan,1,1961,bowled,36.75,45.38,35.06,42.62,45.74,38.98,,,VL Manjrekar
-59,18,4,Pakistan,1,1961,caught,36.4,42.33,34.35,42.77,45.35,39.37,,,VL Manjrekar
-60,68,3,England,1,1961,caught,36.98,48.0,36.41,40.85,46.09,40.42,,,VL Manjrekar
-61,84,3,England,1,1961,lbw,37.84,52.44,40.06,44.08,45.09,42.3,,,VL Manjrekar
-62,96,3,England,1,1961,caught,38.88,61.78,45.71,40.96,47.38,44.47,,,VL Manjrekar
-63,189,3,England,0,1961,not out,42.25,85.5,58.94,50.12,50.76,49.33,,,VL Manjrekar
-64,24,3,England,1,1961,bowled,41.93,79.38,58.56,47.48,50.0,49.31,,,VL Manjrekar
-65,27,3,England,1,1961,stumped,41.67,76.25,58.31,46.69,49.06,48.05,,,VL Manjrekar
-66,13,3,England,1,1962,caught,41.19,74.25,59.12,45.62,49.44,48.28,,,VL Manjrekar
-67,85,3,England,1,1962,run out,41.92,70.44,57.24,48.27,49.83,50.21,,,VL Manjrekar
-68,19,3,West Indies,1,1962,bowled,41.54,69.22,58.0,46.88,49.46,50.65,,,VL Manjrekar
-69,0,3,West Indies,1,1962,hit wicket,40.87,67.22,54.78,45.73,49.06,49.93,40.87,,VL Manjrekar
-70,13,4,West Indies,1,1962,caught,40.43,61.11,54.56,44.96,46.06,49.23,40.31,,VL Manjrekar
-71,19,6,West Indies,1,1962,lbw,40.09,53.89,53.17,44.85,46.6,46.93,40.52,,VL Manjrekar
-72,8,4,West Indies,1,1962,caught,39.6,44.11,52.94,45.15,41.77,46.7,40.32,,VL Manjrekar
-73,51,4,West Indies,1,1962,caught,39.77,25.9,52.39,46.23,43.2,45.11,39.0,,VL Manjrekar
-74,4,4,West Indies,1,1962,caught,39.24,23.9,48.56,45.23,40.74,44.07,39.06,,VL Manjrekar
-75,13,4,West Indies,1,1962,caught,38.85,22.5,46.39,44.54,39.97,43.02,39.19,,VL Manjrekar
-76,0,4,West Indies,1,1962,caught,38.29,21.2,44.78,44.54,38.83,43.02,39.18,,VL Manjrekar
-77,40,5,West Indies,1,1962,lbw,38.31,16.7,42.16,42.22,39.5,42.47,39.47,,VL Manjrekar
-78,108,4,England,1,1964,caught,39.3,25.6,46.26,46.0,40.97,44.16,41.21,,VL Manjrekar
-79,0,7,England,1,1964,run out,38.75,25.6,45.32,44.36,40.14,43.84,41.19,,VL Manjrekar
-80,0,4,England,1,1964,caught,38.22,24.3,41.74,43.75,39.22,41.22,40.82,,VL Manjrekar
-81,43,8,England,0,1964,not out,38.81,29.67,41.78,45.33,40.94,43.14,42.15,,VL Manjrekar
-82,25,4,England,1,1964,caught,38.62,31.56,37.83,45.81,41.66,39.68,42.51,,VL Manjrekar
-83,16,4,England,1,1964,bowled,38.32,27.67,26.74,44.15,41.46,40.02,42.3,,VL Manjrekar
-84,33,3,England,1,1964,caught,38.25,30.89,27.21,42.67,41.54,38.73,42.43,,VL Manjrekar
-85,33,4,Australia,1,1964,caught,38.18,33.11,27.53,41.96,41.6,38.6,41.76,,VL Manjrekar
-86,40,4,Australia,1,1964,caught,38.21,37.56,28.95,42.37,42.74,38.58,42.35,,VL Manjrekar
-87,59,4,Australia,1,1964,caught,38.47,39.67,27.58,41.36,41.58,39.53,43.27,,VL Manjrekar
-88,39,8,Australia,1,1964,caught,38.48,32.0,28.63,41.68,42.5,39.18,43.9,,VL Manjrekar
-89,9,4,Australia,1,1964,lbw,38.11,33.0,29.11,41.36,41.59,38.71,43.55,,VL Manjrekar
-90,19,3,New Zealand,1,1965,caught,37.88,35.11,29.42,39.61,41.65,38.4,43.16,,VL Manjrekar
-91,102,3,New Zealand,0,1965,not out,39.12,41.67,35.67,41.74,44.42,41.09,43.61,,VL Manjrekar
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,VL Manjrekar,48.0,bowled,7,England,48.0,48.0,1,1951,1,,,,,,,
+1,VL Manjrekar,6.0,caught,7,England,27.0,54.0,2,1952,1,,,,,,,
+2,VL Manjrekar,20.0,caught,3,England,24.67,74.0,3,1952,1,,,,,,,
+3,VL Manjrekar,133.0,caught,5,England,51.75,207.0,4,1952,1,,,,,,,
+4,VL Manjrekar,0.0,bowled,5,England,41.4,207.0,5,1952,1,,,,,,,
+5,VL Manjrekar,5.0,lbw,5,England,35.33,212.0,6,1952,1,,,,,,,
+6,VL Manjrekar,1.0,bowled,5,England,30.43,213.0,7,1952,1,,,,,,,
+7,VL Manjrekar,22.0,caught,7,England,29.38,235.0,8,1952,1,,,,,,,
+8,VL Manjrekar,0.0,caught,7,England,26.11,235.0,9,1952,1,,,,,,,
+9,VL Manjrekar,1.0,caught,5,England,23.6,236.0,10,1952,1,23.6,,,,,,
+10,VL Manjrekar,23.0,caught,4,Pakistan,23.55,259.0,11,1952,1,21.1,,,,,,
+11,VL Manjrekar,3.0,bowled,4,Pakistan,21.83,262.0,12,1952,1,20.8,,,,,,
+12,VL Manjrekar,3.0,lbw,4,Pakistan,20.38,265.0,13,1952,1,19.1,,,,,,
+13,VL Manjrekar,29.0,caught,4,Pakistan,21.0,294.0,14,1952,1,8.7,,,,,,
+14,VL Manjrekar,25.0,lbw,3,West Indies,21.27,319.0,15,1953,1,11.2,,,,,,
+15,VL Manjrekar,32.0,not out,6,West Indies,23.4,351.0,15,1953,0,15.44,,,,,,
+16,VL Manjrekar,3.0,caught,6,West Indies,22.12,354.0,16,1953,1,15.67,,,,,,
+17,VL Manjrekar,2.0,caught,4,West Indies,20.94,356.0,17,1953,1,13.44,,,,,,
+18,VL Manjrekar,0.0,run out,4,West Indies,19.78,356.0,18,1953,1,13.44,,,,,,
+19,VL Manjrekar,31.0,bowled,6,West Indies,20.37,387.0,19,1953,1,16.78,20.37,,,,,
+20,VL Manjrekar,43.0,caught,6,West Indies,21.5,430.0,20,1953,1,19.0,20.11,,,,,
+21,VL Manjrekar,118.0,caught,3,West Indies,26.1,548.0,21,1953,1,31.78,26.0,,,,,
+22,VL Manjrekar,18.0,bowled,4,Pakistan,25.73,566.0,22,1955,1,33.44,25.89,,,,,
+23,VL Manjrekar,74.0,not out,4,Pakistan,29.09,640.0,22,1955,0,43.25,24.06,,,,,
+24,VL Manjrekar,50.0,caught,4,Pakistan,30.0,690.0,23,1955,1,46.38,26.83,,,,,
+25,VL Manjrekar,59.0,caught,4,Pakistan,31.21,749.0,24,1955,1,44.22,29.83,,,,,
+26,VL Manjrekar,0.0,bowled,4,Pakistan,29.96,749.0,25,1955,1,43.89,29.78,,,,,
+27,VL Manjrekar,22.0,not out,4,Pakistan,30.84,771.0,25,1955,0,51.88,31.53,,,,,
+28,VL Manjrekar,32.0,run out,4,Pakistan,30.88,803.0,26,1955,1,55.88,33.41,,,,,
+29,VL Manjrekar,14.0,caught,4,Pakistan,30.26,817.0,27,1955,1,53.75,34.18,30.26,,,,
+30,VL Manjrekar,118.0,caught,4,New Zealand,33.39,935.0,28,1955,1,63.12,39.76,32.85,,,,
+31,VL Manjrekar,0.0,caught,4,New Zealand,32.24,935.0,29,1955,1,48.38,39.59,32.63,,,,
+32,VL Manjrekar,177.0,caught,4,New Zealand,37.07,1112.0,30,1955,1,68.25,49.82,38.44,,,,
+33,VL Manjrekar,1.0,caught,4,New Zealand,35.9,1113.0,31,1955,1,52.56,48.18,33.56,,,,
+34,VL Manjrekar,90.0,caught,4,New Zealand,37.59,1203.0,32,1955,1,57.0,52.0,36.89,,,,
+35,VL Manjrekar,0.0,not out,5,New Zealand,37.59,1203.0,32,1956,0,56.75,50.12,38.12,,,,
+36,VL Manjrekar,41.0,lbw,4,Australia,37.7,1244.0,33,1956,1,61.88,52.35,39.65,,,,
+37,VL Manjrekar,16.0,bowled,5,Australia,37.06,1260.0,34,1956,1,54.33,53.18,39.42,,,,
+38,VL Manjrekar,55.0,caught,4,Australia,37.57,1315.0,35,1956,1,56.89,56.41,41.54,,,,
+39,VL Manjrekar,30.0,bowled,4,Australia,37.36,1345.0,36,1956,1,58.67,56.35,42.65,37.36,,,
+40,VL Manjrekar,33.0,caught,4,Australia,37.24,1378.0,37,1956,1,49.22,55.76,43.04,36.94,,,
+41,VL Manjrekar,22.0,caught,4,Australia,36.84,1400.0,38,1956,1,51.67,50.12,43.77,37.39,,,
+42,VL Manjrekar,0.0,caught,4,West Indies,35.9,1400.0,39,1958,1,32.0,49.06,43.65,36.83,,,
+43,VL Manjrekar,23.0,caught,4,West Indies,35.58,1423.0,40,1958,1,34.44,43.5,43.42,33.78,,,
+44,VL Manjrekar,30.0,lbw,4,West Indies,35.44,1453.0,41,1958,1,27.78,42.39,43.62,34.61,,,
+45,VL Manjrekar,31.0,run out,4,West Indies,35.33,1484.0,42,1958,1,28.1,40.83,41.96,35.33,,,
+46,VL Manjrekar,0.0,bowled,6,West Indies,34.51,1484.0,43,1958,1,24.0,40.83,41.85,35.31,,,
+47,VL Manjrekar,58.0,not out,4,West Indies,35.86,1542.0,43,1958,0,31.33,42.83,45.62,37.34,,,
+48,VL Manjrekar,6.0,caught,4,West Indies,35.18,1548.0,44,1959,1,25.89,41.39,45.85,37.51,,,
+49,VL Manjrekar,0.0,not out,10,West Indies,35.18,1548.0,44,1959,0,25.38,43.0,46.44,38.59,35.18,,
+50,VL Manjrekar,17.0,lbw,4,England,34.78,1565.0,45,1959,1,23.38,37.06,45.4,38.41,34.48,,
+51,VL Manjrekar,44.0,lbw,4,England,34.98,1609.0,46,1959,1,26.12,39.65,42.44,39.62,35.34,,
+52,VL Manjrekar,12.0,lbw,4,England,34.49,1621.0,47,1959,1,27.62,29.94,42.2,39.88,35.16,,
+53,VL Manjrekar,61.0,lbw,5,England,35.04,1682.0,48,1959,1,32.38,33.47,40.08,40.82,33.52,,
+54,VL Manjrekar,73.0,bowled,4,Pakistan,35.82,1755.0,49,1960,1,37.75,32.47,40.96,42.24,35.18,,
+55,VL Manjrekar,52.0,caught,4,Pakistan,36.14,1807.0,50,1960,1,40.38,33.56,40.69,41.6,36.25,,
+56,VL Manjrekar,29.0,bowled,5,Pakistan,36.0,1836.0,51,1960,1,44.0,32.89,41.81,42.34,36.89,,
+57,VL Manjrekar,45.0,not out,4,Pakistan,36.88,1881.0,51,1960,0,42.38,36.53,42.69,44.85,38.28,,
+58,VL Manjrekar,30.0,bowled,4,Pakistan,36.75,1911.0,52,1961,1,45.38,35.06,42.62,45.74,38.98,,
+59,VL Manjrekar,18.0,caught,4,Pakistan,36.4,1929.0,53,1961,1,42.33,34.35,42.77,45.35,39.37,,
+60,VL Manjrekar,68.0,caught,3,England,36.98,1997.0,54,1961,1,48.0,36.41,40.85,46.09,40.42,,
+61,VL Manjrekar,84.0,lbw,3,England,37.84,2081.0,55,1961,1,52.44,40.06,44.08,45.09,42.3,,
+62,VL Manjrekar,96.0,caught,3,England,38.88,2177.0,56,1961,1,61.78,45.71,40.96,47.38,44.47,,
+63,VL Manjrekar,189.0,not out,3,England,42.25,2366.0,56,1961,0,85.5,58.94,50.12,50.76,49.33,,
+64,VL Manjrekar,24.0,bowled,3,England,41.93,2390.0,57,1961,1,79.38,58.56,47.48,50.0,49.31,,
+65,VL Manjrekar,27.0,stumped,3,England,41.67,2417.0,58,1961,1,76.25,58.31,46.69,49.06,48.05,,
+66,VL Manjrekar,13.0,caught,3,England,41.19,2430.0,59,1962,1,74.25,59.12,45.62,49.44,48.28,,
+67,VL Manjrekar,85.0,run out,3,England,41.92,2515.0,60,1962,1,70.44,57.24,48.27,49.83,50.21,,
+68,VL Manjrekar,19.0,bowled,3,West Indies,41.54,2534.0,61,1962,1,69.22,58.0,46.88,49.46,50.65,,
+69,VL Manjrekar,0.0,hit wicket,3,West Indies,40.87,2534.0,62,1962,1,67.22,54.78,45.73,49.06,49.93,40.87,
+70,VL Manjrekar,13.0,caught,4,West Indies,40.43,2547.0,63,1962,1,61.11,54.56,44.96,46.06,49.23,40.31,
+71,VL Manjrekar,19.0,lbw,6,West Indies,40.09,2566.0,64,1962,1,53.89,53.17,44.85,46.6,46.93,40.52,
+72,VL Manjrekar,8.0,caught,4,West Indies,39.6,2574.0,65,1962,1,44.11,52.94,45.15,41.77,46.7,40.32,
+73,VL Manjrekar,51.0,caught,4,West Indies,39.77,2625.0,66,1962,1,25.9,52.39,46.23,43.2,45.11,39.0,
+74,VL Manjrekar,4.0,caught,4,West Indies,39.24,2629.0,67,1962,1,23.9,48.56,45.23,40.74,44.07,39.06,
+75,VL Manjrekar,13.0,caught,4,West Indies,38.85,2642.0,68,1962,1,22.5,46.39,44.54,39.97,43.02,39.19,
+76,VL Manjrekar,0.0,caught,4,West Indies,38.29,2642.0,69,1962,1,21.2,44.78,44.54,38.83,43.02,39.18,
+77,VL Manjrekar,40.0,lbw,5,West Indies,38.31,2682.0,70,1962,1,16.7,42.16,42.22,39.5,42.47,39.47,
+78,VL Manjrekar,108.0,caught,4,England,39.3,2790.0,71,1964,1,25.6,46.26,46.0,40.97,44.16,41.21,
+79,VL Manjrekar,0.0,run out,7,England,38.75,2790.0,72,1964,1,25.6,45.32,44.36,40.14,43.84,41.19,
+80,VL Manjrekar,0.0,caught,4,England,38.22,2790.0,73,1964,1,24.3,41.74,43.75,39.22,41.22,40.82,
+81,VL Manjrekar,43.0,not out,8,England,38.81,2833.0,73,1964,0,29.67,41.78,45.33,40.94,43.14,42.15,
+82,VL Manjrekar,25.0,caught,4,England,38.62,2858.0,74,1964,1,31.56,37.83,45.81,41.66,39.68,42.51,
+83,VL Manjrekar,16.0,bowled,4,England,38.32,2874.0,75,1964,1,27.67,26.74,44.15,41.46,40.02,42.3,
+84,VL Manjrekar,33.0,caught,3,England,38.25,2907.0,76,1964,1,30.89,27.21,42.67,41.54,38.73,42.43,
+85,VL Manjrekar,33.0,caught,4,Australia,38.18,2940.0,77,1964,1,33.11,27.53,41.96,41.6,38.6,41.76,
+86,VL Manjrekar,40.0,caught,4,Australia,38.21,2980.0,78,1964,1,37.56,28.95,42.37,42.74,38.58,42.35,
+87,VL Manjrekar,59.0,caught,4,Australia,38.47,3039.0,79,1964,1,39.67,27.58,41.36,41.58,39.53,43.27,
+88,VL Manjrekar,39.0,caught,8,Australia,38.48,3078.0,80,1964,1,32.0,28.63,41.68,42.5,39.18,43.9,
+89,VL Manjrekar,9.0,lbw,4,Australia,38.11,3087.0,81,1964,1,33.0,29.11,41.36,41.59,38.71,43.55,
+90,VL Manjrekar,19.0,caught,3,New Zealand,37.88,3106.0,82,1965,1,35.11,29.42,39.61,41.65,38.4,43.16,
+91,VL Manjrekar,102.0,not out,3,New Zealand,39.12,3208.0,82,1965,0,41.67,35.67,41.74,44.42,41.09,43.61,

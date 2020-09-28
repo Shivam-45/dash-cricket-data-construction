@@ -1,70 +1,70 @@
-event_at,removed,observed,censored,entrance,at_risk
-0.0,0,0,0,131,131
-1.0,9,9,0,0,131
-2.0,5,4,1,0,122
-3.0,2,2,0,0,117
-4.0,3,3,0,0,115
-6.0,2,1,1,0,112
-7.0,3,3,0,0,110
-8.0,5,4,1,0,107
-9.0,2,2,0,0,102
-10.0,7,6,1,0,100
-11.0,5,4,1,0,93
-12.0,2,2,0,0,88
-13.0,2,2,0,0,86
-14.0,3,3,0,0,84
-15.0,4,4,0,0,81
-16.0,2,1,1,0,77
-17.0,3,3,0,0,75
-18.0,2,1,1,0,72
-19.0,2,1,1,0,70
-20.0,1,0,1,0,68
-21.0,5,5,0,0,67
-22.0,1,1,0,0,62
-23.0,1,1,0,0,61
-25.0,3,2,1,0,60
-26.0,2,2,0,0,57
-27.0,1,1,0,0,55
-28.0,1,1,0,0,54
-29.0,1,1,0,0,53
-32.0,1,1,0,0,52
-33.0,1,0,1,0,51
-34.0,2,1,1,0,50
-35.0,1,1,0,0,48
-37.0,2,1,1,0,47
-38.0,2,2,0,0,45
-39.0,1,1,0,0,43
-40.0,1,1,0,0,42
-41.0,2,2,0,0,41
-43.0,1,0,1,0,39
-44.0,1,1,0,0,38
-45.0,2,1,1,0,37
-46.0,1,1,0,0,35
-48.0,1,1,0,0,34
-49.0,1,1,0,0,33
-50.0,1,1,0,0,32
-51.0,1,1,0,0,31
-52.0,1,1,0,0,30
-55.0,1,1,0,0,29
-56.0,4,2,2,0,28
-66.0,1,1,0,0,24
-75.0,2,1,1,0,23
-81.0,1,1,0,0,21
-83.0,1,1,0,0,20
-84.0,1,0,1,0,19
-87.0,1,1,0,0,18
-88.0,1,1,0,0,17
-93.0,1,1,0,0,16
-94.0,3,2,1,0,15
-97.0,1,1,0,0,12
-104.0,1,1,0,0,11
-105.0,1,0,1,0,10
-106.0,1,0,1,0,9
-109.0,1,1,0,0,8
-116.0,1,1,0,0,7
-117.0,1,1,0,0,6
-120.0,1,1,0,0,5
-127.0,1,0,1,0,4
-137.0,1,0,1,0,3
-145.0,1,1,0,0,2
-205.0,1,0,1,0,1
+event_at,removed,observed,censored,entrance,at_risk,Name
+0.0,0,0,0,131,131,HP Tillakaratne
+1.0,9,9,0,0,131,HP Tillakaratne
+2.0,5,4,1,0,122,HP Tillakaratne
+3.0,2,2,0,0,117,HP Tillakaratne
+4.0,3,3,0,0,115,HP Tillakaratne
+6.0,2,1,1,0,112,HP Tillakaratne
+7.0,3,3,0,0,110,HP Tillakaratne
+8.0,5,4,1,0,107,HP Tillakaratne
+9.0,2,2,0,0,102,HP Tillakaratne
+10.0,7,6,1,0,100,HP Tillakaratne
+11.0,5,4,1,0,93,HP Tillakaratne
+12.0,2,2,0,0,88,HP Tillakaratne
+13.0,2,2,0,0,86,HP Tillakaratne
+14.0,3,3,0,0,84,HP Tillakaratne
+15.0,4,4,0,0,81,HP Tillakaratne
+16.0,2,1,1,0,77,HP Tillakaratne
+17.0,3,3,0,0,75,HP Tillakaratne
+18.0,2,1,1,0,72,HP Tillakaratne
+19.0,2,1,1,0,70,HP Tillakaratne
+20.0,1,0,1,0,68,HP Tillakaratne
+21.0,5,5,0,0,67,HP Tillakaratne
+22.0,1,1,0,0,62,HP Tillakaratne
+23.0,1,1,0,0,61,HP Tillakaratne
+25.0,3,2,1,0,60,HP Tillakaratne
+26.0,2,2,0,0,57,HP Tillakaratne
+27.0,1,1,0,0,55,HP Tillakaratne
+28.0,1,1,0,0,54,HP Tillakaratne
+29.0,1,1,0,0,53,HP Tillakaratne
+32.0,1,1,0,0,52,HP Tillakaratne
+33.0,1,0,1,0,51,HP Tillakaratne
+34.0,2,1,1,0,50,HP Tillakaratne
+35.0,1,1,0,0,48,HP Tillakaratne
+37.0,2,1,1,0,47,HP Tillakaratne
+38.0,2,2,0,0,45,HP Tillakaratne
+39.0,1,1,0,0,43,HP Tillakaratne
+40.0,1,1,0,0,42,HP Tillakaratne
+41.0,2,2,0,0,41,HP Tillakaratne
+43.0,1,0,1,0,39,HP Tillakaratne
+44.0,1,1,0,0,38,HP Tillakaratne
+45.0,2,1,1,0,37,HP Tillakaratne
+46.0,1,1,0,0,35,HP Tillakaratne
+48.0,1,1,0,0,34,HP Tillakaratne
+49.0,1,1,0,0,33,HP Tillakaratne
+50.0,1,1,0,0,32,HP Tillakaratne
+51.0,1,1,0,0,31,HP Tillakaratne
+52.0,1,1,0,0,30,HP Tillakaratne
+55.0,1,1,0,0,29,HP Tillakaratne
+56.0,4,2,2,0,28,HP Tillakaratne
+66.0,1,1,0,0,24,HP Tillakaratne
+75.0,2,1,1,0,23,HP Tillakaratne
+81.0,1,1,0,0,21,HP Tillakaratne
+83.0,1,1,0,0,20,HP Tillakaratne
+84.0,1,0,1,0,19,HP Tillakaratne
+87.0,1,1,0,0,18,HP Tillakaratne
+88.0,1,1,0,0,17,HP Tillakaratne
+93.0,1,1,0,0,16,HP Tillakaratne
+94.0,3,2,1,0,15,HP Tillakaratne
+97.0,1,1,0,0,12,HP Tillakaratne
+104.0,1,1,0,0,11,HP Tillakaratne
+105.0,1,0,1,0,10,HP Tillakaratne
+106.0,1,0,1,0,9,HP Tillakaratne
+109.0,1,1,0,0,8,HP Tillakaratne
+116.0,1,1,0,0,7,HP Tillakaratne
+117.0,1,1,0,0,6,HP Tillakaratne
+120.0,1,1,0,0,5,HP Tillakaratne
+127.0,1,0,1,0,4,HP Tillakaratne
+137.0,1,0,1,0,3,HP Tillakaratne
+145.0,1,1,0,0,2,HP Tillakaratne
+205.0,1,0,1,0,1,HP Tillakaratne

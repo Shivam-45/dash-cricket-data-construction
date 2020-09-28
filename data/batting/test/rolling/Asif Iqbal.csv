@@ -1,100 +1,100 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,41,10,Australia,1,1964,caught,41.0,,,,,,,,Asif Iqbal
-1,36,3,Australia,1,1964,caught,38.5,,,,,,,,Asif Iqbal
-2,1,7,Australia,1,1964,caught,26.0,,,,,,,,Asif Iqbal
-3,15,8,Australia,1,1964,caught,23.25,,,,,,,,Asif Iqbal
-4,30,8,New Zealand,1,1965,caught,24.6,,,,,,,,Asif Iqbal
-5,52,8,New Zealand,0,1965,not out,35.0,,,,,,,,Asif Iqbal
-6,3,8,New Zealand,1,1965,caught,29.67,,,,,,,,Asif Iqbal
-7,0,8,New Zealand,1,1965,bowled,25.43,,,,,,,,Asif Iqbal
-8,3,8,New Zealand,1,1965,caught,22.62,,,,,,,,Asif Iqbal
-9,20,8,New Zealand,1,1965,caught,22.33,22.33,,,,,,,Asif Iqbal
-10,51,5,New Zealand,1,1965,bowled,25.2,23.44,,,,,,,Asif Iqbal
-11,4,8,New Zealand,1,1965,lbw,23.27,19.89,,,,,,,Asif Iqbal
-12,43,6,New Zealand,1,1965,caught,24.92,24.56,,,,,,,Asif Iqbal
-13,4,8,New Zealand,1,1965,lbw,23.31,23.33,,,,,,,Asif Iqbal
-14,76,9,England,1,1967,caught,27.07,28.44,,,,,,,Asif Iqbal
-15,18,7,England,1,1967,bowled,26.47,22.2,,,,,,,Asif Iqbal
-16,1,8,England,1,1967,caught,24.88,22.0,,,,,,,Asif Iqbal
-17,26,8,England,1,1967,caught,24.94,24.6,,,,,,,Asif Iqbal
-18,146,9,England,1,1967,stumped,31.67,38.9,,,,,,,Asif Iqbal
-19,70,4,England,1,1969,caught,33.68,43.9,33.68,,,,,,Asif Iqbal
-20,0,4,England,1,1969,caught,32.0,38.8,31.53,,,,,,Asif Iqbal
-21,44,4,England,1,1969,bowled,32.57,42.8,31.95,,,,,,Asif Iqbal
-22,16,3,England,1,1969,bowled,31.82,40.1,32.74,,,,,,Asif Iqbal
-23,22,6,New Zealand,1,1969,stumped,31.39,41.9,33.11,,,,,,Asif Iqbal
-24,0,3,New Zealand,1,1969,caught,30.08,34.3,31.53,,,,,,Asif Iqbal
-25,20,6,New Zealand,1,1969,caught,29.68,34.5,28.35,,,,,,Asif Iqbal
-26,22,3,New Zealand,1,1969,caught,29.38,36.6,29.3,,,,,,Asif Iqbal
-27,92,6,New Zealand,1,1969,caught,31.7,43.2,33.9,,,,,,Asif Iqbal
-28,16,4,New Zealand,1,1969,bowled,31.14,30.2,34.55,,,,,,Asif Iqbal
-29,104,6,England,0,1971,not out,34.86,37.33,40.79,34.86,,,,,Asif Iqbal
-30,9,5,England,1,1971,caught,33.97,38.33,38.58,33.71,,,,,Asif Iqbal
-31,14,6,England,1,1971,caught,33.3,35.0,39.11,32.93,,,,,Asif Iqbal
-32,33,6,England,1,1971,stumped,33.29,36.89,38.58,34.07,,,,,Asif Iqbal
-33,16,7,Australia,1,1972,caught,32.75,36.22,39.21,34.11,,,,,Asif Iqbal
-34,0,6,Australia,1,1972,caught,31.76,36.22,35.21,33.04,,,,,Asif Iqbal
-35,7,6,Australia,1,1972,caught,31.03,34.78,34.63,30.34,,,,,Asif Iqbal
-36,37,6,Australia,1,1972,caught,31.2,36.44,36.53,31.52,,,,,Asif Iqbal
-37,65,6,Australia,1,1973,caught,32.14,33.44,38.58,33.76,,,,,Asif Iqbal
-38,5,6,Australia,1,1973,caught,31.41,32.22,31.16,33.83,,,,,Asif Iqbal
-39,39,5,New Zealand,1,1973,caught,31.61,22.5,29.53,34.48,31.61,,,,Asif Iqbal
-40,23,5,New Zealand,1,1973,caught,31.38,23.9,30.74,33.52,31.13,,,,Asif Iqbal
-41,175,5,New Zealand,1,1973,caught,34.98,40.0,37.63,39.41,34.79,,,,Asif Iqbal
-42,34,5,New Zealand,1,1973,bowled,34.95,40.1,38.58,39.1,35.66,,,,Asif Iqbal
-43,39,6,New Zealand,1,1973,lbw,35.05,42.4,39.47,40.31,36.29,,,,Asif Iqbal
-44,102,5,England,1,1973,caught,36.6,52.6,44.84,41.21,38.18,,,,Asif Iqbal
-45,68,6,England,1,1973,caught,37.32,58.7,47.37,42.93,37.62,,,,Asif Iqbal
-46,6,5,England,1,1973,caught,36.62,55.6,46.53,43.1,37.69,,,,Asif Iqbal
-47,36,4,England,1,1973,caught,36.61,52.7,43.58,43.45,38.62,,,,Asif Iqbal
-48,14,6,England,1,1974,caught,36.13,53.6,43.47,38.9,38.9,,,,Asif Iqbal
-49,8,6,England,1,1974,bowled,35.54,50.5,36.5,36.76,38.59,35.54,,,Asif Iqbal
-50,2,6,England,1,1974,caught,34.86,48.4,36.15,36.83,37.33,34.73,,,Asif Iqbal
-51,0,6,England,1,1974,caught,34.16,30.9,35.45,35.31,37.23,33.98,,,Asif Iqbal
-52,29,5,England,1,1974,caught,34.06,30.4,35.25,35.76,36.87,34.56,,,Asif Iqbal
-53,25,5,West Indies,1,1975,caught,33.88,29.0,35.7,35.86,37.41,34.77,,,Asif Iqbal
-54,52,5,West Indies,1,1975,bowled,34.23,24.0,38.3,37.66,36.79,35.23,,,Asif Iqbal
-55,3,5,West Indies,1,1975,caught,33.65,17.5,38.1,37.07,36.41,33.51,,,Asif Iqbal
-56,77,4,West Indies,1,1975,caught,34.44,24.6,40.1,38.97,38.36,35.02,,,Asif Iqbal
-57,166,6,New Zealand,1,1976,bowled,36.79,37.6,45.15,41.52,41.95,38.41,,,Asif Iqbal
-58,1,6,New Zealand,0,1976,not out,36.8,40.33,47.32,42.46,39.24,39.17,,,Asif Iqbal
-59,73,6,New Zealand,1,1976,stumped,37.44,47.56,49.11,39.93,39.32,40.27,,,Asif Iqbal
-60,12,6,New Zealand,1,1976,caught,37.0,48.67,48.53,40.03,39.63,39.46,,,Asif Iqbal
-61,30,4,New Zealand,1,1976,stumped,36.88,52.0,40.89,40.59,39.26,40.0,,,Asif Iqbal
-62,0,6,Australia,1,1976,caught,36.27,48.78,39.11,39.45,38.84,39.1,,,Asif Iqbal
-63,152,6,Australia,0,1976,not out,38.8,70.75,47.56,45.71,43.41,43.09,,,Asif Iqbal
-64,35,6,Australia,1,1977,caught,38.74,68.62,43.83,46.96,44.35,42.21,,,Asif Iqbal
-65,6,6,Australia,1,1977,lbw,38.21,69.0,40.39,46.93,43.97,41.96,,,Asif Iqbal
-66,120,6,Australia,1,1977,bowled,39.51,74.38,46.72,49.89,46.62,44.49,,,Asif Iqbal
-67,36,5,West Indies,1,1977,caught,39.45,58.12,46.72,48.86,45.11,44.7,,,Asif Iqbal
-68,0,5,West Indies,1,1977,bowled,38.85,51.56,45.94,48.68,44.68,41.6,,,Asif Iqbal
-69,0,5,West Indies,1,1977,caught,38.26,43.44,45.5,47.29,40.76,40.11,38.26,,Asif Iqbal
-70,12,5,West Indies,1,1977,bowled,37.87,43.44,46.06,46.89,40.84,40.36,37.82,,Asif Iqbal
-71,15,6,West Indies,1,1977,caught,37.53,41.78,46.89,41.18,40.87,39.74,37.5,,Asif Iqbal
-72,35,7,West Indies,1,1977,lbw,37.49,45.67,47.22,41.21,40.92,40.15,38.02,,Asif Iqbal
-73,11,6,West Indies,1,1977,caught,37.11,27.0,46.44,40.21,40.79,39.91,37.95,,Asif Iqbal
-74,10,6,West Indies,1,1977,caught,36.73,24.5,44.11,36.93,41.05,40.13,37.65,,Asif Iqbal
-75,5,6,West Indies,1,1977,caught,36.29,24.4,44.22,34.68,41.0,39.81,36.39,,Asif Iqbal
-76,135,6,West Indies,1,1977,stumped,37.64,25.9,47.44,39.29,43.58,42.21,38.36,,Asif Iqbal
-77,0,6,India,1,1978,caught,37.14,22.3,38.22,38.0,41.87,40.26,38.36,,Asif Iqbal
-78,104,4,India,1,1978,bowled,38.03,32.7,41.63,41.21,44.47,42.13,39.87,,Asif Iqbal
-79,29,5,India,1,1978,bowled,37.91,35.6,39.32,41.96,44.21,39.69,40.0,,Asif Iqbal
-80,21,4,India,0,1978,not out,38.18,40.56,42.0,44.22,45.35,40.79,40.15,,Asif Iqbal
-81,1,5,India,1,1978,lbw,37.7,39.0,40.39,44.26,40.65,40.51,40.11,,Asif Iqbal
-82,44,2,India,1,1978,caught,37.78,40.0,42.83,44.81,40.92,40.74,40.12,,Asif Iqbal
-83,104,5,New Zealand,1,1979,bowled,38.62,50.33,38.05,47.74,42.68,42.62,41.64,,Asif Iqbal
-84,35,5,New Zealand,1,1979,caught,38.58,53.11,38.05,47.11,40.86,43.36,41.02,,Asif Iqbal
-85,9,5,Australia,1,1979,caught,38.21,53.56,38.21,47.33,39.27,43.4,40.88,,Asif Iqbal
-86,44,5,Australia,1,1979,lbw,38.28,43.44,34.21,46.11,40.3,43.55,41.53,,Asif Iqbal
-87,35,6,Australia,1,1979,run out,38.24,47.33,34.16,41.26,40.27,42.91,41.67,,Asif Iqbal
-88,134,6,Australia,0,1979,not out,39.86,57.0,43.5,46.19,44.72,46.65,42.12,,Asif Iqbal
-89,55,6,India,1,1979,caught,40.04,60.25,46.56,45.52,46.03,47.0,41.89,,Asif Iqbal
-90,64,6,India,1,1979,caught,40.32,58.33,49.44,47.44,47.75,47.89,42.88,,Asif Iqbal
-91,38,6,India,1,1979,caught,40.29,62.44,50.72,47.74,48.81,44.91,42.78,,Asif Iqbal
-92,14,6,India,1,1979,caught,39.99,59.11,49.56,48.26,48.39,44.48,42.75,,Asif Iqbal
-93,26,6,India,1,1979,caught,39.83,50.44,50.39,42.04,48.42,44.2,42.82,,Asif Iqbal
-94,11,6,India,1,1979,caught,39.51,47.78,50.44,41.18,47.28,42.22,42.98,,Asif Iqbal
-95,34,6,India,1,1980,caught,39.44,50.56,52.06,42.18,48.14,41.48,43.2,,Asif Iqbal
-96,5,6,India,1,1980,caught,39.07,46.22,44.83,38.07,46.14,41.46,42.94,,Asif Iqbal
-97,5,6,India,0,1980,not out,39.12,48.25,47.76,38.33,42.86,41.69,42.25,,Asif Iqbal
-98,15,6,India,1,1980,run out,38.86,29.67,42.53,38.89,42.06,41.71,42.23,,Asif Iqbal
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,Asif Iqbal,41.0,caught,10,Australia,41.0,41.0,1,1964,1,,,,,,,
+1,Asif Iqbal,36.0,caught,3,Australia,38.5,77.0,2,1964,1,,,,,,,
+2,Asif Iqbal,1.0,caught,7,Australia,26.0,78.0,3,1964,1,,,,,,,
+3,Asif Iqbal,15.0,caught,8,Australia,23.25,93.0,4,1964,1,,,,,,,
+4,Asif Iqbal,30.0,caught,8,New Zealand,24.6,123.0,5,1965,1,,,,,,,
+5,Asif Iqbal,52.0,not out,8,New Zealand,35.0,175.0,5,1965,0,,,,,,,
+6,Asif Iqbal,3.0,caught,8,New Zealand,29.67,178.0,6,1965,1,,,,,,,
+7,Asif Iqbal,0.0,bowled,8,New Zealand,25.43,178.0,7,1965,1,,,,,,,
+8,Asif Iqbal,3.0,caught,8,New Zealand,22.62,181.0,8,1965,1,,,,,,,
+9,Asif Iqbal,20.0,caught,8,New Zealand,22.33,201.0,9,1965,1,22.33,,,,,,
+10,Asif Iqbal,51.0,bowled,5,New Zealand,25.2,252.0,10,1965,1,23.44,,,,,,
+11,Asif Iqbal,4.0,lbw,8,New Zealand,23.27,256.0,11,1965,1,19.89,,,,,,
+12,Asif Iqbal,43.0,caught,6,New Zealand,24.92,299.0,12,1965,1,24.56,,,,,,
+13,Asif Iqbal,4.0,lbw,8,New Zealand,23.31,303.0,13,1965,1,23.33,,,,,,
+14,Asif Iqbal,76.0,caught,9,England,27.07,379.0,14,1967,1,28.44,,,,,,
+15,Asif Iqbal,18.0,bowled,7,England,26.47,397.0,15,1967,1,22.2,,,,,,
+16,Asif Iqbal,1.0,caught,8,England,24.88,398.0,16,1967,1,22.0,,,,,,
+17,Asif Iqbal,26.0,caught,8,England,24.94,424.0,17,1967,1,24.6,,,,,,
+18,Asif Iqbal,146.0,stumped,9,England,31.67,570.0,18,1967,1,38.9,,,,,,
+19,Asif Iqbal,70.0,caught,4,England,33.68,640.0,19,1969,1,43.9,33.68,,,,,
+20,Asif Iqbal,0.0,caught,4,England,32.0,640.0,20,1969,1,38.8,31.53,,,,,
+21,Asif Iqbal,44.0,bowled,4,England,32.57,684.0,21,1969,1,42.8,31.95,,,,,
+22,Asif Iqbal,16.0,bowled,3,England,31.82,700.0,22,1969,1,40.1,32.74,,,,,
+23,Asif Iqbal,22.0,stumped,6,New Zealand,31.39,722.0,23,1969,1,41.9,33.11,,,,,
+24,Asif Iqbal,0.0,caught,3,New Zealand,30.08,722.0,24,1969,1,34.3,31.53,,,,,
+25,Asif Iqbal,20.0,caught,6,New Zealand,29.68,742.0,25,1969,1,34.5,28.35,,,,,
+26,Asif Iqbal,22.0,caught,3,New Zealand,29.38,764.0,26,1969,1,36.6,29.3,,,,,
+27,Asif Iqbal,92.0,caught,6,New Zealand,31.7,856.0,27,1969,1,43.2,33.9,,,,,
+28,Asif Iqbal,16.0,bowled,4,New Zealand,31.14,872.0,28,1969,1,30.2,34.55,,,,,
+29,Asif Iqbal,104.0,not out,6,England,34.86,976.0,28,1971,0,37.33,40.79,34.86,,,,
+30,Asif Iqbal,9.0,caught,5,England,33.97,985.0,29,1971,1,38.33,38.58,33.71,,,,
+31,Asif Iqbal,14.0,caught,6,England,33.3,999.0,30,1971,1,35.0,39.11,32.93,,,,
+32,Asif Iqbal,33.0,stumped,6,England,33.29,1032.0,31,1971,1,36.89,38.58,34.07,,,,
+33,Asif Iqbal,16.0,caught,7,Australia,32.75,1048.0,32,1972,1,36.22,39.21,34.11,,,,
+34,Asif Iqbal,0.0,caught,6,Australia,31.76,1048.0,33,1972,1,36.22,35.21,33.04,,,,
+35,Asif Iqbal,7.0,caught,6,Australia,31.03,1055.0,34,1972,1,34.78,34.63,30.34,,,,
+36,Asif Iqbal,37.0,caught,6,Australia,31.2,1092.0,35,1972,1,36.44,36.53,31.52,,,,
+37,Asif Iqbal,65.0,caught,6,Australia,32.14,1157.0,36,1973,1,33.44,38.58,33.76,,,,
+38,Asif Iqbal,5.0,caught,6,Australia,31.41,1162.0,37,1973,1,32.22,31.16,33.83,,,,
+39,Asif Iqbal,39.0,caught,5,New Zealand,31.61,1201.0,38,1973,1,22.5,29.53,34.48,31.61,,,
+40,Asif Iqbal,23.0,caught,5,New Zealand,31.38,1224.0,39,1973,1,23.9,30.74,33.52,31.13,,,
+41,Asif Iqbal,175.0,caught,5,New Zealand,34.98,1399.0,40,1973,1,40.0,37.63,39.41,34.79,,,
+42,Asif Iqbal,34.0,bowled,5,New Zealand,34.95,1433.0,41,1973,1,40.1,38.58,39.1,35.66,,,
+43,Asif Iqbal,39.0,lbw,6,New Zealand,35.05,1472.0,42,1973,1,42.4,39.47,40.31,36.29,,,
+44,Asif Iqbal,102.0,caught,5,England,36.6,1574.0,43,1973,1,52.6,44.84,41.21,38.18,,,
+45,Asif Iqbal,68.0,caught,6,England,37.32,1642.0,44,1973,1,58.7,47.37,42.93,37.62,,,
+46,Asif Iqbal,6.0,caught,5,England,36.62,1648.0,45,1973,1,55.6,46.53,43.1,37.69,,,
+47,Asif Iqbal,36.0,caught,4,England,36.61,1684.0,46,1973,1,52.7,43.58,43.45,38.62,,,
+48,Asif Iqbal,14.0,caught,6,England,36.13,1698.0,47,1974,1,53.6,43.47,38.9,38.9,,,
+49,Asif Iqbal,8.0,bowled,6,England,35.54,1706.0,48,1974,1,50.5,36.5,36.76,38.59,35.54,,
+50,Asif Iqbal,2.0,caught,6,England,34.86,1708.0,49,1974,1,48.4,36.15,36.83,37.33,34.73,,
+51,Asif Iqbal,0.0,caught,6,England,34.16,1708.0,50,1974,1,30.9,35.45,35.31,37.23,33.98,,
+52,Asif Iqbal,29.0,caught,5,England,34.06,1737.0,51,1974,1,30.4,35.25,35.76,36.87,34.56,,
+53,Asif Iqbal,25.0,caught,5,West Indies,33.88,1762.0,52,1975,1,29.0,35.7,35.86,37.41,34.77,,
+54,Asif Iqbal,52.0,bowled,5,West Indies,34.23,1814.0,53,1975,1,24.0,38.3,37.66,36.79,35.23,,
+55,Asif Iqbal,3.0,caught,5,West Indies,33.65,1817.0,54,1975,1,17.5,38.1,37.07,36.41,33.51,,
+56,Asif Iqbal,77.0,caught,4,West Indies,34.44,1894.0,55,1975,1,24.6,40.1,38.97,38.36,35.02,,
+57,Asif Iqbal,166.0,bowled,6,New Zealand,36.79,2060.0,56,1976,1,37.6,45.15,41.52,41.95,38.41,,
+58,Asif Iqbal,1.0,not out,6,New Zealand,36.8,2061.0,56,1976,0,40.33,47.32,42.46,39.24,39.17,,
+59,Asif Iqbal,73.0,stumped,6,New Zealand,37.44,2134.0,57,1976,1,47.56,49.11,39.93,39.32,40.27,,
+60,Asif Iqbal,12.0,caught,6,New Zealand,37.0,2146.0,58,1976,1,48.67,48.53,40.03,39.63,39.46,,
+61,Asif Iqbal,30.0,stumped,4,New Zealand,36.88,2176.0,59,1976,1,52.0,40.89,40.59,39.26,40.0,,
+62,Asif Iqbal,0.0,caught,6,Australia,36.27,2176.0,60,1976,1,48.78,39.11,39.45,38.84,39.1,,
+63,Asif Iqbal,152.0,not out,6,Australia,38.8,2328.0,60,1976,0,70.75,47.56,45.71,43.41,43.09,,
+64,Asif Iqbal,35.0,caught,6,Australia,38.74,2363.0,61,1977,1,68.62,43.83,46.96,44.35,42.21,,
+65,Asif Iqbal,6.0,lbw,6,Australia,38.21,2369.0,62,1977,1,69.0,40.39,46.93,43.97,41.96,,
+66,Asif Iqbal,120.0,bowled,6,Australia,39.51,2489.0,63,1977,1,74.38,46.72,49.89,46.62,44.49,,
+67,Asif Iqbal,36.0,caught,5,West Indies,39.45,2525.0,64,1977,1,58.12,46.72,48.86,45.11,44.7,,
+68,Asif Iqbal,0.0,bowled,5,West Indies,38.85,2525.0,65,1977,1,51.56,45.94,48.68,44.68,41.6,,
+69,Asif Iqbal,0.0,caught,5,West Indies,38.26,2525.0,66,1977,1,43.44,45.5,47.29,40.76,40.11,38.26,
+70,Asif Iqbal,12.0,bowled,5,West Indies,37.87,2537.0,67,1977,1,43.44,46.06,46.89,40.84,40.36,37.82,
+71,Asif Iqbal,15.0,caught,6,West Indies,37.53,2552.0,68,1977,1,41.78,46.89,41.18,40.87,39.74,37.5,
+72,Asif Iqbal,35.0,lbw,7,West Indies,37.49,2587.0,69,1977,1,45.67,47.22,41.21,40.92,40.15,38.02,
+73,Asif Iqbal,11.0,caught,6,West Indies,37.11,2598.0,70,1977,1,27.0,46.44,40.21,40.79,39.91,37.95,
+74,Asif Iqbal,10.0,caught,6,West Indies,36.73,2608.0,71,1977,1,24.5,44.11,36.93,41.05,40.13,37.65,
+75,Asif Iqbal,5.0,caught,6,West Indies,36.29,2613.0,72,1977,1,24.4,44.22,34.68,41.0,39.81,36.39,
+76,Asif Iqbal,135.0,stumped,6,West Indies,37.64,2748.0,73,1977,1,25.9,47.44,39.29,43.58,42.21,38.36,
+77,Asif Iqbal,0.0,caught,6,India,37.14,2748.0,74,1978,1,22.3,38.22,38.0,41.87,40.26,38.36,
+78,Asif Iqbal,104.0,bowled,4,India,38.03,2852.0,75,1978,1,32.7,41.63,41.21,44.47,42.13,39.87,
+79,Asif Iqbal,29.0,bowled,5,India,37.91,2881.0,76,1978,1,35.6,39.32,41.96,44.21,39.69,40.0,
+80,Asif Iqbal,21.0,not out,4,India,38.18,2902.0,76,1978,0,40.56,42.0,44.22,45.35,40.79,40.15,
+81,Asif Iqbal,1.0,lbw,5,India,37.7,2903.0,77,1978,1,39.0,40.39,44.26,40.65,40.51,40.11,
+82,Asif Iqbal,44.0,caught,2,India,37.78,2947.0,78,1978,1,40.0,42.83,44.81,40.92,40.74,40.12,
+83,Asif Iqbal,104.0,bowled,5,New Zealand,38.62,3051.0,79,1979,1,50.33,38.05,47.74,42.68,42.62,41.64,
+84,Asif Iqbal,35.0,caught,5,New Zealand,38.58,3086.0,80,1979,1,53.11,38.05,47.11,40.86,43.36,41.02,
+85,Asif Iqbal,9.0,caught,5,Australia,38.21,3095.0,81,1979,1,53.56,38.21,47.33,39.27,43.4,40.88,
+86,Asif Iqbal,44.0,lbw,5,Australia,38.28,3139.0,82,1979,1,43.44,34.21,46.11,40.3,43.55,41.53,
+87,Asif Iqbal,35.0,run out,6,Australia,38.24,3174.0,83,1979,1,47.33,34.16,41.26,40.27,42.91,41.67,
+88,Asif Iqbal,134.0,not out,6,Australia,39.86,3308.0,83,1979,0,57.0,43.5,46.19,44.72,46.65,42.12,
+89,Asif Iqbal,55.0,caught,6,India,40.04,3363.0,84,1979,1,60.25,46.56,45.52,46.03,47.0,41.89,
+90,Asif Iqbal,64.0,caught,6,India,40.32,3427.0,85,1979,1,58.33,49.44,47.44,47.75,47.89,42.88,
+91,Asif Iqbal,38.0,caught,6,India,40.29,3465.0,86,1979,1,62.44,50.72,47.74,48.81,44.91,42.78,
+92,Asif Iqbal,14.0,caught,6,India,39.99,3479.0,87,1979,1,59.11,49.56,48.26,48.39,44.48,42.75,
+93,Asif Iqbal,26.0,caught,6,India,39.83,3505.0,88,1979,1,50.44,50.39,42.04,48.42,44.2,42.82,
+94,Asif Iqbal,11.0,caught,6,India,39.51,3516.0,89,1979,1,47.78,50.44,41.18,47.28,42.22,42.98,
+95,Asif Iqbal,34.0,caught,6,India,39.44,3550.0,90,1980,1,50.56,52.06,42.18,48.14,41.48,43.2,
+96,Asif Iqbal,5.0,caught,6,India,39.07,3555.0,91,1980,1,46.22,44.83,38.07,46.14,41.46,42.94,
+97,Asif Iqbal,5.0,not out,6,India,39.12,3560.0,91,1980,0,48.25,47.76,38.33,42.86,41.69,42.25,
+98,Asif Iqbal,15.0,run out,6,India,38.86,3575.0,92,1980,1,29.67,42.53,38.89,42.06,41.71,42.23,

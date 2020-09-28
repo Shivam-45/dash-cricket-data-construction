@@ -1,67 +1,67 @@
-event_at,removed,observed,censored,entrance,at_risk
-0.0,0,0,0,130,130
-1.0,11,11,0,0,130
-2.0,2,2,0,0,119
-3.0,5,4,1,0,117
-4.0,4,4,0,0,112
-5.0,6,6,0,0,108
-7.0,1,1,0,0,102
-8.0,7,7,0,0,101
-9.0,2,2,0,0,94
-10.0,2,2,0,0,92
-11.0,2,1,1,0,90
-12.0,4,3,1,0,88
-13.0,3,2,1,0,84
-14.0,3,2,1,0,81
-15.0,2,2,0,0,78
-16.0,2,2,0,0,76
-17.0,3,3,0,0,74
-19.0,2,2,0,0,71
-20.0,2,2,0,0,69
-21.0,1,1,0,0,67
-22.0,1,1,0,0,66
-23.0,2,1,1,0,65
-24.0,3,2,1,0,63
-25.0,1,1,0,0,60
-26.0,1,1,0,0,59
-27.0,1,1,0,0,58
-28.0,1,1,0,0,57
-29.0,2,2,0,0,56
-31.0,2,2,0,0,54
-32.0,3,3,0,0,52
-33.0,2,2,0,0,49
-35.0,1,1,0,0,47
-37.0,1,1,0,0,46
-38.0,1,1,0,0,45
-39.0,1,1,0,0,44
-40.0,1,1,0,0,43
-41.0,2,2,0,0,42
-42.0,1,1,0,0,40
-44.0,3,3,0,0,39
-45.0,2,2,0,0,36
-47.0,1,1,0,0,34
-49.0,4,3,1,0,33
-50.0,1,1,0,0,29
-53.0,1,1,0,0,28
-54.0,1,1,0,0,27
-61.0,1,1,0,0,26
-62.0,2,2,0,0,25
-65.0,2,2,0,0,23
-66.0,2,2,0,0,21
-68.0,1,1,0,0,19
-69.0,2,2,0,0,18
-70.0,1,1,0,0,16
-75.0,1,1,0,0,15
-80.0,2,2,0,0,14
-81.0,1,1,0,0,12
-86.0,1,1,0,0,11
-93.0,1,1,0,0,10
-94.0,1,1,0,0,9
-96.0,1,1,0,0,8
-102.0,1,1,0,0,7
-117.0,1,1,0,0,6
-128.0,1,1,0,0,5
-160.0,1,1,0,0,4
-201.0,1,1,0,0,3
-204.0,1,0,1,0,2
-220.0,1,0,1,0,1
+event_at,removed,observed,censored,entrance,at_risk,Name
+0.0,0,0,0,130,130,Mushfiqur Rahim
+1.0,11,11,0,0,130,Mushfiqur Rahim
+2.0,2,2,0,0,119,Mushfiqur Rahim
+3.0,5,4,1,0,117,Mushfiqur Rahim
+4.0,4,4,0,0,112,Mushfiqur Rahim
+5.0,6,6,0,0,108,Mushfiqur Rahim
+7.0,1,1,0,0,102,Mushfiqur Rahim
+8.0,7,7,0,0,101,Mushfiqur Rahim
+9.0,2,2,0,0,94,Mushfiqur Rahim
+10.0,2,2,0,0,92,Mushfiqur Rahim
+11.0,2,1,1,0,90,Mushfiqur Rahim
+12.0,4,3,1,0,88,Mushfiqur Rahim
+13.0,3,2,1,0,84,Mushfiqur Rahim
+14.0,3,2,1,0,81,Mushfiqur Rahim
+15.0,2,2,0,0,78,Mushfiqur Rahim
+16.0,2,2,0,0,76,Mushfiqur Rahim
+17.0,3,3,0,0,74,Mushfiqur Rahim
+19.0,2,2,0,0,71,Mushfiqur Rahim
+20.0,2,2,0,0,69,Mushfiqur Rahim
+21.0,1,1,0,0,67,Mushfiqur Rahim
+22.0,1,1,0,0,66,Mushfiqur Rahim
+23.0,2,1,1,0,65,Mushfiqur Rahim
+24.0,3,2,1,0,63,Mushfiqur Rahim
+25.0,1,1,0,0,60,Mushfiqur Rahim
+26.0,1,1,0,0,59,Mushfiqur Rahim
+27.0,1,1,0,0,58,Mushfiqur Rahim
+28.0,1,1,0,0,57,Mushfiqur Rahim
+29.0,2,2,0,0,56,Mushfiqur Rahim
+31.0,2,2,0,0,54,Mushfiqur Rahim
+32.0,3,3,0,0,52,Mushfiqur Rahim
+33.0,2,2,0,0,49,Mushfiqur Rahim
+35.0,1,1,0,0,47,Mushfiqur Rahim
+37.0,1,1,0,0,46,Mushfiqur Rahim
+38.0,1,1,0,0,45,Mushfiqur Rahim
+39.0,1,1,0,0,44,Mushfiqur Rahim
+40.0,1,1,0,0,43,Mushfiqur Rahim
+41.0,2,2,0,0,42,Mushfiqur Rahim
+42.0,1,1,0,0,40,Mushfiqur Rahim
+44.0,3,3,0,0,39,Mushfiqur Rahim
+45.0,2,2,0,0,36,Mushfiqur Rahim
+47.0,1,1,0,0,34,Mushfiqur Rahim
+49.0,4,3,1,0,33,Mushfiqur Rahim
+50.0,1,1,0,0,29,Mushfiqur Rahim
+53.0,1,1,0,0,28,Mushfiqur Rahim
+54.0,1,1,0,0,27,Mushfiqur Rahim
+61.0,1,1,0,0,26,Mushfiqur Rahim
+62.0,2,2,0,0,25,Mushfiqur Rahim
+65.0,2,2,0,0,23,Mushfiqur Rahim
+66.0,2,2,0,0,21,Mushfiqur Rahim
+68.0,1,1,0,0,19,Mushfiqur Rahim
+69.0,2,2,0,0,18,Mushfiqur Rahim
+70.0,1,1,0,0,16,Mushfiqur Rahim
+75.0,1,1,0,0,15,Mushfiqur Rahim
+80.0,2,2,0,0,14,Mushfiqur Rahim
+81.0,1,1,0,0,12,Mushfiqur Rahim
+86.0,1,1,0,0,11,Mushfiqur Rahim
+93.0,1,1,0,0,10,Mushfiqur Rahim
+94.0,1,1,0,0,9,Mushfiqur Rahim
+96.0,1,1,0,0,8,Mushfiqur Rahim
+102.0,1,1,0,0,7,Mushfiqur Rahim
+117.0,1,1,0,0,6,Mushfiqur Rahim
+128.0,1,1,0,0,5,Mushfiqur Rahim
+160.0,1,1,0,0,4,Mushfiqur Rahim
+201.0,1,1,0,0,3,Mushfiqur Rahim
+204.0,1,0,1,0,2,Mushfiqur Rahim
+220.0,1,0,1,0,1,Mushfiqur Rahim

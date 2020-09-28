@@ -1,63 +1,63 @@
-event_at,removed,observed,censored,entrance,at_risk
-0.0,0,0,0,97,97
-1.0,6,5,1,0,97
-2.0,4,4,0,0,91
-3.0,2,2,0,0,87
-4.0,3,3,0,0,85
-5.0,2,2,0,0,82
-6.0,5,4,1,0,80
-8.0,1,1,0,0,75
-9.0,2,2,0,0,74
-10.0,1,1,0,0,72
-11.0,2,2,0,0,71
-13.0,2,2,0,0,69
-14.0,3,3,0,0,67
-15.0,2,2,0,0,64
-16.0,1,1,0,0,62
-17.0,2,2,0,0,61
-18.0,2,2,0,0,59
-19.0,2,2,0,0,57
-20.0,5,5,0,0,55
-21.0,1,1,0,0,50
-22.0,1,1,0,0,49
-23.0,2,2,0,0,48
-24.0,1,0,1,0,46
-25.0,1,1,0,0,45
-26.0,1,1,0,0,44
-28.0,2,2,0,0,43
-29.0,1,1,0,0,41
-31.0,1,1,0,0,40
-32.0,1,1,0,0,39
-33.0,1,1,0,0,38
-34.0,1,1,0,0,37
-35.0,1,1,0,0,36
-36.0,1,1,0,0,35
-40.0,1,1,0,0,34
-41.0,1,1,0,0,33
-42.0,1,1,0,0,32
-45.0,1,1,0,0,31
-47.0,1,1,0,0,30
-48.0,1,1,0,0,29
-50.0,1,1,0,0,28
-52.0,3,3,0,0,27
-55.0,1,1,0,0,24
-57.0,2,2,0,0,23
-63.0,1,1,0,0,21
-64.0,1,0,1,0,20
-67.0,1,1,0,0,19
-68.0,1,1,0,0,18
-80.0,1,1,0,0,17
-82.0,1,1,0,0,16
-90.0,1,1,0,0,15
-94.0,1,1,0,0,14
-97.0,1,1,0,0,13
-101.0,1,0,1,0,12
-102.0,1,0,1,0,11
-104.0,2,2,0,0,10
-105.0,2,2,0,0,8
-112.0,1,1,0,0,6
-143.0,1,1,0,0,5
-161.0,1,1,0,0,4
-188.0,1,0,1,0,3
-204.0,1,0,1,0,2
-338.0,1,1,0,0,1
+event_at,removed,observed,censored,entrance,at_risk,Name
+0.0,0,0,0,97,97,Hanif Mohammad
+1.0,6,5,1,0,97,Hanif Mohammad
+2.0,4,4,0,0,91,Hanif Mohammad
+3.0,2,2,0,0,87,Hanif Mohammad
+4.0,3,3,0,0,85,Hanif Mohammad
+5.0,2,2,0,0,82,Hanif Mohammad
+6.0,5,4,1,0,80,Hanif Mohammad
+8.0,1,1,0,0,75,Hanif Mohammad
+9.0,2,2,0,0,74,Hanif Mohammad
+10.0,1,1,0,0,72,Hanif Mohammad
+11.0,2,2,0,0,71,Hanif Mohammad
+13.0,2,2,0,0,69,Hanif Mohammad
+14.0,3,3,0,0,67,Hanif Mohammad
+15.0,2,2,0,0,64,Hanif Mohammad
+16.0,1,1,0,0,62,Hanif Mohammad
+17.0,2,2,0,0,61,Hanif Mohammad
+18.0,2,2,0,0,59,Hanif Mohammad
+19.0,2,2,0,0,57,Hanif Mohammad
+20.0,5,5,0,0,55,Hanif Mohammad
+21.0,1,1,0,0,50,Hanif Mohammad
+22.0,1,1,0,0,49,Hanif Mohammad
+23.0,2,2,0,0,48,Hanif Mohammad
+24.0,1,0,1,0,46,Hanif Mohammad
+25.0,1,1,0,0,45,Hanif Mohammad
+26.0,1,1,0,0,44,Hanif Mohammad
+28.0,2,2,0,0,43,Hanif Mohammad
+29.0,1,1,0,0,41,Hanif Mohammad
+31.0,1,1,0,0,40,Hanif Mohammad
+32.0,1,1,0,0,39,Hanif Mohammad
+33.0,1,1,0,0,38,Hanif Mohammad
+34.0,1,1,0,0,37,Hanif Mohammad
+35.0,1,1,0,0,36,Hanif Mohammad
+36.0,1,1,0,0,35,Hanif Mohammad
+40.0,1,1,0,0,34,Hanif Mohammad
+41.0,1,1,0,0,33,Hanif Mohammad
+42.0,1,1,0,0,32,Hanif Mohammad
+45.0,1,1,0,0,31,Hanif Mohammad
+47.0,1,1,0,0,30,Hanif Mohammad
+48.0,1,1,0,0,29,Hanif Mohammad
+50.0,1,1,0,0,28,Hanif Mohammad
+52.0,3,3,0,0,27,Hanif Mohammad
+55.0,1,1,0,0,24,Hanif Mohammad
+57.0,2,2,0,0,23,Hanif Mohammad
+63.0,1,1,0,0,21,Hanif Mohammad
+64.0,1,0,1,0,20,Hanif Mohammad
+67.0,1,1,0,0,19,Hanif Mohammad
+68.0,1,1,0,0,18,Hanif Mohammad
+80.0,1,1,0,0,17,Hanif Mohammad
+82.0,1,1,0,0,16,Hanif Mohammad
+90.0,1,1,0,0,15,Hanif Mohammad
+94.0,1,1,0,0,14,Hanif Mohammad
+97.0,1,1,0,0,13,Hanif Mohammad
+101.0,1,0,1,0,12,Hanif Mohammad
+102.0,1,0,1,0,11,Hanif Mohammad
+104.0,2,2,0,0,10,Hanif Mohammad
+105.0,2,2,0,0,8,Hanif Mohammad
+112.0,1,1,0,0,6,Hanif Mohammad
+143.0,1,1,0,0,5,Hanif Mohammad
+161.0,1,1,0,0,4,Hanif Mohammad
+188.0,1,0,1,0,3,Hanif Mohammad
+204.0,1,0,1,0,2,Hanif Mohammad
+338.0,1,1,0,0,1,Hanif Mohammad

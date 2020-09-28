@@ -1,95 +1,95 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,30,8,West Indies,1,1948,caught,30.0,,,,,,,,PR Umrigar
-1,21,3,England,1,1951,run out,25.5,,,,,,,,PR Umrigar
-2,8,3,England,1,1951,lbw,19.67,,,,,,,,PR Umrigar
-3,38,3,England,1,1951,caught,24.25,,,,,,,,PR Umrigar
-4,10,3,England,1,1951,caught,21.4,,,,,,,,PR Umrigar
-5,0,3,England,1,1952,bowled,17.83,,,,,,,,PR Umrigar
-6,36,5,England,1,1952,caught,20.43,,,,,,,,PR Umrigar
-7,130,7,England,0,1952,not out,39.0,,,,,,,,PR Umrigar
-8,8,3,England,1,1952,caught,35.12,,,,,,,,PR Umrigar
-9,9,4,England,1,1952,caught,32.22,32.22,,,,,,,PR Umrigar
-10,5,3,England,1,1952,bowled,29.5,29.44,,,,,,,PR Umrigar
-11,14,7,England,1,1952,bowled,28.09,28.67,,,,,,,PR Umrigar
-12,4,5,England,1,1952,bowled,26.08,28.22,,,,,,,PR Umrigar
-13,3,5,England,1,1952,caught,24.31,24.33,,,,,,,PR Umrigar
-14,0,6,England,1,1952,bowled,22.57,23.22,,,,,,,PR Umrigar
-15,25,6,Pakistan,1,1952,lbw,22.73,26.0,,,,,,,PR Umrigar
-16,15,6,Pakistan,1,1952,bowled,22.25,23.67,,,,,,,PR Umrigar
-17,32,5,Pakistan,1,1952,lbw,22.82,11.5,,,,,,,PR Umrigar
-18,102,5,Pakistan,1,1952,bowled,27.22,20.9,,,,,,,PR Umrigar
-19,62,5,Pakistan,1,1952,caught,29.05,26.2,29.05,,,,,,PR Umrigar
-20,22,5,Pakistan,1,1952,caught,28.7,27.9,28.63,,,,,,PR Umrigar
-21,130,5,West Indies,1,1953,caught,33.52,39.5,34.37,,,,,,PR Umrigar
-22,69,5,West Indies,1,1953,bowled,35.14,46.0,37.58,,,,,,PR Umrigar
-23,56,5,West Indies,1,1953,caught,36.04,51.3,38.53,,,,,,PR Umrigar
-24,6,5,West Indies,1,1953,bowled,34.79,51.9,38.32,,,,,,PR Umrigar
-25,61,5,West Indies,1,1953,caught,35.84,55.5,41.53,,,,,,PR Umrigar
-26,67,5,West Indies,1,1953,stumped,37.04,60.7,43.16,,,,,,PR Umrigar
-27,1,5,West Indies,1,1953,caught,35.7,57.6,34.55,,,,,,PR Umrigar
-28,40,5,West Indies,0,1953,not out,37.19,57.11,38.05,,,,,,PR Umrigar
-29,117,5,West Indies,1,1953,bowled,40.04,63.22,43.74,40.04,,,,,PR Umrigar
-30,13,5,West Indies,1,1953,caught,39.1,62.22,44.16,39.43,,,,,PR Umrigar
-31,32,5,Pakistan,1,1955,caught,38.87,51.33,45.11,39.82,,,,,PR Umrigar
-32,20,5,Pakistan,1,1955,bowled,38.26,45.89,45.95,40.25,,,,,PR Umrigar
-33,78,5,Pakistan,1,1955,caught,39.5,48.33,49.89,41.68,,,,,PR Umrigar
-34,108,3,Pakistan,1,1955,run out,41.58,59.67,55.58,45.18,,,,,PR Umrigar
-35,3,3,Pakistan,0,1955,not out,41.67,59.88,57.44,46.96,,,,,PR Umrigar
-36,16,3,Pakistan,1,1955,bowled,40.91,53.5,57.5,46.22,,,,,PR Umrigar
-37,14,3,Pakistan,0,1955,not out,41.32,63.0,59.82,41.93,,,,,PR Umrigar
-38,223,3,New Zealand,1,1955,caught,46.51,78.0,66.94,49.89,,,,,PR Umrigar
-39,15,3,New Zealand,1,1955,bowled,45.64,65.25,64.18,50.11,45.64,,,,PR Umrigar
-40,18,3,New Zealand,1,1955,bowled,44.89,65.88,63.94,50.59,45.31,,,,PR Umrigar
-41,1,5,New Zealand,1,1955,run out,43.74,62.0,56.35,50.11,44.75,,,,PR Umrigar
-42,15,5,New Zealand,1,1955,bowled,43.0,61.38,53.18,50.52,44.94,,,,PR Umrigar
-43,79,3,New Zealand,0,1956,not out,45.03,70.29,57.94,55.38,47.4,,,,PR Umrigar
-44,31,3,Australia,1,1956,caught,44.68,59.29,59.5,56.58,48.0,,,,PR Umrigar
-45,25,3,Australia,1,1956,caught,44.2,54.62,57.25,56.58,48.71,,,,PR Umrigar
-46,8,3,Australia,1,1956,bowled,43.33,53.62,53.56,56.31,47.91,,,,PR Umrigar
-47,78,3,Australia,1,1956,caught,44.14,54.78,58.38,58.08,45.14,,,,PR Umrigar
-48,5,3,Australia,1,1956,caught,43.25,30.56,52.88,54.35,45.06,,,,PR Umrigar
-49,28,3,Australia,1,1956,caught,42.91,32.0,47.65,53.04,45.58,42.91,,,PR Umrigar
-50,55,3,West Indies,1,1958,bowled,43.17,36.11,50.12,54.31,46.97,43.47,,,PR Umrigar
-51,36,3,West Indies,1,1958,bowled,43.02,40.0,50.35,50.69,47.58,43.8,,,PR Umrigar
-52,57,3,West Indies,1,1958,caught,43.31,44.67,52.53,50.23,49.06,44.89,,,PR Umrigar
-53,34,3,West Indies,1,1958,caught,43.12,35.7,49.94,49.38,49.92,44.8,,,PR Umrigar
-54,44,5,West Indies,0,1958,not out,44.02,41.11,49.06,52.88,52.6,46.59,,,PR Umrigar
-55,2,3,West Indies,1,1958,caught,43.18,38.56,46.12,50.52,51.94,46.64,,,PR Umrigar
-56,4,5,West Indies,1,1959,caught,42.41,38.11,45.41,48.0,51.63,45.91,,,PR Umrigar
-57,29,3,West Indies,1,1959,bowled,42.15,32.67,43.72,49.12,51.54,42.64,,,PR Umrigar
-58,76,3,West Indies,1,1959,bowled,42.79,40.56,35.56,48.62,50.8,44.16,,,PR Umrigar
-59,21,3,England,1,1959,bowled,42.39,39.78,35.89,44.92,49.63,44.42,,,PR Umrigar
-60,20,3,England,1,1959,bowled,41.98,35.89,36.0,45.19,49.57,44.76,,,PR Umrigar
-61,1,3,England,1,1959,bowled,41.25,32.0,36.0,44.0,45.89,44.47,,,PR Umrigar
-62,0,3,England,1,1959,caught,40.53,25.67,35.17,43.23,43.91,44.38,,,PR Umrigar
-63,29,5,England,1,1959,caught,40.33,25.11,30.68,41.35,43.14,44.96,,,PR Umrigar
-64,39,5,England,1,1959,caught,40.31,22.1,31.11,38.69,44.09,45.82,,,PR Umrigar
-65,2,5,England,1,1959,bowled,39.67,22.1,29.89,37.22,42.4,45.31,,,PR Umrigar
-66,118,5,England,1,1959,caught,40.95,33.5,35.68,41.0,43.86,47.6,,,PR Umrigar
-67,0,3,Australia,1,1959,caught,40.29,30.6,31.58,39.04,43.83,46.89,,,PR Umrigar
-68,32,5,Australia,1,1959,caught,40.16,26.2,33.0,32.21,42.39,45.33,,,PR Umrigar
-69,6,3,Australia,1,1959,caught,39.62,24.7,31.84,31.89,39.31,44.09,39.62,,PR Umrigar
-70,14,3,Australia,1,1959,caught,39.23,24.1,29.68,31.75,39.33,43.91,39.38,,PR Umrigar
-71,0,3,Australia,1,1960,caught,38.64,24.0,27.79,31.71,38.44,41.02,39.05,,PR Umrigar
-72,33,5,Pakistan,1,1960,caught,38.55,27.3,26.53,32.36,38.81,40.22,39.44,,PR Umrigar
-73,115,5,Pakistan,1,1960,caught,39.68,35.9,30.79,32.48,39.83,41.53,40.64,,PR Umrigar
-74,1,4,Pakistan,1,1960,caught,39.12,32.1,27.1,31.45,36.86,41.42,40.5,,PR Umrigar
-75,4,5,Pakistan,1,1960,bowled,38.61,32.3,27.2,30.72,35.89,40.16,40.56,,PR Umrigar
-76,117,5,Pakistan,1,1961,bowled,39.72,32.2,32.85,34.48,38.62,41.27,41.83,,PR Umrigar
-77,112,5,Pakistan,1,1961,bowled,40.72,43.4,37.0,35.66,40.18,43.73,40.91,,PR Umrigar
-78,147,5,England,0,1961,not out,42.76,61.0,42.68,42.0,39.22,46.11,43.72,,PR Umrigar
-79,22,5,England,1,1961,lbw,42.48,62.78,42.74,41.79,39.41,44.0,43.92,,PR Umrigar
-80,36,5,England,1,1961,caught,42.39,65.22,43.58,41.11,39.89,44.51,44.41,,PR Umrigar
-81,36,6,England,1,1961,bowled,42.31,69.22,45.42,41.11,40.84,44.6,44.75,,PR Umrigar
-82,2,5,England,1,1962,caught,41.78,65.78,45.53,39.14,40.49,44.2,44.72,,PR Umrigar
-83,11,5,England,1,1962,caught,41.38,54.22,44.58,38.32,37.63,42.71,44.84,,PR Umrigar
-84,2,5,West Indies,1,1962,caught,40.87,54.33,42.63,35.55,36.87,40.36,44.88,,PR Umrigar
-85,23,5,West Indies,1,1962,caught,40.65,56.44,43.74,36.28,36.82,39.91,44.84,,PR Umrigar
-86,50,5,West Indies,1,1962,lbw,40.76,49.0,40.16,37.86,37.92,40.65,45.39,,PR Umrigar
-87,32,5,West Indies,1,1962,caught,40.65,40.11,41.84,37.97,36.71,40.17,45.39,,PR Umrigar
-88,8,5,West Indies,1,1962,caught,40.26,22.2,40.58,35.62,36.79,35.6,43.92,,PR Umrigar
-89,10,5,West Indies,1,1962,caught,39.89,21.0,40.79,35.24,36.32,35.49,43.11,,PR Umrigar
-90,56,6,West Indies,1,1962,stumped,40.08,23.0,43.0,36.48,36.34,36.3,43.64,,PR Umrigar
-91,172,6,West Indies,0,1962,not out,42.13,40.67,54.94,43.89,41.0,40.8,45.0,,PR Umrigar
-92,32,9,West Indies,1,1962,lbw,42.01,44.0,54.89,45.04,40.32,41.17,44.41,,PR Umrigar
-93,60,7,West Indies,1,1962,bowled,42.22,49.44,51.83,46.14,41.03,39.89,44.48,,PR Umrigar
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,PR Umrigar,30.0,caught,8,West Indies,30.0,30.0,1,1948,1,,,,,,,
+1,PR Umrigar,21.0,run out,3,England,25.5,51.0,2,1951,1,,,,,,,
+2,PR Umrigar,8.0,lbw,3,England,19.67,59.0,3,1951,1,,,,,,,
+3,PR Umrigar,38.0,caught,3,England,24.25,97.0,4,1951,1,,,,,,,
+4,PR Umrigar,10.0,caught,3,England,21.4,107.0,5,1951,1,,,,,,,
+5,PR Umrigar,0.0,bowled,3,England,17.83,107.0,6,1952,1,,,,,,,
+6,PR Umrigar,36.0,caught,5,England,20.43,143.0,7,1952,1,,,,,,,
+7,PR Umrigar,130.0,not out,7,England,39.0,273.0,7,1952,0,,,,,,,
+8,PR Umrigar,8.0,caught,3,England,35.12,281.0,8,1952,1,,,,,,,
+9,PR Umrigar,9.0,caught,4,England,32.22,290.0,9,1952,1,32.22,,,,,,
+10,PR Umrigar,5.0,bowled,3,England,29.5,295.0,10,1952,1,29.44,,,,,,
+11,PR Umrigar,14.0,bowled,7,England,28.09,309.0,11,1952,1,28.67,,,,,,
+12,PR Umrigar,4.0,bowled,5,England,26.08,313.0,12,1952,1,28.22,,,,,,
+13,PR Umrigar,3.0,caught,5,England,24.31,316.0,13,1952,1,24.33,,,,,,
+14,PR Umrigar,0.0,bowled,6,England,22.57,316.0,14,1952,1,23.22,,,,,,
+15,PR Umrigar,25.0,lbw,6,Pakistan,22.73,341.0,15,1952,1,26.0,,,,,,
+16,PR Umrigar,15.0,bowled,6,Pakistan,22.25,356.0,16,1952,1,23.67,,,,,,
+17,PR Umrigar,32.0,lbw,5,Pakistan,22.82,388.0,17,1952,1,11.5,,,,,,
+18,PR Umrigar,102.0,bowled,5,Pakistan,27.22,490.0,18,1952,1,20.9,,,,,,
+19,PR Umrigar,62.0,caught,5,Pakistan,29.05,552.0,19,1952,1,26.2,29.05,,,,,
+20,PR Umrigar,22.0,caught,5,Pakistan,28.7,574.0,20,1952,1,27.9,28.63,,,,,
+21,PR Umrigar,130.0,caught,5,West Indies,33.52,704.0,21,1953,1,39.5,34.37,,,,,
+22,PR Umrigar,69.0,bowled,5,West Indies,35.14,773.0,22,1953,1,46.0,37.58,,,,,
+23,PR Umrigar,56.0,caught,5,West Indies,36.04,829.0,23,1953,1,51.3,38.53,,,,,
+24,PR Umrigar,6.0,bowled,5,West Indies,34.79,835.0,24,1953,1,51.9,38.32,,,,,
+25,PR Umrigar,61.0,caught,5,West Indies,35.84,896.0,25,1953,1,55.5,41.53,,,,,
+26,PR Umrigar,67.0,stumped,5,West Indies,37.04,963.0,26,1953,1,60.7,43.16,,,,,
+27,PR Umrigar,1.0,caught,5,West Indies,35.7,964.0,27,1953,1,57.6,34.55,,,,,
+28,PR Umrigar,40.0,not out,5,West Indies,37.19,1004.0,27,1953,0,57.11,38.05,,,,,
+29,PR Umrigar,117.0,bowled,5,West Indies,40.04,1121.0,28,1953,1,63.22,43.74,40.04,,,,
+30,PR Umrigar,13.0,caught,5,West Indies,39.1,1134.0,29,1953,1,62.22,44.16,39.43,,,,
+31,PR Umrigar,32.0,caught,5,Pakistan,38.87,1166.0,30,1955,1,51.33,45.11,39.82,,,,
+32,PR Umrigar,20.0,bowled,5,Pakistan,38.26,1186.0,31,1955,1,45.89,45.95,40.25,,,,
+33,PR Umrigar,78.0,caught,5,Pakistan,39.5,1264.0,32,1955,1,48.33,49.89,41.68,,,,
+34,PR Umrigar,108.0,run out,3,Pakistan,41.58,1372.0,33,1955,1,59.67,55.58,45.18,,,,
+35,PR Umrigar,3.0,not out,3,Pakistan,41.67,1375.0,33,1955,0,59.88,57.44,46.96,,,,
+36,PR Umrigar,16.0,bowled,3,Pakistan,40.91,1391.0,34,1955,1,53.5,57.5,46.22,,,,
+37,PR Umrigar,14.0,not out,3,Pakistan,41.32,1405.0,34,1955,0,63.0,59.82,41.93,,,,
+38,PR Umrigar,223.0,caught,3,New Zealand,46.51,1628.0,35,1955,1,78.0,66.94,49.89,,,,
+39,PR Umrigar,15.0,bowled,3,New Zealand,45.64,1643.0,36,1955,1,65.25,64.18,50.11,45.64,,,
+40,PR Umrigar,18.0,bowled,3,New Zealand,44.89,1661.0,37,1955,1,65.88,63.94,50.59,45.31,,,
+41,PR Umrigar,1.0,run out,5,New Zealand,43.74,1662.0,38,1955,1,62.0,56.35,50.11,44.75,,,
+42,PR Umrigar,15.0,bowled,5,New Zealand,43.0,1677.0,39,1955,1,61.38,53.18,50.52,44.94,,,
+43,PR Umrigar,79.0,not out,3,New Zealand,45.03,1756.0,39,1956,0,70.29,57.94,55.38,47.4,,,
+44,PR Umrigar,31.0,caught,3,Australia,44.68,1787.0,40,1956,1,59.29,59.5,56.58,48.0,,,
+45,PR Umrigar,25.0,caught,3,Australia,44.2,1812.0,41,1956,1,54.62,57.25,56.58,48.71,,,
+46,PR Umrigar,8.0,bowled,3,Australia,43.33,1820.0,42,1956,1,53.62,53.56,56.31,47.91,,,
+47,PR Umrigar,78.0,caught,3,Australia,44.14,1898.0,43,1956,1,54.78,58.38,58.08,45.14,,,
+48,PR Umrigar,5.0,caught,3,Australia,43.25,1903.0,44,1956,1,30.56,52.88,54.35,45.06,,,
+49,PR Umrigar,28.0,caught,3,Australia,42.91,1931.0,45,1956,1,32.0,47.65,53.04,45.58,42.91,,
+50,PR Umrigar,55.0,bowled,3,West Indies,43.17,1986.0,46,1958,1,36.11,50.12,54.31,46.97,43.47,,
+51,PR Umrigar,36.0,bowled,3,West Indies,43.02,2022.0,47,1958,1,40.0,50.35,50.69,47.58,43.8,,
+52,PR Umrigar,57.0,caught,3,West Indies,43.31,2079.0,48,1958,1,44.67,52.53,50.23,49.06,44.89,,
+53,PR Umrigar,34.0,caught,3,West Indies,43.12,2113.0,49,1958,1,35.7,49.94,49.38,49.92,44.8,,
+54,PR Umrigar,44.0,not out,5,West Indies,44.02,2157.0,49,1958,0,41.11,49.06,52.88,52.6,46.59,,
+55,PR Umrigar,2.0,caught,3,West Indies,43.18,2159.0,50,1958,1,38.56,46.12,50.52,51.94,46.64,,
+56,PR Umrigar,4.0,caught,5,West Indies,42.41,2163.0,51,1959,1,38.11,45.41,48.0,51.63,45.91,,
+57,PR Umrigar,29.0,bowled,3,West Indies,42.15,2192.0,52,1959,1,32.67,43.72,49.12,51.54,42.64,,
+58,PR Umrigar,76.0,bowled,3,West Indies,42.79,2268.0,53,1959,1,40.56,35.56,48.62,50.8,44.16,,
+59,PR Umrigar,21.0,bowled,3,England,42.39,2289.0,54,1959,1,39.78,35.89,44.92,49.63,44.42,,
+60,PR Umrigar,20.0,bowled,3,England,41.98,2309.0,55,1959,1,35.89,36.0,45.19,49.57,44.76,,
+61,PR Umrigar,1.0,bowled,3,England,41.25,2310.0,56,1959,1,32.0,36.0,44.0,45.89,44.47,,
+62,PR Umrigar,0.0,caught,3,England,40.53,2310.0,57,1959,1,25.67,35.17,43.23,43.91,44.38,,
+63,PR Umrigar,29.0,caught,5,England,40.33,2339.0,58,1959,1,25.11,30.68,41.35,43.14,44.96,,
+64,PR Umrigar,39.0,caught,5,England,40.31,2378.0,59,1959,1,22.1,31.11,38.69,44.09,45.82,,
+65,PR Umrigar,2.0,bowled,5,England,39.67,2380.0,60,1959,1,22.1,29.89,37.22,42.4,45.31,,
+66,PR Umrigar,118.0,caught,5,England,40.95,2498.0,61,1959,1,33.5,35.68,41.0,43.86,47.6,,
+67,PR Umrigar,0.0,caught,3,Australia,40.29,2498.0,62,1959,1,30.6,31.58,39.04,43.83,46.89,,
+68,PR Umrigar,32.0,caught,5,Australia,40.16,2530.0,63,1959,1,26.2,33.0,32.21,42.39,45.33,,
+69,PR Umrigar,6.0,caught,3,Australia,39.62,2536.0,64,1959,1,24.7,31.84,31.89,39.31,44.09,39.62,
+70,PR Umrigar,14.0,caught,3,Australia,39.23,2550.0,65,1959,1,24.1,29.68,31.75,39.33,43.91,39.38,
+71,PR Umrigar,0.0,caught,3,Australia,38.64,2550.0,66,1960,1,24.0,27.79,31.71,38.44,41.02,39.05,
+72,PR Umrigar,33.0,caught,5,Pakistan,38.55,2583.0,67,1960,1,27.3,26.53,32.36,38.81,40.22,39.44,
+73,PR Umrigar,115.0,caught,5,Pakistan,39.68,2698.0,68,1960,1,35.9,30.79,32.48,39.83,41.53,40.64,
+74,PR Umrigar,1.0,caught,4,Pakistan,39.12,2699.0,69,1960,1,32.1,27.1,31.45,36.86,41.42,40.5,
+75,PR Umrigar,4.0,bowled,5,Pakistan,38.61,2703.0,70,1960,1,32.3,27.2,30.72,35.89,40.16,40.56,
+76,PR Umrigar,117.0,bowled,5,Pakistan,39.72,2820.0,71,1961,1,32.2,32.85,34.48,38.62,41.27,41.83,
+77,PR Umrigar,112.0,bowled,5,Pakistan,40.72,2932.0,72,1961,1,43.4,37.0,35.66,40.18,43.73,40.91,
+78,PR Umrigar,147.0,not out,5,England,42.76,3079.0,72,1961,0,61.0,42.68,42.0,39.22,46.11,43.72,
+79,PR Umrigar,22.0,lbw,5,England,42.48,3101.0,73,1961,1,62.78,42.74,41.79,39.41,44.0,43.92,
+80,PR Umrigar,36.0,caught,5,England,42.39,3137.0,74,1961,1,65.22,43.58,41.11,39.89,44.51,44.41,
+81,PR Umrigar,36.0,bowled,6,England,42.31,3173.0,75,1961,1,69.22,45.42,41.11,40.84,44.6,44.75,
+82,PR Umrigar,2.0,caught,5,England,41.78,3175.0,76,1962,1,65.78,45.53,39.14,40.49,44.2,44.72,
+83,PR Umrigar,11.0,caught,5,England,41.38,3186.0,77,1962,1,54.22,44.58,38.32,37.63,42.71,44.84,
+84,PR Umrigar,2.0,caught,5,West Indies,40.87,3188.0,78,1962,1,54.33,42.63,35.55,36.87,40.36,44.88,
+85,PR Umrigar,23.0,caught,5,West Indies,40.65,3211.0,79,1962,1,56.44,43.74,36.28,36.82,39.91,44.84,
+86,PR Umrigar,50.0,lbw,5,West Indies,40.76,3261.0,80,1962,1,49.0,40.16,37.86,37.92,40.65,45.39,
+87,PR Umrigar,32.0,caught,5,West Indies,40.65,3293.0,81,1962,1,40.11,41.84,37.97,36.71,40.17,45.39,
+88,PR Umrigar,8.0,caught,5,West Indies,40.26,3301.0,82,1962,1,22.2,40.58,35.62,36.79,35.6,43.92,
+89,PR Umrigar,10.0,caught,5,West Indies,39.89,3311.0,83,1962,1,21.0,40.79,35.24,36.32,35.49,43.11,
+90,PR Umrigar,56.0,stumped,6,West Indies,40.08,3367.0,84,1962,1,23.0,43.0,36.48,36.34,36.3,43.64,
+91,PR Umrigar,172.0,not out,6,West Indies,42.13,3539.0,84,1962,0,40.67,54.94,43.89,41.0,40.8,45.0,
+92,PR Umrigar,32.0,lbw,9,West Indies,42.01,3571.0,85,1962,1,44.0,54.89,45.04,40.32,41.17,44.41,
+93,PR Umrigar,60.0,bowled,7,West Indies,42.22,3631.0,86,1962,1,49.44,51.83,46.14,41.03,39.89,44.48,

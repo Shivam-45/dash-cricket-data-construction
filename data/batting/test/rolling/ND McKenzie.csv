@@ -1,95 +1,95 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,11,2,Sri Lanka,1,2000,bowled,11.0,,,,,,,,ND McKenzie
-1,25,2,Sri Lanka,1,2000,caught,18.0,,,,,,,,ND McKenzie
-2,0,2,Sri Lanka,1,2000,caught,12.0,,,,,,,,ND McKenzie
-3,1,2,Sri Lanka,1,2000,bowled,9.25,,,,,,,,ND McKenzie
-4,0,2,Sri Lanka,1,2000,caught,7.4,,,,,,,,ND McKenzie
-5,17,2,Sri Lanka,1,2000,run out,9.0,,,,,,,,ND McKenzie
-6,55,5,New Zealand,1,2000,caught,15.57,,,,,,,,ND McKenzie
-7,13,5,New Zealand,0,2000,not out,17.43,,,,,,,,ND McKenzie
-8,120,6,New Zealand,1,2000,caught,30.25,,,,,,,,ND McKenzie
-9,7,5,New Zealand,0,2000,not out,31.12,31.12,,,,,,,ND McKenzie
-10,9,5,Sri Lanka,1,2000,caught,28.67,30.88,,,,,,,ND McKenzie
-11,13,7,Sri Lanka,1,2000,lbw,27.1,29.38,,,,,,,ND McKenzie
-12,47,5,Sri Lanka,1,2001,caught,28.91,35.25,,,,,,,ND McKenzie
-13,103,5,Sri Lanka,1,2001,caught,35.08,48.0,,,,,,,ND McKenzie
-14,4,5,West Indies,1,2001,bowled,32.69,48.5,,,,,,,ND McKenzie
-15,9,5,West Indies,1,2001,caught,31.0,47.5,,,,,,,ND McKenzie
-16,25,5,West Indies,1,2001,caught,30.6,43.75,,,,,,,ND McKenzie
-17,72,5,West Indies,1,2001,caught,33.19,45.44,,,,,,,ND McKenzie
-18,12,3,West Indies,1,2001,caught,31.94,33.44,,,,,,,ND McKenzie
-19,35,5,West Indies,1,2001,caught,32.11,32.9,32.11,,,,,,ND McKenzie
-20,44,3,West Indies,1,2001,bowled,32.74,36.4,33.94,,,,,,ND McKenzie
-21,45,5,West Indies,1,2001,lbw,33.35,39.6,35.06,,,,,,ND McKenzie
-22,55,3,West Indies,1,2001,caught,34.38,40.4,38.11,,,,,,ND McKenzie
-23,52,4,Zimbabwe,1,2001,caught,35.18,35.3,40.94,,,,,,ND McKenzie
-24,88,4,Zimbabwe,1,2001,lbw,37.48,43.7,45.83,,,,,,ND McKenzie
-25,68,4,India,1,2001,lbw,38.75,49.6,48.67,,,,,,ND McKenzie
-26,12,4,India,1,2001,bowled,37.68,48.3,46.28,,,,,,ND McKenzie
-27,2,4,India,1,2001,caught,36.31,41.3,43.26,,,,,,ND McKenzie
-28,87,6,Australia,1,2001,lbw,38.19,48.8,41.53,,,,,,ND McKenzie
-29,0,5,Australia,1,2001,lbw,36.82,45.3,39.1,36.82,,,,,ND McKenzie
-30,67,5,Australia,1,2001,lbw,37.86,47.6,42.0,38.82,,,,,ND McKenzie
-31,12,5,Australia,1,2001,caught,37.0,44.3,41.95,38.36,,,,,ND McKenzie
-32,20,5,Australia,1,2002,bowled,36.45,40.8,40.6,39.07,,,,,ND McKenzie
-33,38,5,Australia,1,2002,caught,36.5,39.4,37.35,40.39,,,,,ND McKenzie
-34,16,5,Australia,1,2002,caught,35.88,32.2,37.95,40.96,,,,,ND McKenzie
-35,27,5,Australia,0,2002,not out,36.7,31.22,40.89,42.85,,,,,ND McKenzie
-36,20,5,Australia,1,2002,bowled,36.21,32.11,40.63,41.56,,,,,ND McKenzie
-37,99,5,Australia,1,2002,run out,38.0,42.89,42.05,43.14,,,,,ND McKenzie
-38,25,6,Australia,1,2002,caught,37.64,36.0,42.74,39.75,,,,,ND McKenzie
-39,4,5,Australia,1,2002,caught,36.73,36.44,41.11,38.28,36.73,,,,ND McKenzie
-40,0,6,Sri Lanka,1,2002,lbw,35.76,29.0,38.79,37.97,36.43,,,,ND McKenzie
-41,28,6,Sri Lanka,1,2002,lbw,35.56,30.78,37.89,38.48,36.51,,,,ND McKenzie
-42,39,7,Sri Lanka,1,2002,bowled,35.65,32.89,37.05,38.21,37.57,,,,ND McKenzie
-43,24,6,Pakistan,1,2002,bowled,35.37,31.33,35.58,35.48,38.19,,,,ND McKenzie
-44,51,6,Pakistan,1,2003,caught,35.74,35.22,33.63,37.1,39.57,,,,ND McKenzie
-45,7,5,Bangladesh,1,2003,lbw,35.07,29.7,30.42,37.03,39.3,,,,ND McKenzie
-46,90,6,England,1,2003,caught,36.32,36.7,34.53,39.28,40.24,,,,ND McKenzie
-47,11,6,England,1,2003,bowled,35.76,27.9,35.0,37.17,39.13,,,,ND McKenzie
-48,4,5,England,1,2003,caught,35.07,25.8,30.63,36.9,36.08,,,,ND McKenzie
-49,38,5,England,1,2003,caught,35.13,29.2,32.63,37.0,35.95,35.13,,,ND McKenzie
-50,9,5,England,1,2003,caught,34.58,30.1,29.58,35.79,35.95,35.09,,,ND McKenzie
-51,38,5,England,1,2003,lbw,34.65,31.1,30.95,35.55,36.59,35.36,,,ND McKenzie
-52,0,6,Pakistan,1,2003,lbw,33.96,27.2,29.89,33.66,35.38,35.36,,,ND McKenzie
-53,14,5,Pakistan,1,2003,bowled,33.57,26.2,28.63,32.34,33.1,35.64,,,ND McKenzie
-54,27,6,Pakistan,1,2003,caught,33.44,23.8,29.21,30.24,33.69,36.21,,,ND McKenzie
-55,35,5,Pakistan,1,2003,caught,33.47,26.6,28.15,29.1,34.36,36.6,,,ND McKenzie
-56,8,6,West Indies,1,2003,caught,33.0,18.4,27.55,28.97,33.92,35.6,,,ND McKenzie
-57,9,8,West Indies,0,2003,not out,33.17,20.22,24.26,30.25,33.16,35.51,,,ND McKenzie
-58,32,6,West Indies,1,2003,caught,33.15,23.33,24.63,28.29,33.68,33.64,,,ND McKenzie
-59,76,6,West Indies,1,2004,bowled,33.91,27.56,28.42,31.0,34.76,34.38,,,ND McKenzie
-60,40,6,West Indies,1,2004,caught,34.02,31.0,30.53,30.04,34.66,35.02,,,ND McKenzie
-61,10,7,New Zealand,1,2004,lbw,33.6,27.89,29.58,29.96,33.74,34.96,,,ND McKenzie
-62,52,5,New Zealand,1,2004,caught,33.92,33.67,30.26,31.11,33.66,35.06,,,ND McKenzie
-63,27,6,New Zealand,1,2004,caught,33.8,35.11,30.42,30.71,33.0,33.48,,,ND McKenzie
-64,0,6,New Zealand,1,2004,caught,33.25,32.11,27.74,30.14,30.68,33.4,,,ND McKenzie
-65,23,2,West Indies,1,2008,caught,33.08,30.78,28.58,28.97,29.5,33.69,,,ND McKenzie
-66,5,1,Bangladesh,1,2008,lbw,32.63,30.44,24.11,28.45,29.32,33.27,,,ND McKenzie
-67,26,1,Bangladesh,1,2008,caught,32.53,29.1,24.89,25.93,29.95,32.31,,,ND McKenzie
-68,226,1,Bangladesh,1,2008,bowled,35.51,48.5,36.58,32.86,33.61,36.77,,,ND McKenzie
-69,94,2,India,1,2008,caught,36.39,50.3,39.53,35.97,36.08,38.0,36.39,,ND McKenzie
-70,155,1,India,0,2008,not out,38.74,68.67,49.83,42.79,39.43,41.17,39.17,,ND McKenzie
-71,42,2,India,1,2008,caught,38.79,72.22,50.06,43.29,40.24,41.11,39.43,,ND McKenzie
-72,36,1,India,1,2008,stumped,38.75,70.44,52.06,43.18,40.68,40.7,39.98,,ND McKenzie
-73,14,1,India,1,2008,lbw,38.39,69.0,52.06,42.82,40.03,39.89,40.18,,ND McKenzie
-74,40,2,England,1,2008,bowled,38.41,73.44,52.78,42.43,40.68,38.87,40.8,,ND McKenzie
-75,138,2,England,1,2008,caught,39.82,86.22,58.5,47.11,42.53,40.36,42.66,,ND McKenzie
-76,15,1,England,1,2008,caught,39.47,87.33,58.89,44.43,42.39,40.43,42.05,,ND McKenzie
-77,6,2,England,0,2008,not out,39.56,95.75,58.72,45.89,41.03,41.39,41.94,,ND McKenzie
-78,72,1,England,1,2008,lbw,40.0,76.5,60.94,48.41,42.3,41.07,41.2,,ND McKenzie
-79,22,2,England,1,2008,lbw,39.76,67.5,57.94,47.81,42.78,41.54,40.8,,ND McKenzie
-80,17,2,England,1,2008,caught,39.45,44.67,56.67,48.11,43.24,40.46,40.92,,ND McKenzie
-81,29,2,England,1,2008,bowled,39.32,43.22,57.72,47.78,43.27,40.83,41.17,,ND McKenzie
-82,42,2,Bangladesh,1,2008,caught,39.35,43.89,57.17,49.33,43.35,41.3,41.09,,ND McKenzie
-83,0,2,Bangladesh,1,2008,caught,38.85,42.33,55.67,48.81,42.7,40.48,39.53,,ND McKenzie
-84,2,1,Australia,1,2008,caught,38.38,38.11,55.78,47.89,41.38,40.17,39.5,,ND McKenzie
-85,10,2,Australia,1,2008,caught,38.02,23.89,55.06,46.96,41.46,38.96,39.52,,ND McKenzie
-86,0,2,Australia,1,2008,bowled,37.56,22.22,54.78,46.67,39.03,38.53,39.14,,ND McKenzie
-87,59,2,Australia,0,2008,not out,38.28,28.11,59.94,48.52,41.44,38.5,39.54,,ND McKenzie
-88,23,1,Australia,1,2009,lbw,38.1,22.67,48.0,48.19,41.97,38.46,39.71,,ND McKenzie
-89,27,1,Australia,1,2009,caught,37.96,23.22,44.06,46.37,41.67,38.96,39.58,,ND McKenzie
-90,36,1,Australia,1,2009,lbw,37.94,25.33,35.0,46.22,42.42,39.74,39.46,,ND McKenzie
-91,35,1,Australia,1,2009,caught,37.91,26.0,34.61,47.15,42.33,39.89,39.31,,ND McKenzie
-92,0,1,Australia,1,2009,caught,37.47,21.33,32.61,45.22,42.33,39.04,38.46,,ND McKenzie
-93,31,2,Australia,1,2009,caught,37.39,24.78,33.56,45.37,42.81,39.2,38.14,,ND McKenzie
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,ND McKenzie,11.0,bowled,2,Sri Lanka,11.0,11.0,1,2000,1,,,,,,,
+1,ND McKenzie,25.0,caught,2,Sri Lanka,18.0,36.0,2,2000,1,,,,,,,
+2,ND McKenzie,0.0,caught,2,Sri Lanka,12.0,36.0,3,2000,1,,,,,,,
+3,ND McKenzie,1.0,bowled,2,Sri Lanka,9.25,37.0,4,2000,1,,,,,,,
+4,ND McKenzie,0.0,caught,2,Sri Lanka,7.4,37.0,5,2000,1,,,,,,,
+5,ND McKenzie,17.0,run out,2,Sri Lanka,9.0,54.0,6,2000,1,,,,,,,
+6,ND McKenzie,55.0,caught,5,New Zealand,15.57,109.0,7,2000,1,,,,,,,
+7,ND McKenzie,13.0,not out,5,New Zealand,17.43,122.0,7,2000,0,,,,,,,
+8,ND McKenzie,120.0,caught,6,New Zealand,30.25,242.0,8,2000,1,,,,,,,
+9,ND McKenzie,7.0,not out,5,New Zealand,31.12,249.0,8,2000,0,31.12,,,,,,
+10,ND McKenzie,9.0,caught,5,Sri Lanka,28.67,258.0,9,2000,1,30.88,,,,,,
+11,ND McKenzie,13.0,lbw,7,Sri Lanka,27.1,271.0,10,2000,1,29.38,,,,,,
+12,ND McKenzie,47.0,caught,5,Sri Lanka,28.91,318.0,11,2001,1,35.25,,,,,,
+13,ND McKenzie,103.0,caught,5,Sri Lanka,35.08,421.0,12,2001,1,48.0,,,,,,
+14,ND McKenzie,4.0,bowled,5,West Indies,32.69,425.0,13,2001,1,48.5,,,,,,
+15,ND McKenzie,9.0,caught,5,West Indies,31.0,434.0,14,2001,1,47.5,,,,,,
+16,ND McKenzie,25.0,caught,5,West Indies,30.6,459.0,15,2001,1,43.75,,,,,,
+17,ND McKenzie,72.0,caught,5,West Indies,33.19,531.0,16,2001,1,45.44,,,,,,
+18,ND McKenzie,12.0,caught,3,West Indies,31.94,543.0,17,2001,1,33.44,,,,,,
+19,ND McKenzie,35.0,caught,5,West Indies,32.11,578.0,18,2001,1,32.9,32.11,,,,,
+20,ND McKenzie,44.0,bowled,3,West Indies,32.74,622.0,19,2001,1,36.4,33.94,,,,,
+21,ND McKenzie,45.0,lbw,5,West Indies,33.35,667.0,20,2001,1,39.6,35.06,,,,,
+22,ND McKenzie,55.0,caught,3,West Indies,34.38,722.0,21,2001,1,40.4,38.11,,,,,
+23,ND McKenzie,52.0,caught,4,Zimbabwe,35.18,774.0,22,2001,1,35.3,40.94,,,,,
+24,ND McKenzie,88.0,lbw,4,Zimbabwe,37.48,862.0,23,2001,1,43.7,45.83,,,,,
+25,ND McKenzie,68.0,lbw,4,India,38.75,930.0,24,2001,1,49.6,48.67,,,,,
+26,ND McKenzie,12.0,bowled,4,India,37.68,942.0,25,2001,1,48.3,46.28,,,,,
+27,ND McKenzie,2.0,caught,4,India,36.31,944.0,26,2001,1,41.3,43.26,,,,,
+28,ND McKenzie,87.0,lbw,6,Australia,38.19,1031.0,27,2001,1,48.8,41.53,,,,,
+29,ND McKenzie,0.0,lbw,5,Australia,36.82,1031.0,28,2001,1,45.3,39.1,36.82,,,,
+30,ND McKenzie,67.0,lbw,5,Australia,37.86,1098.0,29,2001,1,47.6,42.0,38.82,,,,
+31,ND McKenzie,12.0,caught,5,Australia,37.0,1110.0,30,2001,1,44.3,41.95,38.36,,,,
+32,ND McKenzie,20.0,bowled,5,Australia,36.45,1130.0,31,2002,1,40.8,40.6,39.07,,,,
+33,ND McKenzie,38.0,caught,5,Australia,36.5,1168.0,32,2002,1,39.4,37.35,40.39,,,,
+34,ND McKenzie,16.0,caught,5,Australia,35.88,1184.0,33,2002,1,32.2,37.95,40.96,,,,
+35,ND McKenzie,27.0,not out,5,Australia,36.7,1211.0,33,2002,0,31.22,40.89,42.85,,,,
+36,ND McKenzie,20.0,bowled,5,Australia,36.21,1231.0,34,2002,1,32.11,40.63,41.56,,,,
+37,ND McKenzie,99.0,run out,5,Australia,38.0,1330.0,35,2002,1,42.89,42.05,43.14,,,,
+38,ND McKenzie,25.0,caught,6,Australia,37.64,1355.0,36,2002,1,36.0,42.74,39.75,,,,
+39,ND McKenzie,4.0,caught,5,Australia,36.73,1359.0,37,2002,1,36.44,41.11,38.28,36.73,,,
+40,ND McKenzie,0.0,lbw,6,Sri Lanka,35.76,1359.0,38,2002,1,29.0,38.79,37.97,36.43,,,
+41,ND McKenzie,28.0,lbw,6,Sri Lanka,35.56,1387.0,39,2002,1,30.78,37.89,38.48,36.51,,,
+42,ND McKenzie,39.0,bowled,7,Sri Lanka,35.65,1426.0,40,2002,1,32.89,37.05,38.21,37.57,,,
+43,ND McKenzie,24.0,bowled,6,Pakistan,35.37,1450.0,41,2002,1,31.33,35.58,35.48,38.19,,,
+44,ND McKenzie,51.0,caught,6,Pakistan,35.74,1501.0,42,2003,1,35.22,33.63,37.1,39.57,,,
+45,ND McKenzie,7.0,lbw,5,Bangladesh,35.07,1508.0,43,2003,1,29.7,30.42,37.03,39.3,,,
+46,ND McKenzie,90.0,caught,6,England,36.32,1598.0,44,2003,1,36.7,34.53,39.28,40.24,,,
+47,ND McKenzie,11.0,bowled,6,England,35.76,1609.0,45,2003,1,27.9,35.0,37.17,39.13,,,
+48,ND McKenzie,4.0,caught,5,England,35.07,1613.0,46,2003,1,25.8,30.63,36.9,36.08,,,
+49,ND McKenzie,38.0,caught,5,England,35.13,1651.0,47,2003,1,29.2,32.63,37.0,35.95,35.13,,
+50,ND McKenzie,9.0,caught,5,England,34.58,1660.0,48,2003,1,30.1,29.58,35.79,35.95,35.09,,
+51,ND McKenzie,38.0,lbw,5,England,34.65,1698.0,49,2003,1,31.1,30.95,35.55,36.59,35.36,,
+52,ND McKenzie,0.0,lbw,6,Pakistan,33.96,1698.0,50,2003,1,27.2,29.89,33.66,35.38,35.36,,
+53,ND McKenzie,14.0,bowled,5,Pakistan,33.57,1712.0,51,2003,1,26.2,28.63,32.34,33.1,35.64,,
+54,ND McKenzie,27.0,caught,6,Pakistan,33.44,1739.0,52,2003,1,23.8,29.21,30.24,33.69,36.21,,
+55,ND McKenzie,35.0,caught,5,Pakistan,33.47,1774.0,53,2003,1,26.6,28.15,29.1,34.36,36.6,,
+56,ND McKenzie,8.0,caught,6,West Indies,33.0,1782.0,54,2003,1,18.4,27.55,28.97,33.92,35.6,,
+57,ND McKenzie,9.0,not out,8,West Indies,33.17,1791.0,54,2003,0,20.22,24.26,30.25,33.16,35.51,,
+58,ND McKenzie,32.0,caught,6,West Indies,33.15,1823.0,55,2003,1,23.33,24.63,28.29,33.68,33.64,,
+59,ND McKenzie,76.0,bowled,6,West Indies,33.91,1899.0,56,2004,1,27.56,28.42,31.0,34.76,34.38,,
+60,ND McKenzie,40.0,caught,6,West Indies,34.02,1939.0,57,2004,1,31.0,30.53,30.04,34.66,35.02,,
+61,ND McKenzie,10.0,lbw,7,New Zealand,33.6,1949.0,58,2004,1,27.89,29.58,29.96,33.74,34.96,,
+62,ND McKenzie,52.0,caught,5,New Zealand,33.92,2001.0,59,2004,1,33.67,30.26,31.11,33.66,35.06,,
+63,ND McKenzie,27.0,caught,6,New Zealand,33.8,2028.0,60,2004,1,35.11,30.42,30.71,33.0,33.48,,
+64,ND McKenzie,0.0,caught,6,New Zealand,33.25,2028.0,61,2004,1,32.11,27.74,30.14,30.68,33.4,,
+65,ND McKenzie,23.0,caught,2,West Indies,33.08,2051.0,62,2008,1,30.78,28.58,28.97,29.5,33.69,,
+66,ND McKenzie,5.0,lbw,1,Bangladesh,32.63,2056.0,63,2008,1,30.44,24.11,28.45,29.32,33.27,,
+67,ND McKenzie,26.0,caught,1,Bangladesh,32.53,2082.0,64,2008,1,29.1,24.89,25.93,29.95,32.31,,
+68,ND McKenzie,226.0,bowled,1,Bangladesh,35.51,2308.0,65,2008,1,48.5,36.58,32.86,33.61,36.77,,
+69,ND McKenzie,94.0,caught,2,India,36.39,2402.0,66,2008,1,50.3,39.53,35.97,36.08,38.0,36.39,
+70,ND McKenzie,155.0,not out,1,India,38.74,2557.0,66,2008,0,68.67,49.83,42.79,39.43,41.17,39.17,
+71,ND McKenzie,42.0,caught,2,India,38.79,2599.0,67,2008,1,72.22,50.06,43.29,40.24,41.11,39.43,
+72,ND McKenzie,36.0,stumped,1,India,38.75,2635.0,68,2008,1,70.44,52.06,43.18,40.68,40.7,39.98,
+73,ND McKenzie,14.0,lbw,1,India,38.39,2649.0,69,2008,1,69.0,52.06,42.82,40.03,39.89,40.18,
+74,ND McKenzie,40.0,bowled,2,England,38.41,2689.0,70,2008,1,73.44,52.78,42.43,40.68,38.87,40.8,
+75,ND McKenzie,138.0,caught,2,England,39.82,2827.0,71,2008,1,86.22,58.5,47.11,42.53,40.36,42.66,
+76,ND McKenzie,15.0,caught,1,England,39.47,2842.0,72,2008,1,87.33,58.89,44.43,42.39,40.43,42.05,
+77,ND McKenzie,6.0,not out,2,England,39.56,2848.0,72,2008,0,95.75,58.72,45.89,41.03,41.39,41.94,
+78,ND McKenzie,72.0,lbw,1,England,40.0,2920.0,73,2008,1,76.5,60.94,48.41,42.3,41.07,41.2,
+79,ND McKenzie,22.0,lbw,2,England,39.76,2942.0,74,2008,1,67.5,57.94,47.81,42.78,41.54,40.8,
+80,ND McKenzie,17.0,caught,2,England,39.45,2959.0,75,2008,1,44.67,56.67,48.11,43.24,40.46,40.92,
+81,ND McKenzie,29.0,bowled,2,England,39.32,2988.0,76,2008,1,43.22,57.72,47.78,43.27,40.83,41.17,
+82,ND McKenzie,42.0,caught,2,Bangladesh,39.35,3030.0,77,2008,1,43.89,57.17,49.33,43.35,41.3,41.09,
+83,ND McKenzie,0.0,caught,2,Bangladesh,38.85,3030.0,78,2008,1,42.33,55.67,48.81,42.7,40.48,39.53,
+84,ND McKenzie,2.0,caught,1,Australia,38.38,3032.0,79,2008,1,38.11,55.78,47.89,41.38,40.17,39.5,
+85,ND McKenzie,10.0,caught,2,Australia,38.02,3042.0,80,2008,1,23.89,55.06,46.96,41.46,38.96,39.52,
+86,ND McKenzie,0.0,bowled,2,Australia,37.56,3042.0,81,2008,1,22.22,54.78,46.67,39.03,38.53,39.14,
+87,ND McKenzie,59.0,not out,2,Australia,38.28,3101.0,81,2008,0,28.11,59.94,48.52,41.44,38.5,39.54,
+88,ND McKenzie,23.0,lbw,1,Australia,38.1,3124.0,82,2009,1,22.67,48.0,48.19,41.97,38.46,39.71,
+89,ND McKenzie,27.0,caught,1,Australia,37.96,3151.0,83,2009,1,23.22,44.06,46.37,41.67,38.96,39.58,
+90,ND McKenzie,36.0,lbw,1,Australia,37.94,3187.0,84,2009,1,25.33,35.0,46.22,42.42,39.74,39.46,
+91,ND McKenzie,35.0,caught,1,Australia,37.91,3222.0,85,2009,1,26.0,34.61,47.15,42.33,39.89,39.31,
+92,ND McKenzie,0.0,caught,1,Australia,37.47,3222.0,86,2009,1,21.33,32.61,45.22,42.33,39.04,38.46,
+93,ND McKenzie,31.0,caught,2,Australia,37.39,3253.0,87,2009,1,24.78,33.56,45.37,42.81,39.2,38.14,

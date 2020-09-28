@@ -1,64 +1,64 @@
-event_at,removed,observed,censored,entrance,at_risk
-0.0,0,0,0,116,116
-1.0,8,7,1,0,116
-2.0,4,4,0,0,108
-3.0,2,1,1,0,104
-4.0,1,1,0,0,102
-5.0,3,2,1,0,101
-6.0,6,6,0,0,98
-7.0,4,4,0,0,92
-8.0,2,2,0,0,88
-9.0,2,2,0,0,86
-10.0,1,1,0,0,84
-11.0,2,2,0,0,83
-13.0,4,4,0,0,81
-14.0,3,3,0,0,77
-15.0,2,2,0,0,74
-16.0,1,1,0,0,72
-17.0,3,3,0,0,71
-18.0,2,2,0,0,68
-19.0,4,4,0,0,66
-21.0,1,1,0,0,62
-22.0,1,1,0,0,61
-23.0,1,1,0,0,60
-24.0,1,1,0,0,59
-25.0,4,3,1,0,58
-26.0,4,4,0,0,54
-27.0,3,3,0,0,50
-28.0,4,4,0,0,47
-29.0,1,1,0,0,43
-30.0,3,3,0,0,42
-31.0,1,1,0,0,39
-32.0,1,1,0,0,38
-34.0,1,1,0,0,37
-36.0,1,1,0,0,36
-37.0,1,1,0,0,35
-38.0,1,1,0,0,34
-39.0,2,2,0,0,33
-40.0,1,0,1,0,31
-42.0,1,1,0,0,30
-45.0,1,1,0,0,29
-50.0,1,1,0,0,28
-51.0,1,1,0,0,27
-53.0,1,0,1,0,26
-58.0,2,1,1,0,25
-60.0,1,1,0,0,23
-66.0,1,1,0,0,22
-67.0,1,1,0,0,21
-74.0,1,1,0,0,20
-77.0,1,1,0,0,19
-79.0,3,3,0,0,18
-80.0,1,1,0,0,15
-82.0,1,1,0,0,14
-85.0,1,1,0,0,13
-90.0,1,1,0,0,12
-96.0,1,1,0,0,11
-107.0,1,1,0,0,10
-115.0,1,1,0,0,9
-120.0,1,1,0,0,8
-121.0,1,1,0,0,7
-125.0,1,1,0,0,6
-127.0,1,1,0,0,5
-153.0,2,1,1,0,4
-200.0,1,1,0,0,2
-232.0,1,1,0,0,1
+event_at,removed,observed,censored,entrance,at_risk,Name
+0.0,0,0,0,116,116,Mudassar Nazar
+1.0,8,7,1,0,116,Mudassar Nazar
+2.0,4,4,0,0,108,Mudassar Nazar
+3.0,2,1,1,0,104,Mudassar Nazar
+4.0,1,1,0,0,102,Mudassar Nazar
+5.0,3,2,1,0,101,Mudassar Nazar
+6.0,6,6,0,0,98,Mudassar Nazar
+7.0,4,4,0,0,92,Mudassar Nazar
+8.0,2,2,0,0,88,Mudassar Nazar
+9.0,2,2,0,0,86,Mudassar Nazar
+10.0,1,1,0,0,84,Mudassar Nazar
+11.0,2,2,0,0,83,Mudassar Nazar
+13.0,4,4,0,0,81,Mudassar Nazar
+14.0,3,3,0,0,77,Mudassar Nazar
+15.0,2,2,0,0,74,Mudassar Nazar
+16.0,1,1,0,0,72,Mudassar Nazar
+17.0,3,3,0,0,71,Mudassar Nazar
+18.0,2,2,0,0,68,Mudassar Nazar
+19.0,4,4,0,0,66,Mudassar Nazar
+21.0,1,1,0,0,62,Mudassar Nazar
+22.0,1,1,0,0,61,Mudassar Nazar
+23.0,1,1,0,0,60,Mudassar Nazar
+24.0,1,1,0,0,59,Mudassar Nazar
+25.0,4,3,1,0,58,Mudassar Nazar
+26.0,4,4,0,0,54,Mudassar Nazar
+27.0,3,3,0,0,50,Mudassar Nazar
+28.0,4,4,0,0,47,Mudassar Nazar
+29.0,1,1,0,0,43,Mudassar Nazar
+30.0,3,3,0,0,42,Mudassar Nazar
+31.0,1,1,0,0,39,Mudassar Nazar
+32.0,1,1,0,0,38,Mudassar Nazar
+34.0,1,1,0,0,37,Mudassar Nazar
+36.0,1,1,0,0,36,Mudassar Nazar
+37.0,1,1,0,0,35,Mudassar Nazar
+38.0,1,1,0,0,34,Mudassar Nazar
+39.0,2,2,0,0,33,Mudassar Nazar
+40.0,1,0,1,0,31,Mudassar Nazar
+42.0,1,1,0,0,30,Mudassar Nazar
+45.0,1,1,0,0,29,Mudassar Nazar
+50.0,1,1,0,0,28,Mudassar Nazar
+51.0,1,1,0,0,27,Mudassar Nazar
+53.0,1,0,1,0,26,Mudassar Nazar
+58.0,2,1,1,0,25,Mudassar Nazar
+60.0,1,1,0,0,23,Mudassar Nazar
+66.0,1,1,0,0,22,Mudassar Nazar
+67.0,1,1,0,0,21,Mudassar Nazar
+74.0,1,1,0,0,20,Mudassar Nazar
+77.0,1,1,0,0,19,Mudassar Nazar
+79.0,3,3,0,0,18,Mudassar Nazar
+80.0,1,1,0,0,15,Mudassar Nazar
+82.0,1,1,0,0,14,Mudassar Nazar
+85.0,1,1,0,0,13,Mudassar Nazar
+90.0,1,1,0,0,12,Mudassar Nazar
+96.0,1,1,0,0,11,Mudassar Nazar
+107.0,1,1,0,0,10,Mudassar Nazar
+115.0,1,1,0,0,9,Mudassar Nazar
+120.0,1,1,0,0,8,Mudassar Nazar
+121.0,1,1,0,0,7,Mudassar Nazar
+125.0,1,1,0,0,6,Mudassar Nazar
+127.0,1,1,0,0,5,Mudassar Nazar
+153.0,2,1,1,0,4,Mudassar Nazar
+200.0,1,1,0,0,2,Mudassar Nazar
+232.0,1,1,0,0,1,Mudassar Nazar

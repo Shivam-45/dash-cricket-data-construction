@@ -1,62 +1,62 @@
-event_at,removed,observed,censored,entrance,at_risk
-0.0,0,0,0,105,105
-1.0,4,4,0,0,105
-2.0,3,3,0,0,101
-3.0,4,4,0,0,98
-4.0,1,1,0,0,94
-5.0,2,2,0,0,93
-6.0,5,5,0,0,91
-7.0,3,3,0,0,86
-8.0,1,1,0,0,83
-9.0,4,4,0,0,82
-10.0,1,1,0,0,78
-11.0,2,2,0,0,77
-12.0,1,1,0,0,75
-13.0,1,1,0,0,74
-14.0,1,1,0,0,73
-15.0,1,1,0,0,72
-16.0,3,3,0,0,71
-17.0,3,3,0,0,68
-18.0,5,5,0,0,65
-20.0,1,1,0,0,60
-21.0,1,1,0,0,59
-23.0,1,1,0,0,58
-24.0,1,1,0,0,57
-25.0,2,2,0,0,56
-26.0,3,3,0,0,54
-27.0,1,1,0,0,51
-28.0,1,1,0,0,50
-31.0,4,4,0,0,49
-32.0,1,1,0,0,45
-33.0,2,1,1,0,44
-35.0,2,2,0,0,42
-36.0,1,1,0,0,40
-41.0,2,2,0,0,39
-42.0,2,1,1,0,37
-44.0,1,0,1,0,35
-45.0,1,1,0,0,34
-47.0,1,1,0,0,33
-48.0,1,1,0,0,32
-50.0,2,2,0,0,31
-51.0,2,1,1,0,29
-52.0,1,1,0,0,27
-55.0,1,1,0,0,26
-56.0,2,2,0,0,25
-60.0,2,2,0,0,23
-69.0,1,1,0,0,21
-72.0,2,2,0,0,20
-74.0,1,1,0,0,18
-77.0,1,0,1,0,17
-81.0,1,1,0,0,16
-82.0,1,1,0,0,15
-83.0,1,1,0,0,14
-85.0,1,1,0,0,13
-88.0,1,1,0,0,12
-90.0,2,1,1,0,11
-97.0,3,2,1,0,9
-98.0,1,1,0,0,6
-101.0,1,1,0,0,5
-117.0,1,1,0,0,4
-138.0,1,1,0,0,3
-145.0,1,1,0,0,2
-218.0,1,1,0,0,1
+event_at,removed,observed,censored,entrance,at_risk,Name
+0.0,0,0,0,105,105,Shakib Al Hasan
+1.0,4,4,0,0,105,Shakib Al Hasan
+2.0,3,3,0,0,101,Shakib Al Hasan
+3.0,4,4,0,0,98,Shakib Al Hasan
+4.0,1,1,0,0,94,Shakib Al Hasan
+5.0,2,2,0,0,93,Shakib Al Hasan
+6.0,5,5,0,0,91,Shakib Al Hasan
+7.0,3,3,0,0,86,Shakib Al Hasan
+8.0,1,1,0,0,83,Shakib Al Hasan
+9.0,4,4,0,0,82,Shakib Al Hasan
+10.0,1,1,0,0,78,Shakib Al Hasan
+11.0,2,2,0,0,77,Shakib Al Hasan
+12.0,1,1,0,0,75,Shakib Al Hasan
+13.0,1,1,0,0,74,Shakib Al Hasan
+14.0,1,1,0,0,73,Shakib Al Hasan
+15.0,1,1,0,0,72,Shakib Al Hasan
+16.0,3,3,0,0,71,Shakib Al Hasan
+17.0,3,3,0,0,68,Shakib Al Hasan
+18.0,5,5,0,0,65,Shakib Al Hasan
+20.0,1,1,0,0,60,Shakib Al Hasan
+21.0,1,1,0,0,59,Shakib Al Hasan
+23.0,1,1,0,0,58,Shakib Al Hasan
+24.0,1,1,0,0,57,Shakib Al Hasan
+25.0,2,2,0,0,56,Shakib Al Hasan
+26.0,3,3,0,0,54,Shakib Al Hasan
+27.0,1,1,0,0,51,Shakib Al Hasan
+28.0,1,1,0,0,50,Shakib Al Hasan
+31.0,4,4,0,0,49,Shakib Al Hasan
+32.0,1,1,0,0,45,Shakib Al Hasan
+33.0,2,1,1,0,44,Shakib Al Hasan
+35.0,2,2,0,0,42,Shakib Al Hasan
+36.0,1,1,0,0,40,Shakib Al Hasan
+41.0,2,2,0,0,39,Shakib Al Hasan
+42.0,2,1,1,0,37,Shakib Al Hasan
+44.0,1,0,1,0,35,Shakib Al Hasan
+45.0,1,1,0,0,34,Shakib Al Hasan
+47.0,1,1,0,0,33,Shakib Al Hasan
+48.0,1,1,0,0,32,Shakib Al Hasan
+50.0,2,2,0,0,31,Shakib Al Hasan
+51.0,2,1,1,0,29,Shakib Al Hasan
+52.0,1,1,0,0,27,Shakib Al Hasan
+55.0,1,1,0,0,26,Shakib Al Hasan
+56.0,2,2,0,0,25,Shakib Al Hasan
+60.0,2,2,0,0,23,Shakib Al Hasan
+69.0,1,1,0,0,21,Shakib Al Hasan
+72.0,2,2,0,0,20,Shakib Al Hasan
+74.0,1,1,0,0,18,Shakib Al Hasan
+77.0,1,0,1,0,17,Shakib Al Hasan
+81.0,1,1,0,0,16,Shakib Al Hasan
+82.0,1,1,0,0,15,Shakib Al Hasan
+83.0,1,1,0,0,14,Shakib Al Hasan
+85.0,1,1,0,0,13,Shakib Al Hasan
+88.0,1,1,0,0,12,Shakib Al Hasan
+90.0,2,1,1,0,11,Shakib Al Hasan
+97.0,3,2,1,0,9,Shakib Al Hasan
+98.0,1,1,0,0,6,Shakib Al Hasan
+101.0,1,1,0,0,5,Shakib Al Hasan
+117.0,1,1,0,0,4,Shakib Al Hasan
+138.0,1,1,0,0,3,Shakib Al Hasan
+145.0,1,1,0,0,2,Shakib Al Hasan
+218.0,1,1,0,0,1,Shakib Al Hasan

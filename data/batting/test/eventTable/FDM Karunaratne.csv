@@ -1,71 +1,71 @@
-event_at,removed,observed,censored,entrance,at_risk
-0.0,0,0,0,128,128
-1.0,12,12,0,0,128
-2.0,3,3,0,0,116
-3.0,1,1,0,0,113
-4.0,3,3,0,0,112
-5.0,2,2,0,0,109
-6.0,4,4,0,0,107
-7.0,1,1,0,0,103
-8.0,6,6,0,0,102
-9.0,3,3,0,0,96
-10.0,2,2,0,0,93
-11.0,4,3,1,0,91
-12.0,1,1,0,0,87
-13.0,2,2,0,0,86
-14.0,2,2,0,0,84
-15.0,1,1,0,0,82
-16.0,1,1,0,0,81
-17.0,5,5,0,0,80
-18.0,3,3,0,0,75
-19.0,1,1,0,0,72
-20.0,1,1,0,0,71
-21.0,1,1,0,0,70
-22.0,2,2,0,0,69
-23.0,1,1,0,0,67
-24.0,1,1,0,0,66
-25.0,3,3,0,0,65
-26.0,3,3,0,0,62
-27.0,3,3,0,0,59
-28.0,1,1,0,0,56
-29.0,2,2,0,0,55
-30.0,1,1,0,0,53
-31.0,3,3,0,0,52
-32.0,1,1,0,0,49
-33.0,3,3,0,0,48
-35.0,1,1,0,0,45
-38.0,2,1,1,0,44
-39.0,2,2,0,0,42
-40.0,1,1,0,0,40
-42.0,1,1,0,0,39
-44.0,1,1,0,0,38
-45.0,1,1,0,0,37
-46.0,1,1,0,0,36
-47.0,1,1,0,0,35
-50.0,1,1,0,0,34
-51.0,3,3,0,0,33
-52.0,1,1,0,0,30
-54.0,2,2,0,0,29
-57.0,1,1,0,0,27
-58.0,1,1,0,0,26
-60.0,2,2,0,0,25
-61.0,2,1,1,0,23
-63.0,1,0,1,0,21
-64.0,1,1,0,0,20
-66.0,1,1,0,0,19
-80.0,2,2,0,0,18
-84.0,1,1,0,0,16
-85.0,1,1,0,0,15
-86.0,2,2,0,0,14
-89.0,1,1,0,0,12
-94.0,1,1,0,0,11
-98.0,1,1,0,0,10
-111.0,1,1,0,0,9
-123.0,1,1,0,0,8
-127.0,1,1,0,0,7
-131.0,1,1,0,0,6
-142.0,1,1,0,0,5
-153.0,1,1,0,0,4
-159.0,1,0,1,0,3
-187.0,1,1,0,0,2
-197.0,1,1,0,0,1
+event_at,removed,observed,censored,entrance,at_risk,Name
+0.0,0,0,0,128,128,FDM Karunaratne
+1.0,12,12,0,0,128,FDM Karunaratne
+2.0,3,3,0,0,116,FDM Karunaratne
+3.0,1,1,0,0,113,FDM Karunaratne
+4.0,3,3,0,0,112,FDM Karunaratne
+5.0,2,2,0,0,109,FDM Karunaratne
+6.0,4,4,0,0,107,FDM Karunaratne
+7.0,1,1,0,0,103,FDM Karunaratne
+8.0,6,6,0,0,102,FDM Karunaratne
+9.0,3,3,0,0,96,FDM Karunaratne
+10.0,2,2,0,0,93,FDM Karunaratne
+11.0,4,3,1,0,91,FDM Karunaratne
+12.0,1,1,0,0,87,FDM Karunaratne
+13.0,2,2,0,0,86,FDM Karunaratne
+14.0,2,2,0,0,84,FDM Karunaratne
+15.0,1,1,0,0,82,FDM Karunaratne
+16.0,1,1,0,0,81,FDM Karunaratne
+17.0,5,5,0,0,80,FDM Karunaratne
+18.0,3,3,0,0,75,FDM Karunaratne
+19.0,1,1,0,0,72,FDM Karunaratne
+20.0,1,1,0,0,71,FDM Karunaratne
+21.0,1,1,0,0,70,FDM Karunaratne
+22.0,2,2,0,0,69,FDM Karunaratne
+23.0,1,1,0,0,67,FDM Karunaratne
+24.0,1,1,0,0,66,FDM Karunaratne
+25.0,3,3,0,0,65,FDM Karunaratne
+26.0,3,3,0,0,62,FDM Karunaratne
+27.0,3,3,0,0,59,FDM Karunaratne
+28.0,1,1,0,0,56,FDM Karunaratne
+29.0,2,2,0,0,55,FDM Karunaratne
+30.0,1,1,0,0,53,FDM Karunaratne
+31.0,3,3,0,0,52,FDM Karunaratne
+32.0,1,1,0,0,49,FDM Karunaratne
+33.0,3,3,0,0,48,FDM Karunaratne
+35.0,1,1,0,0,45,FDM Karunaratne
+38.0,2,1,1,0,44,FDM Karunaratne
+39.0,2,2,0,0,42,FDM Karunaratne
+40.0,1,1,0,0,40,FDM Karunaratne
+42.0,1,1,0,0,39,FDM Karunaratne
+44.0,1,1,0,0,38,FDM Karunaratne
+45.0,1,1,0,0,37,FDM Karunaratne
+46.0,1,1,0,0,36,FDM Karunaratne
+47.0,1,1,0,0,35,FDM Karunaratne
+50.0,1,1,0,0,34,FDM Karunaratne
+51.0,3,3,0,0,33,FDM Karunaratne
+52.0,1,1,0,0,30,FDM Karunaratne
+54.0,2,2,0,0,29,FDM Karunaratne
+57.0,1,1,0,0,27,FDM Karunaratne
+58.0,1,1,0,0,26,FDM Karunaratne
+60.0,2,2,0,0,25,FDM Karunaratne
+61.0,2,1,1,0,23,FDM Karunaratne
+63.0,1,0,1,0,21,FDM Karunaratne
+64.0,1,1,0,0,20,FDM Karunaratne
+66.0,1,1,0,0,19,FDM Karunaratne
+80.0,2,2,0,0,18,FDM Karunaratne
+84.0,1,1,0,0,16,FDM Karunaratne
+85.0,1,1,0,0,15,FDM Karunaratne
+86.0,2,2,0,0,14,FDM Karunaratne
+89.0,1,1,0,0,12,FDM Karunaratne
+94.0,1,1,0,0,11,FDM Karunaratne
+98.0,1,1,0,0,10,FDM Karunaratne
+111.0,1,1,0,0,9,FDM Karunaratne
+123.0,1,1,0,0,8,FDM Karunaratne
+127.0,1,1,0,0,7,FDM Karunaratne
+131.0,1,1,0,0,6,FDM Karunaratne
+142.0,1,1,0,0,5,FDM Karunaratne
+153.0,1,1,0,0,4,FDM Karunaratne
+159.0,1,0,1,0,3,FDM Karunaratne
+187.0,1,1,0,0,2,FDM Karunaratne
+197.0,1,1,0,0,1,FDM Karunaratne

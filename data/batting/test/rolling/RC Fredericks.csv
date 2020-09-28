@@ -1,110 +1,110 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,76,2,Australia,1,1968,caught,76.0,,,,,,,,RC Fredericks
-1,47,2,Australia,1,1968,caught,61.5,,,,,,,,RC Fredericks
-2,26,1,Australia,1,1969,caught,49.67,,,,,,,,RC Fredericks
-3,43,1,Australia,1,1969,caught,48.0,,,,,,,,RC Fredericks
-4,17,1,Australia,1,1969,lbw,41.8,,,,,,,,RC Fredericks
-5,23,1,Australia,1,1969,caught,38.67,,,,,,,,RC Fredericks
-6,39,1,Australia,1,1969,caught,38.71,,,,,,,,RC Fredericks
-7,0,1,Australia,1,1969,caught,33.88,,,,,,,,RC Fredericks
-8,6,1,New Zealand,1,1969,bowled,30.78,,,,,,,,RC Fredericks
-9,23,1,New Zealand,1,1969,caught,30.0,30.0,,,,,,,RC Fredericks
-10,15,1,New Zealand,1,1969,caught,28.64,23.9,,,,,,,RC Fredericks
-11,2,1,New Zealand,1,1969,caught,26.42,19.4,,,,,,,RC Fredericks
-12,4,1,New Zealand,1,1969,caught,24.69,17.2,,,,,,,RC Fredericks
-13,0,1,England,1,1969,caught,22.93,12.9,,,,,,,RC Fredericks
-14,64,1,England,1,1969,caught,25.67,17.6,,,,,,,RC Fredericks
-15,63,1,England,1,1969,caught,28.0,21.6,,,,,,,RC Fredericks
-16,60,1,England,1,1969,caught,29.88,23.7,,,,,,,RC Fredericks
-17,11,1,England,1,1969,lbw,28.83,24.8,,,,,,,RC Fredericks
-18,6,1,England,1,1969,caught,27.63,24.8,,,,,,,RC Fredericks
-19,45,1,India,1,1971,caught,28.5,27.0,28.5,,,,,,RC Fredericks
-20,16,1,India,1,1971,caught,27.9,27.1,25.5,,,,,,RC Fredericks
-21,0,1,India,1,1971,bowled,26.64,26.9,23.15,,,,,,RC Fredericks
-22,80,1,India,1,1971,run out,28.96,34.5,25.85,,,,,,RC Fredericks
-23,47,1,India,1,1971,caught,29.71,39.2,26.05,,,,,,RC Fredericks
-24,5,1,India,1,1971,lbw,28.72,33.3,25.45,,,,,,RC Fredericks
-25,1,1,India,1,1971,bowled,27.65,27.1,24.35,,,,,,RC Fredericks
-26,48,1,India,1,1971,bowled,28.41,25.9,24.8,,,,,,RC Fredericks
-27,163,1,New Zealand,1,1972,caught,33.21,41.1,32.95,,,,,,RC Fredericks
-28,33,1,New Zealand,1,1972,bowled,33.21,43.8,34.3,,,,,,RC Fredericks
-29,69,1,New Zealand,1,1972,caught,34.4,46.2,36.6,34.4,,,,,RC Fredericks
-30,31,1,New Zealand,1,1972,caught,34.29,47.7,37.4,32.9,,,,,RC Fredericks
-31,5,1,New Zealand,1,1972,caught,33.38,48.2,37.55,31.5,,,,,RC Fredericks
-32,28,1,New Zealand,1,1972,lbw,33.21,43.0,38.75,31.57,,,,,RC Fredericks
-33,41,1,New Zealand,1,1972,caught,33.44,42.4,40.8,31.5,,,,,RC Fredericks
-34,42,1,New Zealand,0,1972,not out,34.68,51.22,41.79,33.45,,,,,RC Fredericks
-35,60,1,New Zealand,1,1972,run out,35.4,57.78,41.63,34.72,,,,,RC Fredericks
-36,15,1,New Zealand,1,1972,caught,34.83,54.11,39.26,33.9,,,,,RC Fredericks
-37,31,1,Australia,1,1973,caught,34.73,39.44,40.32,34.97,,,,,RC Fredericks
-38,21,1,Australia,1,1973,caught,34.37,38.11,41.11,35.48,,,,,RC Fredericks
-39,98,1,Australia,1,1973,lbw,36.0,41.33,43.89,38.07,36.0,,,,RC Fredericks
-40,22,1,Australia,0,1973,not out,36.56,45.38,46.67,39.68,35.53,,,,RC Fredericks
-41,16,1,Australia,1,1973,caught,36.05,46.75,47.56,40.18,34.71,,,,RC Fredericks
-42,76,1,Australia,1,1973,caught,37.02,52.75,47.33,42.75,36.03,,,,RC Fredericks
-43,30,1,Australia,1,1973,caught,36.86,51.38,46.39,43.82,35.68,,,,RC Fredericks
-44,6,1,Australia,1,1973,caught,36.14,41.67,46.44,41.75,35.39,,,,RC Fredericks
-45,73,1,Australia,1,1973,caught,36.98,43.11,50.44,42.11,36.71,,,,RC Fredericks
-46,8,1,Australia,1,1973,caught,36.33,42.33,48.22,40.25,35.89,,,,RC Fredericks
-47,35,1,England,1,1973,lbw,36.3,42.78,41.11,41.11,36.82,,,,RC Fredericks
-48,3,1,England,1,1973,caught,35.6,40.78,39.44,41.0,36.74,,,,RC Fredericks
-49,150,1,England,1,1973,caught,37.98,46.56,43.94,44.75,40.08,37.98,,,RC Fredericks
-50,12,2,England,1,1973,caught,37.45,40.9,42.89,44.61,40.0,36.65,,,RC Fredericks
-51,51,1,England,1,1973,caught,37.72,44.4,45.44,46.43,41.29,36.73,,,RC Fredericks
-52,5,1,England,1,1974,caught,37.08,37.3,44.17,43.75,41.32,36.29,,,RC Fredericks
-53,65,1,England,0,1974,not out,38.35,45.33,48.18,46.04,44.19,37.53,,,RC Fredericks
-54,94,1,England,1,1974,bowled,39.42,55.11,48.39,49.33,45.0,39.17,,,RC Fredericks
-55,32,1,England,1,1974,bowled,39.28,50.56,46.83,50.48,44.16,39.36,,,RC Fredericks
-56,98,1,England,1,1974,caught,40.37,60.56,51.44,52.33,45.19,40.62,,,RC Fredericks
-57,67,1,England,1,1974,caught,40.85,64.11,53.44,48.78,46.7,42.04,,,RC Fredericks
-58,36,1,England,1,1974,run out,40.77,67.78,54.28,48.89,47.51,42.68,,,RC Fredericks
-59,23,1,India,1,1974,caught,40.46,53.67,50.11,47.19,46.92,42.68,,,RC Fredericks
-60,5,7,India,1,1974,caught,39.84,52.89,46.58,46.22,46.62,42.47,,,RC Fredericks
-61,100,1,India,1,1974,caught,40.86,58.33,51.0,49.74,49.32,44.55,,,RC Fredericks
-62,21,1,India,1,1974,bowled,40.53,60.11,48.11,49.48,47.73,44.91,,,RC Fredericks
-63,14,1,India,1,1975,caught,40.1,49.0,47.26,48.48,46.84,45.21,,,RC Fredericks
-64,19,1,India,1,1975,caught,39.76,41.5,47.95,45.93,47.22,44.26,,,RC Fredericks
-65,104,1,India,1,1975,caught,40.78,48.7,49.58,47.5,50.0,45.13,,,RC Fredericks
-66,37,1,India,1,1975,bowled,40.72,42.6,51.11,48.29,49.7,44.64,,,RC Fredericks
-67,44,1,Pakistan,1,1975,lbw,40.77,40.3,51.58,48.75,46.49,45.34,,,RC Fredericks
-68,14,1,Pakistan,1,1975,lbw,40.36,38.1,52.16,48.5,45.97,45.51,,,RC Fredericks
-69,77,1,Pakistan,1,1975,caught,40.91,43.5,48.32,47.75,46.19,46.19,40.91,,RC Fredericks
-70,0,1,Pakistan,0,1975,not out,40.91,47.78,50.33,46.96,46.61,46.85,40.38,,RC Fredericks
-71,46,1,Australia,1,1975,caught,40.99,41.78,50.06,48.04,47.75,47.85,40.36,,RC Fredericks
-72,7,1,Australia,1,1975,caught,40.49,40.22,50.17,45.57,47.17,46.26,40.08,,RC Fredericks
-73,169,1,Australia,1,1975,caught,42.33,57.44,53.0,50.54,50.72,48.91,41.98,,RC Fredericks
-74,59,1,Australia,1,1975,caught,42.56,61.89,51.16,52.43,49.81,50.09,42.62,,RC Fredericks
-75,26,1,Australia,1,1975,bowled,42.33,53.22,50.84,50.75,48.89,50.63,42.67,,RC Fredericks
-76,48,1,Australia,1,1976,caught,42.41,54.44,48.21,52.18,49.78,50.63,42.8,,RC Fredericks
-77,24,1,Australia,1,1976,caught,42.16,52.22,45.95,51.79,49.59,47.61,43.17,,RC Fredericks
-78,0,1,Australia,1,1976,lbw,41.6,50.67,44.05,51.68,49.03,46.89,43.08,,RC Fredericks
-79,10,1,Australia,1,1976,lbw,41.18,43.22,43.37,46.68,46.65,45.61,42.88,,RC Fredericks
-80,22,1,Australia,1,1976,caught,40.94,41.1,44.26,47.04,45.42,45.41,42.98,,RC Fredericks
-81,6,1,Australia,1,1976,bowled,40.49,37.1,39.32,45.43,45.16,45.43,43.05,,RC Fredericks
-82,54,1,India,1,1976,caught,40.66,41.8,41.05,47.18,44.58,46.0,43.8,,RC Fredericks
-83,0,1,India,1,1976,bowled,40.15,24.9,40.32,43.31,43.79,45.11,43.8,,RC Fredericks
-84,8,1,India,1,1976,lbw,39.75,19.8,39.74,40.34,43.84,43.43,42.95,,RC Fredericks
-85,27,1,India,1,1976,caught,39.6,19.9,35.68,40.17,42.63,42.72,42.41,,RC Fredericks
-86,25,1,India,1,1976,caught,39.42,17.6,35.05,37.66,43.08,42.94,41.88,,RC Fredericks
-87,82,1,India,1,1976,run out,39.93,23.4,37.05,38.17,44.32,44.02,42.95,,RC Fredericks
-88,6,1,India,0,1976,not out,40.0,26.67,38.67,38.46,45.59,44.65,43.62,,RC Fredericks
-89,42,1,England,1,1976,caught,40.02,30.22,36.72,39.14,42.68,43.43,43.57,,RC Fredericks
-90,15,1,England,1,1976,bowled,39.73,29.44,35.58,39.5,42.76,42.36,43.55,,RC Fredericks
-91,0,1,England,1,1976,caught,39.28,28.78,33.16,35.93,41.38,42.02,43.55,,RC Fredericks
-92,138,1,England,1,1976,caught,40.4,38.11,40.05,40.11,44.97,43.34,44.45,,RC Fredericks
-93,0,1,England,1,1976,caught,39.94,38.11,31.16,39.61,42.08,42.7,43.72,,RC Fredericks
-94,50,1,England,1,1976,hit wicket,40.06,42.78,30.68,40.71,40.92,43.64,44.42,,RC Fredericks
-95,109,1,England,1,1976,bowled,40.81,51.89,35.05,40.89,42.95,44.4,46.08,,RC Fredericks
-96,6,1,England,1,1976,bowled,40.43,49.78,32.84,39.79,40.53,44.36,45.43,,RC Fredericks
-97,71,1,England,1,1976,caught,40.76,48.56,35.32,40.75,40.63,45.13,44.02,,RC Fredericks
-98,86,1,England,0,1976,not out,41.69,57.44,42.06,44.93,43.08,47.91,45.53,,RC Fredericks
-99,24,1,Pakistan,1,1977,caught,41.5,55.44,42.83,42.96,43.11,45.17,44.83,41.5,RC Fredericks
-100,52,1,Pakistan,1,1977,bowled,41.61,59.56,44.5,43.29,44.38,46.04,45.16,41.24,RC Fredericks
-101,120,1,Pakistan,1,1977,caught,42.43,72.89,50.83,45.93,44.92,47.54,46.95,42.02,RC Fredericks
-102,57,1,Pakistan,1,1977,caught,42.58,63.89,51.0,47.71,45.89,48.67,47.41,42.35,RC Fredericks
-103,5,1,Pakistan,1,1977,caught,42.19,64.44,51.28,41.86,45.65,46.36,46.84,41.95,RC Fredericks
-104,52,1,Pakistan,0,1977,not out,42.72,72.75,56.88,43.15,47.83,46.46,47.0,42.77,RC Fredericks
-105,41,1,Pakistan,1,1977,bowled,42.71,64.25,57.71,43.7,46.08,46.65,46.7,42.97,RC Fredericks
-106,17,1,Pakistan,1,1977,caught,42.45,65.62,57.24,42.56,45.53,44.89,46.73,42.73,RC Fredericks
-107,6,1,Pakistan,1,1977,caught,42.09,57.5,52.76,41.89,44.47,43.57,46.34,42.8,RC Fredericks
-108,83,1,Pakistan,1,1977,caught,42.49,50.78,54.11,44.96,46.39,44.59,47.31,43.62,RC Fredericks
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,RC Fredericks,76.0,caught,2,Australia,76.0,76.0,1,1968,1,,,,,,,
+1,RC Fredericks,47.0,caught,2,Australia,61.5,123.0,2,1968,1,,,,,,,
+2,RC Fredericks,26.0,caught,1,Australia,49.67,149.0,3,1969,1,,,,,,,
+3,RC Fredericks,43.0,caught,1,Australia,48.0,192.0,4,1969,1,,,,,,,
+4,RC Fredericks,17.0,lbw,1,Australia,41.8,209.0,5,1969,1,,,,,,,
+5,RC Fredericks,23.0,caught,1,Australia,38.67,232.0,6,1969,1,,,,,,,
+6,RC Fredericks,39.0,caught,1,Australia,38.71,271.0,7,1969,1,,,,,,,
+7,RC Fredericks,0.0,caught,1,Australia,33.88,271.0,8,1969,1,,,,,,,
+8,RC Fredericks,6.0,bowled,1,New Zealand,30.78,277.0,9,1969,1,,,,,,,
+9,RC Fredericks,23.0,caught,1,New Zealand,30.0,300.0,10,1969,1,30.0,,,,,,
+10,RC Fredericks,15.0,caught,1,New Zealand,28.64,315.0,11,1969,1,23.9,,,,,,
+11,RC Fredericks,2.0,caught,1,New Zealand,26.42,317.0,12,1969,1,19.4,,,,,,
+12,RC Fredericks,4.0,caught,1,New Zealand,24.69,321.0,13,1969,1,17.2,,,,,,
+13,RC Fredericks,0.0,caught,1,England,22.93,321.0,14,1969,1,12.9,,,,,,
+14,RC Fredericks,64.0,caught,1,England,25.67,385.0,15,1969,1,17.6,,,,,,
+15,RC Fredericks,63.0,caught,1,England,28.0,448.0,16,1969,1,21.6,,,,,,
+16,RC Fredericks,60.0,caught,1,England,29.88,508.0,17,1969,1,23.7,,,,,,
+17,RC Fredericks,11.0,lbw,1,England,28.83,519.0,18,1969,1,24.8,,,,,,
+18,RC Fredericks,6.0,caught,1,England,27.63,525.0,19,1969,1,24.8,,,,,,
+19,RC Fredericks,45.0,caught,1,India,28.5,570.0,20,1971,1,27.0,28.5,,,,,
+20,RC Fredericks,16.0,caught,1,India,27.9,586.0,21,1971,1,27.1,25.5,,,,,
+21,RC Fredericks,0.0,bowled,1,India,26.64,586.0,22,1971,1,26.9,23.15,,,,,
+22,RC Fredericks,80.0,run out,1,India,28.96,666.0,23,1971,1,34.5,25.85,,,,,
+23,RC Fredericks,47.0,caught,1,India,29.71,713.0,24,1971,1,39.2,26.05,,,,,
+24,RC Fredericks,5.0,lbw,1,India,28.72,718.0,25,1971,1,33.3,25.45,,,,,
+25,RC Fredericks,1.0,bowled,1,India,27.65,719.0,26,1971,1,27.1,24.35,,,,,
+26,RC Fredericks,48.0,bowled,1,India,28.41,767.0,27,1971,1,25.9,24.8,,,,,
+27,RC Fredericks,163.0,caught,1,New Zealand,33.21,930.0,28,1972,1,41.1,32.95,,,,,
+28,RC Fredericks,33.0,bowled,1,New Zealand,33.21,963.0,29,1972,1,43.8,34.3,,,,,
+29,RC Fredericks,69.0,caught,1,New Zealand,34.4,1032.0,30,1972,1,46.2,36.6,34.4,,,,
+30,RC Fredericks,31.0,caught,1,New Zealand,34.29,1063.0,31,1972,1,47.7,37.4,32.9,,,,
+31,RC Fredericks,5.0,caught,1,New Zealand,33.38,1068.0,32,1972,1,48.2,37.55,31.5,,,,
+32,RC Fredericks,28.0,lbw,1,New Zealand,33.21,1096.0,33,1972,1,43.0,38.75,31.57,,,,
+33,RC Fredericks,41.0,caught,1,New Zealand,33.44,1137.0,34,1972,1,42.4,40.8,31.5,,,,
+34,RC Fredericks,42.0,not out,1,New Zealand,34.68,1179.0,34,1972,0,51.22,41.79,33.45,,,,
+35,RC Fredericks,60.0,run out,1,New Zealand,35.4,1239.0,35,1972,1,57.78,41.63,34.72,,,,
+36,RC Fredericks,15.0,caught,1,New Zealand,34.83,1254.0,36,1972,1,54.11,39.26,33.9,,,,
+37,RC Fredericks,31.0,caught,1,Australia,34.73,1285.0,37,1973,1,39.44,40.32,34.97,,,,
+38,RC Fredericks,21.0,caught,1,Australia,34.37,1306.0,38,1973,1,38.11,41.11,35.48,,,,
+39,RC Fredericks,98.0,lbw,1,Australia,36.0,1404.0,39,1973,1,41.33,43.89,38.07,36.0,,,
+40,RC Fredericks,22.0,not out,1,Australia,36.56,1426.0,39,1973,0,45.38,46.67,39.68,35.53,,,
+41,RC Fredericks,16.0,caught,1,Australia,36.05,1442.0,40,1973,1,46.75,47.56,40.18,34.71,,,
+42,RC Fredericks,76.0,caught,1,Australia,37.02,1518.0,41,1973,1,52.75,47.33,42.75,36.03,,,
+43,RC Fredericks,30.0,caught,1,Australia,36.86,1548.0,42,1973,1,51.38,46.39,43.82,35.68,,,
+44,RC Fredericks,6.0,caught,1,Australia,36.14,1554.0,43,1973,1,41.67,46.44,41.75,35.39,,,
+45,RC Fredericks,73.0,caught,1,Australia,36.98,1627.0,44,1973,1,43.11,50.44,42.11,36.71,,,
+46,RC Fredericks,8.0,caught,1,Australia,36.33,1635.0,45,1973,1,42.33,48.22,40.25,35.89,,,
+47,RC Fredericks,35.0,lbw,1,England,36.3,1670.0,46,1973,1,42.78,41.11,41.11,36.82,,,
+48,RC Fredericks,3.0,caught,1,England,35.6,1673.0,47,1973,1,40.78,39.44,41.0,36.74,,,
+49,RC Fredericks,150.0,caught,1,England,37.98,1823.0,48,1973,1,46.56,43.94,44.75,40.08,37.98,,
+50,RC Fredericks,12.0,caught,2,England,37.45,1835.0,49,1973,1,40.9,42.89,44.61,40.0,36.65,,
+51,RC Fredericks,51.0,caught,1,England,37.72,1886.0,50,1973,1,44.4,45.44,46.43,41.29,36.73,,
+52,RC Fredericks,5.0,caught,1,England,37.08,1891.0,51,1974,1,37.3,44.17,43.75,41.32,36.29,,
+53,RC Fredericks,65.0,not out,1,England,38.35,1956.0,51,1974,0,45.33,48.18,46.04,44.19,37.53,,
+54,RC Fredericks,94.0,bowled,1,England,39.42,2050.0,52,1974,1,55.11,48.39,49.33,45.0,39.17,,
+55,RC Fredericks,32.0,bowled,1,England,39.28,2082.0,53,1974,1,50.56,46.83,50.48,44.16,39.36,,
+56,RC Fredericks,98.0,caught,1,England,40.37,2180.0,54,1974,1,60.56,51.44,52.33,45.19,40.62,,
+57,RC Fredericks,67.0,caught,1,England,40.85,2247.0,55,1974,1,64.11,53.44,48.78,46.7,42.04,,
+58,RC Fredericks,36.0,run out,1,England,40.77,2283.0,56,1974,1,67.78,54.28,48.89,47.51,42.68,,
+59,RC Fredericks,23.0,caught,1,India,40.46,2306.0,57,1974,1,53.67,50.11,47.19,46.92,42.68,,
+60,RC Fredericks,5.0,caught,7,India,39.84,2311.0,58,1974,1,52.89,46.58,46.22,46.62,42.47,,
+61,RC Fredericks,100.0,caught,1,India,40.86,2411.0,59,1974,1,58.33,51.0,49.74,49.32,44.55,,
+62,RC Fredericks,21.0,bowled,1,India,40.53,2432.0,60,1974,1,60.11,48.11,49.48,47.73,44.91,,
+63,RC Fredericks,14.0,caught,1,India,40.1,2446.0,61,1975,1,49.0,47.26,48.48,46.84,45.21,,
+64,RC Fredericks,19.0,caught,1,India,39.76,2465.0,62,1975,1,41.5,47.95,45.93,47.22,44.26,,
+65,RC Fredericks,104.0,caught,1,India,40.78,2569.0,63,1975,1,48.7,49.58,47.5,50.0,45.13,,
+66,RC Fredericks,37.0,bowled,1,India,40.72,2606.0,64,1975,1,42.6,51.11,48.29,49.7,44.64,,
+67,RC Fredericks,44.0,lbw,1,Pakistan,40.77,2650.0,65,1975,1,40.3,51.58,48.75,46.49,45.34,,
+68,RC Fredericks,14.0,lbw,1,Pakistan,40.36,2664.0,66,1975,1,38.1,52.16,48.5,45.97,45.51,,
+69,RC Fredericks,77.0,caught,1,Pakistan,40.91,2741.0,67,1975,1,43.5,48.32,47.75,46.19,46.19,40.91,
+70,RC Fredericks,0.0,not out,1,Pakistan,40.91,2741.0,67,1975,0,47.78,50.33,46.96,46.61,46.85,40.38,
+71,RC Fredericks,46.0,caught,1,Australia,40.99,2787.0,68,1975,1,41.78,50.06,48.04,47.75,47.85,40.36,
+72,RC Fredericks,7.0,caught,1,Australia,40.49,2794.0,69,1975,1,40.22,50.17,45.57,47.17,46.26,40.08,
+73,RC Fredericks,169.0,caught,1,Australia,42.33,2963.0,70,1975,1,57.44,53.0,50.54,50.72,48.91,41.98,
+74,RC Fredericks,59.0,caught,1,Australia,42.56,3022.0,71,1975,1,61.89,51.16,52.43,49.81,50.09,42.62,
+75,RC Fredericks,26.0,bowled,1,Australia,42.33,3048.0,72,1975,1,53.22,50.84,50.75,48.89,50.63,42.67,
+76,RC Fredericks,48.0,caught,1,Australia,42.41,3096.0,73,1976,1,54.44,48.21,52.18,49.78,50.63,42.8,
+77,RC Fredericks,24.0,caught,1,Australia,42.16,3120.0,74,1976,1,52.22,45.95,51.79,49.59,47.61,43.17,
+78,RC Fredericks,0.0,lbw,1,Australia,41.6,3120.0,75,1976,1,50.67,44.05,51.68,49.03,46.89,43.08,
+79,RC Fredericks,10.0,lbw,1,Australia,41.18,3130.0,76,1976,1,43.22,43.37,46.68,46.65,45.61,42.88,
+80,RC Fredericks,22.0,caught,1,Australia,40.94,3152.0,77,1976,1,41.1,44.26,47.04,45.42,45.41,42.98,
+81,RC Fredericks,6.0,bowled,1,Australia,40.49,3158.0,78,1976,1,37.1,39.32,45.43,45.16,45.43,43.05,
+82,RC Fredericks,54.0,caught,1,India,40.66,3212.0,79,1976,1,41.8,41.05,47.18,44.58,46.0,43.8,
+83,RC Fredericks,0.0,bowled,1,India,40.15,3212.0,80,1976,1,24.9,40.32,43.31,43.79,45.11,43.8,
+84,RC Fredericks,8.0,lbw,1,India,39.75,3220.0,81,1976,1,19.8,39.74,40.34,43.84,43.43,42.95,
+85,RC Fredericks,27.0,caught,1,India,39.6,3247.0,82,1976,1,19.9,35.68,40.17,42.63,42.72,42.41,
+86,RC Fredericks,25.0,caught,1,India,39.42,3272.0,83,1976,1,17.6,35.05,37.66,43.08,42.94,41.88,
+87,RC Fredericks,82.0,run out,1,India,39.93,3354.0,84,1976,1,23.4,37.05,38.17,44.32,44.02,42.95,
+88,RC Fredericks,6.0,not out,1,India,40.0,3360.0,84,1976,0,26.67,38.67,38.46,45.59,44.65,43.62,
+89,RC Fredericks,42.0,caught,1,England,40.02,3402.0,85,1976,1,30.22,36.72,39.14,42.68,43.43,43.57,
+90,RC Fredericks,15.0,bowled,1,England,39.73,3417.0,86,1976,1,29.44,35.58,39.5,42.76,42.36,43.55,
+91,RC Fredericks,0.0,caught,1,England,39.28,3417.0,87,1976,1,28.78,33.16,35.93,41.38,42.02,43.55,
+92,RC Fredericks,138.0,caught,1,England,40.4,3555.0,88,1976,1,38.11,40.05,40.11,44.97,43.34,44.45,
+93,RC Fredericks,0.0,caught,1,England,39.94,3555.0,89,1976,1,38.11,31.16,39.61,42.08,42.7,43.72,
+94,RC Fredericks,50.0,hit wicket,1,England,40.06,3605.0,90,1976,1,42.78,30.68,40.71,40.92,43.64,44.42,
+95,RC Fredericks,109.0,bowled,1,England,40.81,3714.0,91,1976,1,51.89,35.05,40.89,42.95,44.4,46.08,
+96,RC Fredericks,6.0,bowled,1,England,40.43,3720.0,92,1976,1,49.78,32.84,39.79,40.53,44.36,45.43,
+97,RC Fredericks,71.0,caught,1,England,40.76,3791.0,93,1976,1,48.56,35.32,40.75,40.63,45.13,44.02,
+98,RC Fredericks,86.0,not out,1,England,41.69,3877.0,93,1976,0,57.44,42.06,44.93,43.08,47.91,45.53,
+99,RC Fredericks,24.0,caught,1,Pakistan,41.5,3901.0,94,1977,1,55.44,42.83,42.96,43.11,45.17,44.83,41.5
+100,RC Fredericks,52.0,bowled,1,Pakistan,41.61,3953.0,95,1977,1,59.56,44.5,43.29,44.38,46.04,45.16,41.24
+101,RC Fredericks,120.0,caught,1,Pakistan,42.43,4073.0,96,1977,1,72.89,50.83,45.93,44.92,47.54,46.95,42.02
+102,RC Fredericks,57.0,caught,1,Pakistan,42.58,4130.0,97,1977,1,63.89,51.0,47.71,45.89,48.67,47.41,42.35
+103,RC Fredericks,5.0,caught,1,Pakistan,42.19,4135.0,98,1977,1,64.44,51.28,41.86,45.65,46.36,46.84,41.95
+104,RC Fredericks,52.0,not out,1,Pakistan,42.72,4187.0,98,1977,0,72.75,56.88,43.15,47.83,46.46,47.0,42.77
+105,RC Fredericks,41.0,bowled,1,Pakistan,42.71,4228.0,99,1977,1,64.25,57.71,43.7,46.08,46.65,46.7,42.97
+106,RC Fredericks,17.0,caught,1,Pakistan,42.45,4245.0,100,1977,1,65.62,57.24,42.56,45.53,44.89,46.73,42.73
+107,RC Fredericks,6.0,caught,1,Pakistan,42.09,4251.0,101,1977,1,57.5,52.76,41.89,44.47,43.57,46.34,42.8
+108,RC Fredericks,83.0,caught,1,Pakistan,42.49,4334.0,102,1977,1,50.78,54.11,44.96,46.39,44.59,47.31,43.62

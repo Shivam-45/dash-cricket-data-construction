@@ -1,66 +1,66 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,0,5,West Indies,1,1928,bowled,0.0,,,,,,,,M Leyland
-1,137,7,Australia,1,1929,caught,68.5,,,,,,,,M Leyland
-2,53,7,Australia,0,1929,not out,95.0,,,,,,,,M Leyland
-3,3,6,South Africa,1,1929,caught,64.33,,,,,,,,M Leyland
-4,73,6,South Africa,1,1929,bowled,66.5,,,,,,,,M Leyland
-5,102,3,South Africa,1,1929,caught,73.6,,,,,,,,M Leyland
-6,45,7,South Africa,1,1929,caught,68.83,,,,,,,,M Leyland
-7,0,6,South Africa,1,1929,bowled,59.0,,,,,,,,M Leyland
-8,55,6,South Africa,1,1929,caught,58.5,,,,,,,,M Leyland
-9,16,6,South Africa,1,1929,bowled,53.78,53.78,,,,,,,M Leyland
-10,44,5,Australia,1,1930,caught,52.8,58.67,,,,,,,M Leyland
-11,1,5,Australia,0,1930,not out,52.9,49.0,,,,,,,M Leyland
-12,35,5,Australia,1,1930,bowled,51.27,41.56,,,,,,,M Leyland
-13,3,6,Australia,1,1930,bowled,47.25,41.56,,,,,,,M Leyland
-14,20,6,Australia,1,1930,bowled,45.15,35.67,,,,,,,M Leyland
-15,29,2,South Africa,1,1930,caught,44.0,27.56,,,,,,,M Leyland
-16,15,2,South Africa,1,1930,caught,42.07,24.22,,,,,,,M Leyland
-17,52,3,South Africa,1,1931,bowled,42.69,30.0,,,,,,,M Leyland
-18,28,3,South Africa,1,1931,caught,41.82,27.0,,,,,,,M Leyland
-19,31,3,South Africa,0,1931,not out,43.65,32.25,43.65,,,,,,M Leyland
-20,91,5,South Africa,1,1931,lbw,46.28,38.12,49.0,,,,,,M Leyland
-21,46,5,South Africa,1,1931,caught,46.26,38.89,43.65,,,,,,M Leyland
-22,8,3,South Africa,1,1931,lbw,44.35,35.89,38.72,,,,,,M Leyland
-23,0,5,Australia,1,1932,caught,42.24,35.56,38.56,,,,,,M Leyland
-24,22,5,Australia,1,1932,bowled,41.32,35.78,35.72,,,,,,M Leyland
-25,19,2,Australia,1,1932,bowled,40.35,34.67,31.11,,,,,,M Leyland
-26,83,5,Australia,1,1933,bowled,42.12,42.22,33.22,,,,,,M Leyland
-27,42,6,Australia,1,1933,caught,42.12,41.11,35.56,,,,,,M Leyland
-28,12,5,Australia,1,1933,caught,40.96,39.33,33.17,,,,,,M Leyland
-29,86,3,Australia,1,1933,caught,42.63,40.9,37.06,42.63,,,,,M Leyland
-30,42,5,Australia,1,1933,run out,42.61,36.0,36.94,44.19,,,,,M Leyland
-31,0,3,Australia,1,1933,bowled,41.14,31.4,34.95,39.11,,,,,M Leyland
-32,1,4,West Indies,1,1933,caught,39.8,30.7,33.16,35.86,,,,,M Leyland
-33,6,5,Australia,1,1934,caught,38.71,31.3,33.32,35.96,,,,,M Leyland
-34,18,6,Australia,1,1934,caught,38.06,30.9,33.21,34.0,,,,,M Leyland
-35,109,6,Australia,1,1934,bowled,40.21,39.9,37.42,34.25,,,,,M Leyland
-36,153,6,Australia,1,1934,caught,43.53,46.9,44.68,38.11,,,,,M Leyland
-37,16,6,Australia,1,1934,lbw,42.74,44.3,42.79,38.68,,,,,M Leyland
-38,49,6,Australia,0,1934,not out,44.14,53.33,46.33,39.89,,,,,M Leyland
-39,110,6,Australia,1,1934,bowled,45.97,56.0,48.05,43.37,45.97,,,,M Leyland
-40,17,5,Australia,1,1934,caught,45.19,53.22,44.16,42.37,46.44,,,,M Leyland
-41,3,2,West Indies,1,1935,caught,44.08,53.56,41.89,40.93,42.72,,,,M Leyland
-42,2,5,West Indies,1,1935,caught,43.0,53.67,41.58,39.75,40.19,,,,M Leyland
-43,0,5,West Indies,1,1935,lbw,41.92,53.0,41.58,39.64,40.11,,,,M Leyland
-44,18,9,West Indies,1,1935,lbw,41.34,53.0,41.37,39.57,38.62,,,,M Leyland
-45,13,7,West Indies,1,1935,caught,40.67,42.33,41.05,39.0,36.22,,,,M Leyland
-46,0,7,West Indies,1,1935,bowled,39.72,25.33,36.68,38.46,35.0,,,,M Leyland
-47,69,5,South Africa,1,1935,caught,40.39,31.22,38.11,39.07,36.86,,,,M Leyland
-48,18,3,South Africa,1,1935,bowled,39.89,25.0,38.42,38.71,35.86,,,,M Leyland
-49,4,3,South Africa,1,1935,bowled,39.11,14.4,34.11,36.45,35.54,39.11,,,M Leyland
-50,53,6,South Africa,1,1935,caught,39.4,18.0,34.68,35.14,35.78,40.26,,,M Leyland
-51,37,5,South Africa,1,1935,caught,39.35,21.4,36.63,34.83,35.79,38.09,,,M Leyland
-52,161,5,South Africa,1,1935,stumped,41.84,37.3,45.05,40.1,39.11,39.57,,,M Leyland
-53,60,4,India,1,1936,lbw,42.2,43.3,47.89,42.17,40.61,40.79,,,M Leyland
-54,26,4,India,1,1936,bowled,41.88,44.1,48.32,42.31,40.76,39.79,,,M Leyland
-55,126,5,Australia,1,1936,bowled,43.5,55.4,49.21,46.0,43.32,40.3,,,M Leyland
-56,33,5,Australia,1,1936,caught,43.3,58.7,42.89,44.28,43.79,40.04,,,M Leyland
-57,42,4,Australia,1,1936,lbw,43.28,56.0,44.26,44.28,43.53,40.94,,,M Leyland
-58,17,4,Australia,1,1937,caught,42.8,55.9,40.45,44.45,43.24,40.13,,,M Leyland
-59,111,4,Australia,0,1937,not out,44.82,74.0,42.63,46.93,45.34,43.07,,,M Leyland
-60,45,4,Australia,1,1937,caught,44.82,73.11,44.11,47.04,44.13,43.09,,,M Leyland
-61,32,5,Australia,1,1937,caught,44.6,72.56,45.63,48.18,43.76,42.83,,,M Leyland
-62,7,5,Australia,1,1937,bowled,43.95,55.44,45.89,48.39,43.74,42.23,,,M Leyland
-63,28,5,Australia,1,1937,caught,43.68,51.89,47.37,49.18,44.47,42.77,,,M Leyland
-64,187,3,Australia,1,1938,run out,46.07,69.78,56.26,55.21,48.82,46.32,,,M Leyland
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,M Leyland,0.0,bowled,5,West Indies,0.0,0.0,1,1928,1,,,,,,,
+1,M Leyland,137.0,caught,7,Australia,68.5,137.0,2,1929,1,,,,,,,
+2,M Leyland,53.0,not out,7,Australia,95.0,190.0,2,1929,0,,,,,,,
+3,M Leyland,3.0,caught,6,South Africa,64.33,193.0,3,1929,1,,,,,,,
+4,M Leyland,73.0,bowled,6,South Africa,66.5,266.0,4,1929,1,,,,,,,
+5,M Leyland,102.0,caught,3,South Africa,73.6,368.0,5,1929,1,,,,,,,
+6,M Leyland,45.0,caught,7,South Africa,68.83,413.0,6,1929,1,,,,,,,
+7,M Leyland,0.0,bowled,6,South Africa,59.0,413.0,7,1929,1,,,,,,,
+8,M Leyland,55.0,caught,6,South Africa,58.5,468.0,8,1929,1,,,,,,,
+9,M Leyland,16.0,bowled,6,South Africa,53.78,484.0,9,1929,1,53.78,,,,,,
+10,M Leyland,44.0,caught,5,Australia,52.8,528.0,10,1930,1,58.67,,,,,,
+11,M Leyland,1.0,not out,5,Australia,52.9,529.0,10,1930,0,49.0,,,,,,
+12,M Leyland,35.0,bowled,5,Australia,51.27,564.0,11,1930,1,41.56,,,,,,
+13,M Leyland,3.0,bowled,6,Australia,47.25,567.0,12,1930,1,41.56,,,,,,
+14,M Leyland,20.0,bowled,6,Australia,45.15,587.0,13,1930,1,35.67,,,,,,
+15,M Leyland,29.0,caught,2,South Africa,44.0,616.0,14,1930,1,27.56,,,,,,
+16,M Leyland,15.0,caught,2,South Africa,42.07,631.0,15,1930,1,24.22,,,,,,
+17,M Leyland,52.0,bowled,3,South Africa,42.69,683.0,16,1931,1,30.0,,,,,,
+18,M Leyland,28.0,caught,3,South Africa,41.82,711.0,17,1931,1,27.0,,,,,,
+19,M Leyland,31.0,not out,3,South Africa,43.65,742.0,17,1931,0,32.25,43.65,,,,,
+20,M Leyland,91.0,lbw,5,South Africa,46.28,833.0,18,1931,1,38.12,49.0,,,,,
+21,M Leyland,46.0,caught,5,South Africa,46.26,879.0,19,1931,1,38.89,43.65,,,,,
+22,M Leyland,8.0,lbw,3,South Africa,44.35,887.0,20,1931,1,35.89,38.72,,,,,
+23,M Leyland,0.0,caught,5,Australia,42.24,887.0,21,1932,1,35.56,38.56,,,,,
+24,M Leyland,22.0,bowled,5,Australia,41.32,909.0,22,1932,1,35.78,35.72,,,,,
+25,M Leyland,19.0,bowled,2,Australia,40.35,928.0,23,1932,1,34.67,31.11,,,,,
+26,M Leyland,83.0,bowled,5,Australia,42.12,1011.0,24,1933,1,42.22,33.22,,,,,
+27,M Leyland,42.0,caught,6,Australia,42.12,1053.0,25,1933,1,41.11,35.56,,,,,
+28,M Leyland,12.0,caught,5,Australia,40.96,1065.0,26,1933,1,39.33,33.17,,,,,
+29,M Leyland,86.0,caught,3,Australia,42.63,1151.0,27,1933,1,40.9,37.06,42.63,,,,
+30,M Leyland,42.0,run out,5,Australia,42.61,1193.0,28,1933,1,36.0,36.94,44.19,,,,
+31,M Leyland,0.0,bowled,3,Australia,41.14,1193.0,29,1933,1,31.4,34.95,39.11,,,,
+32,M Leyland,1.0,caught,4,West Indies,39.8,1194.0,30,1933,1,30.7,33.16,35.86,,,,
+33,M Leyland,6.0,caught,5,Australia,38.71,1200.0,31,1934,1,31.3,33.32,35.96,,,,
+34,M Leyland,18.0,caught,6,Australia,38.06,1218.0,32,1934,1,30.9,33.21,34.0,,,,
+35,M Leyland,109.0,bowled,6,Australia,40.21,1327.0,33,1934,1,39.9,37.42,34.25,,,,
+36,M Leyland,153.0,caught,6,Australia,43.53,1480.0,34,1934,1,46.9,44.68,38.11,,,,
+37,M Leyland,16.0,lbw,6,Australia,42.74,1496.0,35,1934,1,44.3,42.79,38.68,,,,
+38,M Leyland,49.0,not out,6,Australia,44.14,1545.0,35,1934,0,53.33,46.33,39.89,,,,
+39,M Leyland,110.0,bowled,6,Australia,45.97,1655.0,36,1934,1,56.0,48.05,43.37,45.97,,,
+40,M Leyland,17.0,caught,5,Australia,45.19,1672.0,37,1934,1,53.22,44.16,42.37,46.44,,,
+41,M Leyland,3.0,caught,2,West Indies,44.08,1675.0,38,1935,1,53.56,41.89,40.93,42.72,,,
+42,M Leyland,2.0,caught,5,West Indies,43.0,1677.0,39,1935,1,53.67,41.58,39.75,40.19,,,
+43,M Leyland,0.0,lbw,5,West Indies,41.92,1677.0,40,1935,1,53.0,41.58,39.64,40.11,,,
+44,M Leyland,18.0,lbw,9,West Indies,41.34,1695.0,41,1935,1,53.0,41.37,39.57,38.62,,,
+45,M Leyland,13.0,caught,7,West Indies,40.67,1708.0,42,1935,1,42.33,41.05,39.0,36.22,,,
+46,M Leyland,0.0,bowled,7,West Indies,39.72,1708.0,43,1935,1,25.33,36.68,38.46,35.0,,,
+47,M Leyland,69.0,caught,5,South Africa,40.39,1777.0,44,1935,1,31.22,38.11,39.07,36.86,,,
+48,M Leyland,18.0,bowled,3,South Africa,39.89,1795.0,45,1935,1,25.0,38.42,38.71,35.86,,,
+49,M Leyland,4.0,bowled,3,South Africa,39.11,1799.0,46,1935,1,14.4,34.11,36.45,35.54,39.11,,
+50,M Leyland,53.0,caught,6,South Africa,39.4,1852.0,47,1935,1,18.0,34.68,35.14,35.78,40.26,,
+51,M Leyland,37.0,caught,5,South Africa,39.35,1889.0,48,1935,1,21.4,36.63,34.83,35.79,38.09,,
+52,M Leyland,161.0,stumped,5,South Africa,41.84,2050.0,49,1935,1,37.3,45.05,40.1,39.11,39.57,,
+53,M Leyland,60.0,lbw,4,India,42.2,2110.0,50,1936,1,43.3,47.89,42.17,40.61,40.79,,
+54,M Leyland,26.0,bowled,4,India,41.88,2136.0,51,1936,1,44.1,48.32,42.31,40.76,39.79,,
+55,M Leyland,126.0,bowled,5,Australia,43.5,2262.0,52,1936,1,55.4,49.21,46.0,43.32,40.3,,
+56,M Leyland,33.0,caught,5,Australia,43.3,2295.0,53,1936,1,58.7,42.89,44.28,43.79,40.04,,
+57,M Leyland,42.0,lbw,4,Australia,43.28,2337.0,54,1936,1,56.0,44.26,44.28,43.53,40.94,,
+58,M Leyland,17.0,caught,4,Australia,42.8,2354.0,55,1937,1,55.9,40.45,44.45,43.24,40.13,,
+59,M Leyland,111.0,not out,4,Australia,44.82,2465.0,55,1937,0,74.0,42.63,46.93,45.34,43.07,,
+60,M Leyland,45.0,caught,4,Australia,44.82,2510.0,56,1937,1,73.11,44.11,47.04,44.13,43.09,,
+61,M Leyland,32.0,caught,5,Australia,44.6,2542.0,57,1937,1,72.56,45.63,48.18,43.76,42.83,,
+62,M Leyland,7.0,bowled,5,Australia,43.95,2549.0,58,1937,1,55.44,45.89,48.39,43.74,42.23,,
+63,M Leyland,28.0,caught,5,Australia,43.68,2577.0,59,1937,1,51.89,47.37,49.18,44.47,42.77,,
+64,M Leyland,187.0,run out,3,Australia,46.07,2764.0,60,1938,1,69.78,56.26,55.21,48.82,46.32,,

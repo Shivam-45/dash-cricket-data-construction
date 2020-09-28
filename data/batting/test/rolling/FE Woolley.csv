@@ -1,99 +1,99 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,8,6,Australia,1,1909,bowled,8.0,,,,,,,,FE Woolley
-1,14,5,South Africa,1,1910,caught,11.0,,,,,,,,FE Woolley
-2,25,5,South Africa,1,1910,bowled,15.67,,,,,,,,FE Woolley
-3,22,5,South Africa,1,1910,caught,17.25,,,,,,,,FE Woolley
-4,4,5,South Africa,1,1910,caught,14.6,,,,,,,,FE Woolley
-5,58,8,South Africa,0,1910,not out,26.2,,,,,,,,FE Woolley
-6,0,7,South Africa,1,1910,caught,21.83,,,,,,,,FE Woolley
-7,69,5,South Africa,1,1910,caught,28.57,,,,,,,,FE Woolley
-8,64,4,South Africa,1,1910,bowled,33.0,,,,,,,,FE Woolley
-9,0,5,South Africa,1,1910,bowled,29.33,29.33,,,,,,,FE Woolley
-10,39,8,Australia,1,1911,bowled,30.3,32.78,,,,,,,FE Woolley
-11,7,8,Australia,1,1911,caught,28.18,32.0,,,,,,,FE Woolley
-12,23,8,Australia,1,1911,caught,27.75,31.78,,,,,,,FE Woolley
-13,20,8,Australia,1,1912,bowled,27.15,31.56,,,,,,,FE Woolley
-14,56,7,Australia,1,1912,caught,29.21,37.33,,,,,,,FE Woolley
-15,133,7,Australia,0,1912,not out,38.71,45.67,,,,,,,FE Woolley
-16,11,7,Australia,1,1912,caught,36.87,46.89,,,,,,,FE Woolley
-17,73,6,South Africa,1,1912,bowled,39.12,47.33,,,,,,,FE Woolley
-18,20,6,Australia,1,1912,caught,38.0,42.44,,,,,,,FE Woolley
-19,57,6,South Africa,1,1912,bowled,39.06,48.78,39.06,,,,,,FE Woolley
-20,4,6,South Africa,1,1912,caught,37.21,44.89,38.83,,,,,,FE Woolley
-21,13,6,Australia,1,1912,caught,36.0,45.56,38.78,,,,,,FE Woolley
-22,13,6,South Africa,1,1912,bowled,34.9,44.44,38.11,,,,,,FE Woolley
-23,62,5,Australia,1,1912,lbw,36.14,49.11,40.33,,,,,,FE Woolley
-24,4,5,Australia,1,1912,bowled,34.74,43.33,40.33,,,,,,FE Woolley
-25,31,7,South Africa,1,1913,caught,34.58,28.8,36.79,,,,,,FE Woolley
-26,0,7,South Africa,1,1913,bowled,33.2,27.7,36.79,,,,,,FE Woolley
-27,7,7,South Africa,1,1914,lbw,32.19,21.1,33.53,,,,,,FE Woolley
-28,37,7,South Africa,1,1914,stumped,32.37,22.8,32.11,,,,,,FE Woolley
-29,9,7,South Africa,1,1914,caught,31.54,18.0,32.58,31.54,,,,,FE Woolley
-30,0,7,South Africa,0,1914,not out,31.54,19.56,32.22,32.41,,,,,FE Woolley
-31,54,6,South Africa,1,1914,lbw,32.31,24.11,34.83,33.89,,,,,FE Woolley
-32,52,5,Australia,1,1920,caught,32.97,28.44,36.44,34.89,,,,,FE Woolley
-33,16,5,Australia,1,1920,stumped,32.42,23.33,36.22,34.67,,,,,FE Woolley
-34,5,6,Australia,1,1920,bowled,31.56,23.44,33.39,34.7,,,,,FE Woolley
-35,50,6,Australia,1,1920,bowled,32.12,25.56,27.26,33.18,,,,,FE Woolley
-36,79,5,Australia,1,1921,caught,33.5,34.33,30.84,36.0,,,,,FE Woolley
-37,0,5,Australia,1,1921,bowled,32.54,33.56,27.0,33.54,,,,,FE Woolley
-38,29,5,Australia,1,1921,lbw,32.44,32.67,27.47,32.29,,,,,FE Woolley
-39,0,5,Australia,1,1921,stumped,31.57,31.67,24.47,32.29,31.57,,,,FE Woolley
-40,53,5,Australia,1,1921,bowled,32.13,33.8,27.05,32.79,32.78,,,,FE Woolley
-41,1,1,Australia,1,1921,caught,31.33,28.5,26.42,32.57,32.43,,,,FE Woolley
-42,20,6,Australia,1,1921,caught,31.05,25.3,26.79,32.46,32.3,,,,FE Woolley
-43,34,6,Australia,1,1921,caught,31.12,27.1,25.32,32.96,32.62,,,,FE Woolley
-44,95,3,Australia,1,1921,stumped,32.64,36.1,30.11,34.36,35.08,,,,FE Woolley
-45,93,3,Australia,1,1921,caught,34.05,40.4,33.37,31.79,35.08,,,,FE Woolley
-46,0,1,Australia,1,1921,bowled,33.27,32.5,33.37,31.41,35.08,,,,FE Woolley
-47,37,4,Australia,1,1921,bowled,33.36,36.2,34.95,30.17,34.24,,,,FE Woolley
-48,41,3,Australia,1,1921,caught,33.52,37.4,35.16,30.9,33.63,,,,FE Woolley
-49,23,4,Australia,1,1921,run out,33.3,39.7,35.89,29.72,34.24,33.3,,,FE Woolley
-50,26,3,South Africa,1,1922,lbw,33.15,37.0,35.4,30.48,33.89,33.68,,,FE Woolley
-51,15,4,South Africa,1,1922,caught,32.78,38.4,33.45,30.55,34.11,33.7,,,FE Woolley
-52,0,3,South Africa,1,1923,caught,32.12,36.4,30.85,30.1,33.5,33.17,,,FE Woolley
-53,5,3,South Africa,1,1923,bowled,31.59,33.5,30.3,28.14,33.11,32.81,,,FE Woolley
-54,0,3,South Africa,1,1923,caught,30.98,24.0,30.05,28.0,31.63,32.72,,,FE Woolley
-55,15,3,South Africa,1,1923,caught,30.68,16.2,28.3,27.45,27.79,31.15,,,FE Woolley
-56,115,3,South Africa,0,1923,not out,32.85,30.78,31.68,32.54,31.26,34.26,,,FE Woolley
-57,2,3,South Africa,1,1923,caught,32.28,26.89,31.79,32.36,29.39,32.83,,,FE Woolley
-58,8,3,South Africa,1,1923,caught,31.84,23.22,30.68,31.32,29.08,31.64,,,FE Woolley
-59,64,3,South Africa,1,1924,caught,32.41,27.78,34.05,33.29,29.26,33.0,,,FE Woolley
-60,134,3,South Africa,0,1924,not out,34.8,44.75,40.44,38.07,33.57,35.78,,,FE Woolley
-61,0,4,South Africa,1,1924,bowled,34.19,42.88,40.39,36.14,33.22,35.63,,,FE Woolley
-62,51,4,South Africa,1,1924,bowled,34.48,49.25,42.11,36.11,34.24,36.24,,,FE Woolley
-63,0,4,Australia,1,1924,bowled,33.9,48.62,40.22,35.54,32.57,35.8,,,FE Woolley
-64,123,6,Australia,1,1924,caught,35.38,64.0,41.78,39.75,35.78,37.26,,,FE Woolley
-65,0,3,Australia,1,1925,bowled,34.8,62.12,36.61,37.96,34.95,33.64,,,FE Woolley
-66,50,5,Australia,1,1925,lbw,35.05,48.0,39.39,36.93,36.3,34.47,,,FE Woolley
-67,16,7,Australia,1,1925,caught,34.75,49.56,38.22,37.5,36.54,33.26,,,FE Woolley
-68,21,3,Australia,1,1925,bowled,34.53,51.0,37.11,37.21,36.11,33.28,,,FE Woolley
-69,40,4,Australia,1,1925,stumped,34.62,48.33,38.06,38.64,36.95,32.91,34.62,,FE Woolley
-70,47,4,Australia,1,1925,bowled,34.8,34.8,39.22,38.43,37.21,33.83,35.22,,FE Woolley
-71,28,4,Australia,1,1925,caught,34.7,37.6,39.94,39.39,36.53,34.15,35.43,,FE Woolley
-72,87,3,Australia,1,1926,lbw,35.47,41.2,44.78,41.79,37.45,35.72,36.38,,FE Woolley
-73,27,3,Australia,1,1926,run out,35.35,43.9,46.0,41.54,37.74,34.98,36.46,,FE Woolley
-74,20,3,Australia,1,1926,caught,35.13,33.6,47.11,38.86,38.13,35.32,36.71,,FE Woolley
-75,58,4,Australia,1,1926,caught,35.45,39.4,49.5,37.61,38.34,35.89,36.15,,FE Woolley
-76,18,3,Australia,1,1926,bowled,35.21,36.2,41.79,38.25,36.74,36.28,36.42,,FE Woolley
-77,27,3,Australia,1,1926,lbw,35.1,37.3,43.11,37.89,37.45,36.7,35.79,,FE Woolley
-78,83,5,South Africa,1,1929,bowled,35.74,43.5,47.05,39.39,38.87,37.68,36.08,,FE Woolley
-79,95,4,South Africa,0,1929,not out,37.03,54.44,51.39,43.52,42.49,40.37,38.09,,FE Woolley
-80,154,4,South Africa,1,1929,caught,38.59,66.33,49.74,48.26,45.22,42.79,39.86,,FE Woolley
-81,46,4,South Africa,1,1929,hit wicket,38.68,68.33,52.16,49.41,46.43,42.62,40.46,,FE Woolley
-82,31,4,New Zealand,1,1930,caught,38.58,62.11,51.11,50.56,46.73,42.17,40.58,,FE Woolley
-83,17,4,New Zealand,0,1930,not out,38.81,68.62,54.89,52.96,47.56,43.11,41.17,,FE Woolley
-84,6,4,New Zealand,1,1930,caught,38.38,66.88,48.39,53.19,45.08,43.13,40.39,,FE Woolley
-85,23,4,New Zealand,1,1930,bowled,38.19,62.5,49.67,53.5,43.14,42.54,38.08,,FE Woolley
-86,59,4,New Zealand,1,1930,run out,38.45,67.62,50.17,49.44,44.78,42.11,38.82,,FE Woolley
-87,10,4,New Zealand,1,1930,bowled,38.1,65.5,49.83,49.74,44.03,42.33,37.85,,FE Woolley
-88,0,4,Australia,1,1930,stumped,37.63,55.12,48.67,49.44,42.89,41.7,37.54,,FE Woolley
-89,5,4,Australia,1,1930,bowled,37.24,39.0,46.72,47.26,42.39,41.8,36.74,,FE Woolley
-90,41,2,Australia,1,1930,caught,37.29,26.44,46.39,42.25,42.81,41.54,37.31,,FE Woolley
-91,28,2,Australia,1,1930,hit wicket,37.18,24.44,46.39,43.25,43.17,42.13,37.54,,FE Woolley
-92,80,6,New Zealand,1,1931,lbw,37.67,29.89,46.0,44.29,45.39,43.43,38.57,,FE Woolley
-93,9,5,New Zealand,1,1931,bowled,37.34,26.1,45.0,44.61,45.5,42.89,37.75,,FE Woolley
-94,9,3,India,1,1932,run out,37.02,26.4,44.39,40.54,45.75,41.02,37.83,,FE Woolley
-95,21,3,India,1,1932,caught,36.84,26.2,42.33,41.29,45.92,39.46,37.68,,FE Woolley
-96,4,3,Australia,1,1934,caught,36.48,20.7,41.56,39.64,41.68,39.54,37.74,,FE Woolley
-97,0,3,Australia,1,1934,caught,36.08,19.7,40.06,39.07,41.62,38.74,37.63,,FE Woolley
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,FE Woolley,8.0,bowled,6,Australia,8.0,8.0,1,1909,1,,,,,,,
+1,FE Woolley,14.0,caught,5,South Africa,11.0,22.0,2,1910,1,,,,,,,
+2,FE Woolley,25.0,bowled,5,South Africa,15.67,47.0,3,1910,1,,,,,,,
+3,FE Woolley,22.0,caught,5,South Africa,17.25,69.0,4,1910,1,,,,,,,
+4,FE Woolley,4.0,caught,5,South Africa,14.6,73.0,5,1910,1,,,,,,,
+5,FE Woolley,58.0,not out,8,South Africa,26.2,131.0,5,1910,0,,,,,,,
+6,FE Woolley,0.0,caught,7,South Africa,21.83,131.0,6,1910,1,,,,,,,
+7,FE Woolley,69.0,caught,5,South Africa,28.57,200.0,7,1910,1,,,,,,,
+8,FE Woolley,64.0,bowled,4,South Africa,33.0,264.0,8,1910,1,,,,,,,
+9,FE Woolley,0.0,bowled,5,South Africa,29.33,264.0,9,1910,1,29.33,,,,,,
+10,FE Woolley,39.0,bowled,8,Australia,30.3,303.0,10,1911,1,32.78,,,,,,
+11,FE Woolley,7.0,caught,8,Australia,28.18,310.0,11,1911,1,32.0,,,,,,
+12,FE Woolley,23.0,caught,8,Australia,27.75,333.0,12,1911,1,31.78,,,,,,
+13,FE Woolley,20.0,bowled,8,Australia,27.15,353.0,13,1912,1,31.56,,,,,,
+14,FE Woolley,56.0,caught,7,Australia,29.21,409.0,14,1912,1,37.33,,,,,,
+15,FE Woolley,133.0,not out,7,Australia,38.71,542.0,14,1912,0,45.67,,,,,,
+16,FE Woolley,11.0,caught,7,Australia,36.87,553.0,15,1912,1,46.89,,,,,,
+17,FE Woolley,73.0,bowled,6,South Africa,39.12,626.0,16,1912,1,47.33,,,,,,
+18,FE Woolley,20.0,caught,6,Australia,38.0,646.0,17,1912,1,42.44,,,,,,
+19,FE Woolley,57.0,bowled,6,South Africa,39.06,703.0,18,1912,1,48.78,39.06,,,,,
+20,FE Woolley,4.0,caught,6,South Africa,37.21,707.0,19,1912,1,44.89,38.83,,,,,
+21,FE Woolley,13.0,caught,6,Australia,36.0,720.0,20,1912,1,45.56,38.78,,,,,
+22,FE Woolley,13.0,bowled,6,South Africa,34.9,733.0,21,1912,1,44.44,38.11,,,,,
+23,FE Woolley,62.0,lbw,5,Australia,36.14,795.0,22,1912,1,49.11,40.33,,,,,
+24,FE Woolley,4.0,bowled,5,Australia,34.74,799.0,23,1912,1,43.33,40.33,,,,,
+25,FE Woolley,31.0,caught,7,South Africa,34.58,830.0,24,1913,1,28.8,36.79,,,,,
+26,FE Woolley,0.0,bowled,7,South Africa,33.2,830.0,25,1913,1,27.7,36.79,,,,,
+27,FE Woolley,7.0,lbw,7,South Africa,32.19,837.0,26,1914,1,21.1,33.53,,,,,
+28,FE Woolley,37.0,stumped,7,South Africa,32.37,874.0,27,1914,1,22.8,32.11,,,,,
+29,FE Woolley,9.0,caught,7,South Africa,31.54,883.0,28,1914,1,18.0,32.58,31.54,,,,
+30,FE Woolley,0.0,not out,7,South Africa,31.54,883.0,28,1914,0,19.56,32.22,32.41,,,,
+31,FE Woolley,54.0,lbw,6,South Africa,32.31,937.0,29,1914,1,24.11,34.83,33.89,,,,
+32,FE Woolley,52.0,caught,5,Australia,32.97,989.0,30,1920,1,28.44,36.44,34.89,,,,
+33,FE Woolley,16.0,stumped,5,Australia,32.42,1005.0,31,1920,1,23.33,36.22,34.67,,,,
+34,FE Woolley,5.0,bowled,6,Australia,31.56,1010.0,32,1920,1,23.44,33.39,34.7,,,,
+35,FE Woolley,50.0,bowled,6,Australia,32.12,1060.0,33,1920,1,25.56,27.26,33.18,,,,
+36,FE Woolley,79.0,caught,5,Australia,33.5,1139.0,34,1921,1,34.33,30.84,36.0,,,,
+37,FE Woolley,0.0,bowled,5,Australia,32.54,1139.0,35,1921,1,33.56,27.0,33.54,,,,
+38,FE Woolley,29.0,lbw,5,Australia,32.44,1168.0,36,1921,1,32.67,27.47,32.29,,,,
+39,FE Woolley,0.0,stumped,5,Australia,31.57,1168.0,37,1921,1,31.67,24.47,32.29,31.57,,,
+40,FE Woolley,53.0,bowled,5,Australia,32.13,1221.0,38,1921,1,33.8,27.05,32.79,32.78,,,
+41,FE Woolley,1.0,caught,1,Australia,31.33,1222.0,39,1921,1,28.5,26.42,32.57,32.43,,,
+42,FE Woolley,20.0,caught,6,Australia,31.05,1242.0,40,1921,1,25.3,26.79,32.46,32.3,,,
+43,FE Woolley,34.0,caught,6,Australia,31.12,1276.0,41,1921,1,27.1,25.32,32.96,32.62,,,
+44,FE Woolley,95.0,stumped,3,Australia,32.64,1371.0,42,1921,1,36.1,30.11,34.36,35.08,,,
+45,FE Woolley,93.0,caught,3,Australia,34.05,1464.0,43,1921,1,40.4,33.37,31.79,35.08,,,
+46,FE Woolley,0.0,bowled,1,Australia,33.27,1464.0,44,1921,1,32.5,33.37,31.41,35.08,,,
+47,FE Woolley,37.0,bowled,4,Australia,33.36,1501.0,45,1921,1,36.2,34.95,30.17,34.24,,,
+48,FE Woolley,41.0,caught,3,Australia,33.52,1542.0,46,1921,1,37.4,35.16,30.9,33.63,,,
+49,FE Woolley,23.0,run out,4,Australia,33.3,1565.0,47,1921,1,39.7,35.89,29.72,34.24,33.3,,
+50,FE Woolley,26.0,lbw,3,South Africa,33.15,1591.0,48,1922,1,37.0,35.4,30.48,33.89,33.68,,
+51,FE Woolley,15.0,caught,4,South Africa,32.78,1606.0,49,1922,1,38.4,33.45,30.55,34.11,33.7,,
+52,FE Woolley,0.0,caught,3,South Africa,32.12,1606.0,50,1923,1,36.4,30.85,30.1,33.5,33.17,,
+53,FE Woolley,5.0,bowled,3,South Africa,31.59,1611.0,51,1923,1,33.5,30.3,28.14,33.11,32.81,,
+54,FE Woolley,0.0,caught,3,South Africa,30.98,1611.0,52,1923,1,24.0,30.05,28.0,31.63,32.72,,
+55,FE Woolley,15.0,caught,3,South Africa,30.68,1626.0,53,1923,1,16.2,28.3,27.45,27.79,31.15,,
+56,FE Woolley,115.0,not out,3,South Africa,32.85,1741.0,53,1923,0,30.78,31.68,32.54,31.26,34.26,,
+57,FE Woolley,2.0,caught,3,South Africa,32.28,1743.0,54,1923,1,26.89,31.79,32.36,29.39,32.83,,
+58,FE Woolley,8.0,caught,3,South Africa,31.84,1751.0,55,1923,1,23.22,30.68,31.32,29.08,31.64,,
+59,FE Woolley,64.0,caught,3,South Africa,32.41,1815.0,56,1924,1,27.78,34.05,33.29,29.26,33.0,,
+60,FE Woolley,134.0,not out,3,South Africa,34.8,1949.0,56,1924,0,44.75,40.44,38.07,33.57,35.78,,
+61,FE Woolley,0.0,bowled,4,South Africa,34.19,1949.0,57,1924,1,42.88,40.39,36.14,33.22,35.63,,
+62,FE Woolley,51.0,bowled,4,South Africa,34.48,2000.0,58,1924,1,49.25,42.11,36.11,34.24,36.24,,
+63,FE Woolley,0.0,bowled,4,Australia,33.9,2000.0,59,1924,1,48.62,40.22,35.54,32.57,35.8,,
+64,FE Woolley,123.0,caught,6,Australia,35.38,2123.0,60,1924,1,64.0,41.78,39.75,35.78,37.26,,
+65,FE Woolley,0.0,bowled,3,Australia,34.8,2123.0,61,1925,1,62.12,36.61,37.96,34.95,33.64,,
+66,FE Woolley,50.0,lbw,5,Australia,35.05,2173.0,62,1925,1,48.0,39.39,36.93,36.3,34.47,,
+67,FE Woolley,16.0,caught,7,Australia,34.75,2189.0,63,1925,1,49.56,38.22,37.5,36.54,33.26,,
+68,FE Woolley,21.0,bowled,3,Australia,34.53,2210.0,64,1925,1,51.0,37.11,37.21,36.11,33.28,,
+69,FE Woolley,40.0,stumped,4,Australia,34.62,2250.0,65,1925,1,48.33,38.06,38.64,36.95,32.91,34.62,
+70,FE Woolley,47.0,bowled,4,Australia,34.8,2297.0,66,1925,1,34.8,39.22,38.43,37.21,33.83,35.22,
+71,FE Woolley,28.0,caught,4,Australia,34.7,2325.0,67,1925,1,37.6,39.94,39.39,36.53,34.15,35.43,
+72,FE Woolley,87.0,lbw,3,Australia,35.47,2412.0,68,1926,1,41.2,44.78,41.79,37.45,35.72,36.38,
+73,FE Woolley,27.0,run out,3,Australia,35.35,2439.0,69,1926,1,43.9,46.0,41.54,37.74,34.98,36.46,
+74,FE Woolley,20.0,caught,3,Australia,35.13,2459.0,70,1926,1,33.6,47.11,38.86,38.13,35.32,36.71,
+75,FE Woolley,58.0,caught,4,Australia,35.45,2517.0,71,1926,1,39.4,49.5,37.61,38.34,35.89,36.15,
+76,FE Woolley,18.0,bowled,3,Australia,35.21,2535.0,72,1926,1,36.2,41.79,38.25,36.74,36.28,36.42,
+77,FE Woolley,27.0,lbw,3,Australia,35.1,2562.0,73,1926,1,37.3,43.11,37.89,37.45,36.7,35.79,
+78,FE Woolley,83.0,bowled,5,South Africa,35.74,2645.0,74,1929,1,43.5,47.05,39.39,38.87,37.68,36.08,
+79,FE Woolley,95.0,not out,4,South Africa,37.03,2740.0,74,1929,0,54.44,51.39,43.52,42.49,40.37,38.09,
+80,FE Woolley,154.0,caught,4,South Africa,38.59,2894.0,75,1929,1,66.33,49.74,48.26,45.22,42.79,39.86,
+81,FE Woolley,46.0,hit wicket,4,South Africa,38.68,2940.0,76,1929,1,68.33,52.16,49.41,46.43,42.62,40.46,
+82,FE Woolley,31.0,caught,4,New Zealand,38.58,2971.0,77,1930,1,62.11,51.11,50.56,46.73,42.17,40.58,
+83,FE Woolley,17.0,not out,4,New Zealand,38.81,2988.0,77,1930,0,68.62,54.89,52.96,47.56,43.11,41.17,
+84,FE Woolley,6.0,caught,4,New Zealand,38.38,2994.0,78,1930,1,66.88,48.39,53.19,45.08,43.13,40.39,
+85,FE Woolley,23.0,bowled,4,New Zealand,38.19,3017.0,79,1930,1,62.5,49.67,53.5,43.14,42.54,38.08,
+86,FE Woolley,59.0,run out,4,New Zealand,38.45,3076.0,80,1930,1,67.62,50.17,49.44,44.78,42.11,38.82,
+87,FE Woolley,10.0,bowled,4,New Zealand,38.1,3086.0,81,1930,1,65.5,49.83,49.74,44.03,42.33,37.85,
+88,FE Woolley,0.0,stumped,4,Australia,37.63,3086.0,82,1930,1,55.12,48.67,49.44,42.89,41.7,37.54,
+89,FE Woolley,5.0,bowled,4,Australia,37.24,3091.0,83,1930,1,39.0,46.72,47.26,42.39,41.8,36.74,
+90,FE Woolley,41.0,caught,2,Australia,37.29,3132.0,84,1930,1,26.44,46.39,42.25,42.81,41.54,37.31,
+91,FE Woolley,28.0,hit wicket,2,Australia,37.18,3160.0,85,1930,1,24.44,46.39,43.25,43.17,42.13,37.54,
+92,FE Woolley,80.0,lbw,6,New Zealand,37.67,3240.0,86,1931,1,29.89,46.0,44.29,45.39,43.43,38.57,
+93,FE Woolley,9.0,bowled,5,New Zealand,37.34,3249.0,87,1931,1,26.1,45.0,44.61,45.5,42.89,37.75,
+94,FE Woolley,9.0,run out,3,India,37.02,3258.0,88,1932,1,26.4,44.39,40.54,45.75,41.02,37.83,
+95,FE Woolley,21.0,caught,3,India,36.84,3279.0,89,1932,1,26.2,42.33,41.29,45.92,39.46,37.68,
+96,FE Woolley,4.0,caught,3,Australia,36.48,3283.0,90,1934,1,20.7,41.56,39.64,41.68,39.54,37.74,
+97,FE Woolley,0.0,caught,3,Australia,36.08,3283.0,91,1934,1,19.7,40.06,39.07,41.62,38.74,37.63,

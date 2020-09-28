@@ -1,78 +1,78 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,37,3,England,1,2011,caught,37.0,,,,,,,,UT Khawaja
-1,21,3,England,1,2011,caught,29.0,,,,,,,,UT Khawaja
-2,21,6,Sri Lanka,1,2011,bowled,26.33,,,,,,,,UT Khawaja
-3,26,6,Sri Lanka,1,2011,lbw,26.25,,,,,,,,UT Khawaja
-4,13,6,Sri Lanka,0,2011,not out,29.5,,,,,,,,UT Khawaja
-5,12,3,South Africa,1,2011,lbw,26.0,,,,,,,,UT Khawaja
-6,65,3,South Africa,1,2011,caught,32.5,,,,,,,,UT Khawaja
-7,38,3,New Zealand,1,2011,run out,33.29,,,,,,,,UT Khawaja
-8,0,3,New Zealand,0,2011,not out,33.29,,,,,,,,UT Khawaja
-9,7,3,New Zealand,1,2011,caught,30.0,30.0,,,,,,,UT Khawaja
-10,23,3,New Zealand,1,2011,caught,29.22,28.25,,,,,,,UT Khawaja
-11,14,3,England,1,2013,caught,27.7,27.38,,,,,,,UT Khawaja
-12,54,3,England,1,2013,caught,30.09,31.5,,,,,,,UT Khawaja
-13,1,3,England,1,2013,caught,27.67,28.38,,,,,,,UT Khawaja
-14,24,3,England,1,2013,bowled,27.38,26.44,,,,,,,UT Khawaja
-15,0,3,England,1,2013,caught,25.43,25.11,,,,,,,UT Khawaja
-16,21,3,England,1,2013,lbw,25.13,20.22,,,,,,,UT Khawaja
-17,174,3,New Zealand,1,2015,caught,34.44,35.33,,,,,,,UT Khawaja
-18,9,3,New Zealand,0,2015,not out,35.0,36.33,,,,,,,UT Khawaja
-19,121,3,New Zealand,1,2015,caught,40.06,49.0,40.06,,,,,,UT Khawaja
-20,144,3,West Indies,1,2015,caught,45.83,62.44,46.35,,,,,,UT Khawaja
-21,56,3,West Indies,1,2015,caught,46.37,67.11,48.41,,,,,,UT Khawaja
-22,140,3,New Zealand,1,2016,lbw,51.05,76.67,55.41,,,,,,UT Khawaja
-23,24,3,New Zealand,1,2016,caught,49.76,79.22,55.29,,,,,,UT Khawaja
-24,45,3,New Zealand,1,2016,caught,49.55,81.56,54.0,,,,,,UT Khawaja
-25,26,3,Sri Lanka,1,2016,lbw,48.52,84.44,54.78,,,,,,UT Khawaja
-26,18,3,Sri Lanka,1,2016,lbw,47.25,84.11,52.17,,,,,,UT Khawaja
-27,11,3,Sri Lanka,1,2016,bowled,45.8,66.0,50.67,,,,,,UT Khawaja
-28,0,4,Sri Lanka,1,2016,bowled,44.04,58.5,48.0,,,,,,UT Khawaja
-29,4,3,South Africa,1,2016,bowled,42.56,46.8,47.84,42.56,,,,,UT Khawaja
-30,97,3,South Africa,1,2016,lbw,44.5,42.1,51.74,44.78,,,,,UT Khawaja
-31,4,3,South Africa,1,2016,caught,43.1,36.9,51.21,44.15,,,,,UT Khawaja
-32,64,3,South Africa,1,2016,caught,43.8,29.3,51.74,45.74,,,,,UT Khawaja
-33,145,1,South Africa,1,2016,lbw,47.06,41.4,59.32,50.15,,,,,UT Khawaja
-34,0,3,South Africa,1,2016,lbw,45.59,36.9,58.05,47.89,,,,,UT Khawaja
-35,4,3,Pakistan,1,2016,caught,44.33,34.7,58.26,47.61,,,,,UT Khawaja
-36,74,3,Pakistan,1,2016,caught,45.21,40.3,61.05,47.93,,,,,UT Khawaja
-37,97,3,Pakistan,1,2016,caught,46.69,48.9,57.0,50.04,,,,,UT Khawaja
-38,13,3,Pakistan,1,2017,caught,45.75,50.2,54.35,48.76,,,,,UT Khawaja
-39,79,2,Pakistan,0,2017,not out,47.94,64.11,55.0,53.07,47.94,,,,UT Khawaja
-40,1,3,Bangladesh,1,2017,run out,46.68,53.44,47.47,52.29,46.94,,,,UT Khawaja
-41,1,3,Bangladesh,1,2017,caught,45.47,53.11,44.58,51.82,46.39,,,,UT Khawaja
-42,11,3,England,1,2017,lbw,44.59,47.22,37.79,50.29,46.11,,,,UT Khawaja
-43,53,3,England,1,2017,caught,44.8,37.0,39.32,52.14,46.86,,,,UT Khawaja
-44,20,3,England,1,2017,lbw,44.2,39.22,38.0,52.0,45.78,,,,UT Khawaja
-45,50,3,England,1,2017,lbw,44.33,44.33,39.26,53.79,46.81,,,,UT Khawaja
-46,17,3,England,1,2017,caught,43.7,38.0,39.21,53.64,45.51,,,,UT Khawaja
-47,11,3,England,1,2017,caught,42.95,28.44,39.21,47.82,44.78,,,,UT Khawaja
-48,171,3,England,1,2018,stumped,45.8,46.0,48.21,51.76,48.11,,,,UT Khawaja
-49,14,3,South Africa,1,2018,caught,45.11,34.9,48.74,48.07,48.29,45.11,,,UT Khawaja
-50,6,3,South Africa,1,2018,caught,44.28,35.4,43.95,43.31,47.84,44.43,,,UT Khawaja
-51,4,3,South Africa,1,2018,caught,43.44,35.7,43.95,41.52,47.58,44.07,,,UT Khawaja
-52,75,3,South Africa,1,2018,lbw,44.08,42.1,44.53,39.28,48.13,45.24,,,UT Khawaja
-53,5,3,South Africa,1,2018,caught,43.3,37.3,37.16,38.62,48.24,44.78,,,UT Khawaja
-54,1,3,South Africa,1,2018,caught,42.47,35.4,37.21,37.1,47.63,43.57,,,UT Khawaja
-55,53,3,South Africa,1,2018,caught,42.67,35.7,39.79,38.03,49.03,44.45,,,UT Khawaja
-56,7,3,South Africa,1,2018,lbw,42.0,34.7,36.26,37.66,48.66,43.21,,,UT Khawaja
-57,85,1,Pakistan,1,2018,caught,42.8,42.1,35.63,40.21,46.32,44.21,,,UT Khawaja
-58,141,2,Pakistan,1,2018,lbw,44.58,39.1,42.37,45.07,48.51,46.23,,,UT Khawaja
-59,3,1,Pakistan,1,2018,caught,43.84,38.0,36.45,45.03,45.49,46.15,,,UT Khawaja
-60,28,3,India,1,2018,caught,43.56,40.2,37.8,42.66,42.51,46.25,,,UT Khawaja
-61,8,3,India,1,2018,caught,42.95,40.6,38.15,42.79,41.28,46.12,,,UT Khawaja
-62,5,3,India,1,2018,caught,42.31,33.6,37.85,40.76,37.82,45.1,,,UT Khawaja
-63,72,3,India,1,2018,caught,42.8,40.3,38.8,38.24,39.05,46.58,,,UT Khawaja
-64,21,3,India,1,2018,caught,42.44,42.3,38.85,38.97,38.44,46.52,,,UT Khawaja
-65,33,3,India,1,2018,lbw,42.29,40.3,38.0,39.97,38.62,47.21,,,UT Khawaja
-66,27,2,India,1,2019,caught,42.05,42.3,38.5,38.34,38.85,47.33,,,UT Khawaja
-67,4,1,India,0,2019,not out,42.11,38.0,40.16,36.39,39.68,44.72,,,UT Khawaja
-68,11,3,Sri Lanka,1,2019,bowled,41.62,23.56,31.74,36.32,39.97,43.83,,,UT Khawaja
-69,0,3,Sri Lanka,1,2019,caught,40.98,23.22,31.0,32.34,39.87,41.31,40.98,,UT Khawaja
-70,101,3,Sri Lanka,0,2019,not out,42.54,35.25,38.0,37.07,41.05,41.28,42.62,,UT Khawaja
-71,13,3,England,1,2019,caught,42.09,35.88,38.5,37.5,41.3,40.36,42.5,,UT Khawaja
-72,40,3,England,1,2019,caught,42.06,40.25,36.56,38.54,40.65,38.23,42.8,,UT Khawaja
-73,36,3,England,1,2019,caught,41.97,35.75,38.28,37.93,37.7,38.49,42.95,,UT Khawaja
-74,2,3,England,1,2019,caught,41.39,33.38,38.33,37.29,37.76,37.57,42.12,,UT Khawaja
-75,8,3,England,1,2019,caught,40.91,30.25,35.83,35.79,37.86,37.19,42.06,,UT Khawaja
-76,23,3,England,1,2019,caught,40.66,29.75,36.72,36.0,36.49,37.3,41.42,,UT Khawaja
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,UT Khawaja,37.0,caught,3,England,37.0,37.0,1,2011,1,,,,,,,
+1,UT Khawaja,21.0,caught,3,England,29.0,58.0,2,2011,1,,,,,,,
+2,UT Khawaja,21.0,bowled,6,Sri Lanka,26.33,79.0,3,2011,1,,,,,,,
+3,UT Khawaja,26.0,lbw,6,Sri Lanka,26.25,105.0,4,2011,1,,,,,,,
+4,UT Khawaja,13.0,not out,6,Sri Lanka,29.5,118.0,4,2011,0,,,,,,,
+5,UT Khawaja,12.0,lbw,3,South Africa,26.0,130.0,5,2011,1,,,,,,,
+6,UT Khawaja,65.0,caught,3,South Africa,32.5,195.0,6,2011,1,,,,,,,
+7,UT Khawaja,38.0,run out,3,New Zealand,33.29,233.0,7,2011,1,,,,,,,
+8,UT Khawaja,0.0,not out,3,New Zealand,33.29,233.0,7,2011,0,,,,,,,
+9,UT Khawaja,7.0,caught,3,New Zealand,30.0,240.0,8,2011,1,30.0,,,,,,
+10,UT Khawaja,23.0,caught,3,New Zealand,29.22,263.0,9,2011,1,28.25,,,,,,
+11,UT Khawaja,14.0,caught,3,England,27.7,277.0,10,2013,1,27.38,,,,,,
+12,UT Khawaja,54.0,caught,3,England,30.09,331.0,11,2013,1,31.5,,,,,,
+13,UT Khawaja,1.0,caught,3,England,27.67,332.0,12,2013,1,28.38,,,,,,
+14,UT Khawaja,24.0,bowled,3,England,27.38,356.0,13,2013,1,26.44,,,,,,
+15,UT Khawaja,0.0,caught,3,England,25.43,356.0,14,2013,1,25.11,,,,,,
+16,UT Khawaja,21.0,lbw,3,England,25.13,377.0,15,2013,1,20.22,,,,,,
+17,UT Khawaja,174.0,caught,3,New Zealand,34.44,551.0,16,2015,1,35.33,,,,,,
+18,UT Khawaja,9.0,not out,3,New Zealand,35.0,560.0,16,2015,0,36.33,,,,,,
+19,UT Khawaja,121.0,caught,3,New Zealand,40.06,681.0,17,2015,1,49.0,40.06,,,,,
+20,UT Khawaja,144.0,caught,3,West Indies,45.83,825.0,18,2015,1,62.44,46.35,,,,,
+21,UT Khawaja,56.0,caught,3,West Indies,46.37,881.0,19,2015,1,67.11,48.41,,,,,
+22,UT Khawaja,140.0,lbw,3,New Zealand,51.05,1021.0,20,2016,1,76.67,55.41,,,,,
+23,UT Khawaja,24.0,caught,3,New Zealand,49.76,1045.0,21,2016,1,79.22,55.29,,,,,
+24,UT Khawaja,45.0,caught,3,New Zealand,49.55,1090.0,22,2016,1,81.56,54.0,,,,,
+25,UT Khawaja,26.0,lbw,3,Sri Lanka,48.52,1116.0,23,2016,1,84.44,54.78,,,,,
+26,UT Khawaja,18.0,lbw,3,Sri Lanka,47.25,1134.0,24,2016,1,84.11,52.17,,,,,
+27,UT Khawaja,11.0,bowled,3,Sri Lanka,45.8,1145.0,25,2016,1,66.0,50.67,,,,,
+28,UT Khawaja,0.0,bowled,4,Sri Lanka,44.04,1145.0,26,2016,1,58.5,48.0,,,,,
+29,UT Khawaja,4.0,bowled,3,South Africa,42.56,1149.0,27,2016,1,46.8,47.84,42.56,,,,
+30,UT Khawaja,97.0,lbw,3,South Africa,44.5,1246.0,28,2016,1,42.1,51.74,44.78,,,,
+31,UT Khawaja,4.0,caught,3,South Africa,43.1,1250.0,29,2016,1,36.9,51.21,44.15,,,,
+32,UT Khawaja,64.0,caught,3,South Africa,43.8,1314.0,30,2016,1,29.3,51.74,45.74,,,,
+33,UT Khawaja,145.0,lbw,1,South Africa,47.06,1459.0,31,2016,1,41.4,59.32,50.15,,,,
+34,UT Khawaja,0.0,lbw,3,South Africa,45.59,1459.0,32,2016,1,36.9,58.05,47.89,,,,
+35,UT Khawaja,4.0,caught,3,Pakistan,44.33,1463.0,33,2016,1,34.7,58.26,47.61,,,,
+36,UT Khawaja,74.0,caught,3,Pakistan,45.21,1537.0,34,2016,1,40.3,61.05,47.93,,,,
+37,UT Khawaja,97.0,caught,3,Pakistan,46.69,1634.0,35,2016,1,48.9,57.0,50.04,,,,
+38,UT Khawaja,13.0,caught,3,Pakistan,45.75,1647.0,36,2017,1,50.2,54.35,48.76,,,,
+39,UT Khawaja,79.0,not out,2,Pakistan,47.94,1726.0,36,2017,0,64.11,55.0,53.07,47.94,,,
+40,UT Khawaja,1.0,run out,3,Bangladesh,46.68,1727.0,37,2017,1,53.44,47.47,52.29,46.94,,,
+41,UT Khawaja,1.0,caught,3,Bangladesh,45.47,1728.0,38,2017,1,53.11,44.58,51.82,46.39,,,
+42,UT Khawaja,11.0,lbw,3,England,44.59,1739.0,39,2017,1,47.22,37.79,50.29,46.11,,,
+43,UT Khawaja,53.0,caught,3,England,44.8,1792.0,40,2017,1,37.0,39.32,52.14,46.86,,,
+44,UT Khawaja,20.0,lbw,3,England,44.2,1812.0,41,2017,1,39.22,38.0,52.0,45.78,,,
+45,UT Khawaja,50.0,lbw,3,England,44.33,1862.0,42,2017,1,44.33,39.26,53.79,46.81,,,
+46,UT Khawaja,17.0,caught,3,England,43.7,1879.0,43,2017,1,38.0,39.21,53.64,45.51,,,
+47,UT Khawaja,11.0,caught,3,England,42.95,1890.0,44,2017,1,28.44,39.21,47.82,44.78,,,
+48,UT Khawaja,171.0,stumped,3,England,45.8,2061.0,45,2018,1,46.0,48.21,51.76,48.11,,,
+49,UT Khawaja,14.0,caught,3,South Africa,45.11,2075.0,46,2018,1,34.9,48.74,48.07,48.29,45.11,,
+50,UT Khawaja,6.0,caught,3,South Africa,44.28,2081.0,47,2018,1,35.4,43.95,43.31,47.84,44.43,,
+51,UT Khawaja,4.0,caught,3,South Africa,43.44,2085.0,48,2018,1,35.7,43.95,41.52,47.58,44.07,,
+52,UT Khawaja,75.0,lbw,3,South Africa,44.08,2160.0,49,2018,1,42.1,44.53,39.28,48.13,45.24,,
+53,UT Khawaja,5.0,caught,3,South Africa,43.3,2165.0,50,2018,1,37.3,37.16,38.62,48.24,44.78,,
+54,UT Khawaja,1.0,caught,3,South Africa,42.47,2166.0,51,2018,1,35.4,37.21,37.1,47.63,43.57,,
+55,UT Khawaja,53.0,caught,3,South Africa,42.67,2219.0,52,2018,1,35.7,39.79,38.03,49.03,44.45,,
+56,UT Khawaja,7.0,lbw,3,South Africa,42.0,2226.0,53,2018,1,34.7,36.26,37.66,48.66,43.21,,
+57,UT Khawaja,85.0,caught,1,Pakistan,42.8,2311.0,54,2018,1,42.1,35.63,40.21,46.32,44.21,,
+58,UT Khawaja,141.0,lbw,2,Pakistan,44.58,2452.0,55,2018,1,39.1,42.37,45.07,48.51,46.23,,
+59,UT Khawaja,3.0,caught,1,Pakistan,43.84,2455.0,56,2018,1,38.0,36.45,45.03,45.49,46.15,,
+60,UT Khawaja,28.0,caught,3,India,43.56,2483.0,57,2018,1,40.2,37.8,42.66,42.51,46.25,,
+61,UT Khawaja,8.0,caught,3,India,42.95,2491.0,58,2018,1,40.6,38.15,42.79,41.28,46.12,,
+62,UT Khawaja,5.0,caught,3,India,42.31,2496.0,59,2018,1,33.6,37.85,40.76,37.82,45.1,,
+63,UT Khawaja,72.0,caught,3,India,42.8,2568.0,60,2018,1,40.3,38.8,38.24,39.05,46.58,,
+64,UT Khawaja,21.0,caught,3,India,42.44,2589.0,61,2018,1,42.3,38.85,38.97,38.44,46.52,,
+65,UT Khawaja,33.0,lbw,3,India,42.29,2622.0,62,2018,1,40.3,38.0,39.97,38.62,47.21,,
+66,UT Khawaja,27.0,caught,2,India,42.05,2649.0,63,2019,1,42.3,38.5,38.34,38.85,47.33,,
+67,UT Khawaja,4.0,not out,1,India,42.11,2653.0,63,2019,0,38.0,40.16,36.39,39.68,44.72,,
+68,UT Khawaja,11.0,bowled,3,Sri Lanka,41.62,2664.0,64,2019,1,23.56,31.74,36.32,39.97,43.83,,
+69,UT Khawaja,0.0,caught,3,Sri Lanka,40.98,2664.0,65,2019,1,23.22,31.0,32.34,39.87,41.31,40.98,
+70,UT Khawaja,101.0,not out,3,Sri Lanka,42.54,2765.0,65,2019,0,35.25,38.0,37.07,41.05,41.28,42.62,
+71,UT Khawaja,13.0,caught,3,England,42.09,2778.0,66,2019,1,35.88,38.5,37.5,41.3,40.36,42.5,
+72,UT Khawaja,40.0,caught,3,England,42.06,2818.0,67,2019,1,40.25,36.56,38.54,40.65,38.23,42.8,
+73,UT Khawaja,36.0,caught,3,England,41.97,2854.0,68,2019,1,35.75,38.28,37.93,37.7,38.49,42.95,
+74,UT Khawaja,2.0,caught,3,England,41.39,2856.0,69,2019,1,33.38,38.33,37.29,37.76,37.57,42.12,
+75,UT Khawaja,8.0,caught,3,England,40.91,2864.0,70,2019,1,30.25,35.83,35.79,37.86,37.19,42.06,
+76,UT Khawaja,23.0,caught,3,England,40.66,2887.0,71,2019,1,29.75,36.72,36.0,36.49,37.3,41.42,

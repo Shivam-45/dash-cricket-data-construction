@@ -1,77 +1,77 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,58,2,England,1,1947,caught,58.0,,,,,,,,B Sutcliffe
-1,32,1,England,1,1949,caught,45.0,,,,,,,,B Sutcliffe
-2,82,1,England,1,1949,caught,57.33,,,,,,,,B Sutcliffe
-3,57,1,England,1,1949,caught,57.25,,,,,,,,B Sutcliffe
-4,9,1,England,1,1949,bowled,47.6,,,,,,,,B Sutcliffe
-5,101,1,England,1,1949,lbw,56.5,,,,,,,,B Sutcliffe
-6,88,1,England,1,1949,caught,61.0,,,,,,,,B Sutcliffe
-7,54,1,England,1,1949,caught,60.12,,,,,,,,B Sutcliffe
-8,116,1,England,1,1951,bowled,66.33,,,,,,,,B Sutcliffe
-9,20,1,England,1,1951,caught,61.7,61.7,,,,,,,B Sutcliffe
-10,11,1,England,1,1951,bowled,57.09,57.0,,,,,,,B Sutcliffe
-11,45,4,West Indies,1,1952,caught,56.08,58.3,,,,,,,B Sutcliffe
-12,36,5,West Indies,1,1952,bowled,54.54,53.7,,,,,,,B Sutcliffe
-13,20,4,West Indies,1,1952,caught,52.07,50.0,,,,,,,B Sutcliffe
-14,2,3,West Indies,0,1952,not out,52.21,54.78,,,,,,,B Sutcliffe
-15,62,1,South Africa,1,1953,caught,52.87,50.44,,,,,,,B Sutcliffe
-16,33,1,South Africa,1,1953,bowled,51.62,44.33,,,,,,,B Sutcliffe
-17,45,1,South Africa,1,1953,caught,51.24,43.33,,,,,,,B Sutcliffe
-18,10,1,South Africa,1,1953,run out,48.94,31.56,,,,,,,B Sutcliffe
-19,20,1,South Africa,1,1953,caught,47.42,31.56,47.42,,,,,,B Sutcliffe
-20,16,1,South Africa,1,1953,caught,45.85,32.11,45.21,,,,,,B Sutcliffe
-21,80,4,South Africa,0,1953,not out,49.85,40.5,50.39,,,,,,B Sutcliffe
-22,10,4,South Africa,1,1953,caught,47.95,37.25,46.39,,,,,,B Sutcliffe
-23,66,4,South Africa,1,1954,caught,48.77,43.0,46.89,,,,,,B Sutcliffe
-24,0,4,South Africa,1,1954,caught,46.65,38.0,46.39,,,,,,B Sutcliffe
-25,23,6,South Africa,1,1954,bowled,45.67,33.67,42.06,,,,,,B Sutcliffe
-26,38,4,South Africa,1,1954,caught,45.36,34.22,39.28,,,,,,B Sutcliffe
-27,52,4,South Africa,1,1954,caught,45.62,35.0,39.17,,,,,,B Sutcliffe
-28,74,3,England,1,1955,caught,46.67,42.11,36.83,,,,,,B Sutcliffe
-29,35,2,England,1,1955,run out,46.25,43.78,37.67,46.25,,,,,B Sutcliffe
-30,49,1,England,1,1955,caught,46.34,47.44,39.78,45.93,,,,,B Sutcliffe
-31,11,1,England,1,1955,bowled,45.17,35.8,37.89,45.18,,,,,B Sutcliffe
-32,15,2,Pakistan,1,1955,caught,44.19,36.3,36.72,42.79,,,,,B Sutcliffe
-33,17,2,Pakistan,1,1955,bowled,43.34,31.4,36.56,41.36,,,,,B Sutcliffe
-34,4,1,Pakistan,1,1955,caught,42.15,31.8,34.74,41.18,,,,,B Sutcliffe
-35,25,1,Pakistan,1,1955,lbw,41.65,32.0,32.79,38.46,,,,,B Sutcliffe
-36,3,2,Pakistan,1,1955,bowled,40.54,28.5,31.21,35.43,,,,,B Sutcliffe
-37,17,2,Pakistan,1,1955,caught,39.89,25.0,29.74,34.11,,,,,B Sutcliffe
-38,17,1,India,1,1955,caught,39.27,19.3,30.11,30.57,,,,,B Sutcliffe
-39,137,1,India,0,1955,not out,42.97,32.78,38.28,36.04,42.97,,,,B Sutcliffe
-40,73,1,India,1,1955,caught,43.76,35.44,41.44,38.33,43.38,,,,B Sutcliffe
-41,37,1,India,1,1955,caught,43.59,38.33,37.0,38.04,43.51,,,,B Sutcliffe
-42,230,2,India,0,1955,not out,49.49,70.0,51.28,46.96,48.83,,,,B Sutcliffe
-43,25,2,India,1,1955,caught,48.88,71.0,49.0,47.15,47.94,,,,B Sutcliffe
-44,5,2,India,1,1955,lbw,47.8,71.12,49.28,45.52,47.83,,,,B Sutcliffe
-45,47,2,India,1,1956,caught,47.79,73.88,50.61,44.96,46.33,,,,B Sutcliffe
-46,40,2,India,1,1956,caught,47.6,78.5,50.72,45.22,45.0,,,,B Sutcliffe
-47,9,2,West Indies,1,1956,bowled,46.73,77.5,48.33,43.89,43.75,,,,B Sutcliffe
-48,48,2,West Indies,1,1956,caught,46.76,81.38,46.89,45.3,41.86,,,,B Sutcliffe
-49,26,1,West Indies,1,1956,stumped,46.3,60.0,46.39,45.52,42.03,46.3,,,B Sutcliffe
-50,10,1,West Indies,1,1956,stumped,45.53,53.0,44.22,45.3,42.0,45.26,,,B Sutcliffe
-51,18,6,England,1,1958,bowled,44.96,50.89,44.61,41.46,41.25,44.96,,,B Sutcliffe
-52,0,6,England,1,1958,bowled,44.04,22.8,43.78,41.11,40.25,43.17,,,B Sutcliffe
-53,6,4,England,1,1958,bowled,43.28,20.9,43.17,38.96,39.86,42.07,,,B Sutcliffe
-54,0,4,England,1,1958,lbw,42.43,20.4,42.94,38.96,38.73,41.87,,,B Sutcliffe
-55,41,1,England,1,1958,bowled,42.4,19.8,43.83,39.61,38.16,40.57,,,B Sutcliffe
-56,28,1,England,1,1958,bowled,42.13,18.6,45.22,39.25,38.03,39.26,,,B Sutcliffe
-57,11,4,England,1,1958,caught,41.56,18.8,44.89,37.79,37.11,38.33,,,B Sutcliffe
-58,18,4,England,0,1958,not out,41.89,17.56,47.59,37.11,38.36,37.0,,,B Sutcliffe
-59,0,5,England,1,1959,caught,41.13,14.67,37.33,35.81,37.81,36.56,,,B Sutcliffe
-60,12,5,England,1,1959,caught,40.61,14.89,33.94,34.44,37.69,36.58,,,B Sutcliffe
-61,61,5,England,1,1959,bowled,40.96,19.67,35.28,36.3,36.16,36.93,,,B Sutcliffe
-62,56,6,India,1,1965,bowled,41.22,25.89,24.26,37.81,37.41,37.38,,,B Sutcliffe
-63,151,5,India,0,1965,not out,43.83,47.25,32.61,44.42,40.81,41.2,,,B Sutcliffe
-64,6,6,India,1,1965,caught,43.19,48.0,32.67,44.5,40.97,40.38,,,B Sutcliffe
-65,4,5,India,1,1965,run out,42.53,43.38,30.28,43.69,40.44,39.09,,,B Sutcliffe
-66,1,6,India,1,1965,caught,41.85,40.0,28.11,43.62,39.42,38.38,,,B Sutcliffe
-67,2,6,India,1,1965,bowled,41.21,38.88,27.72,43.04,38.03,37.42,,,B Sutcliffe
-68,54,6,India,1,1965,caught,41.41,38.56,28.06,44.46,37.47,38.4,,,B Sutcliffe
-69,7,6,Pakistan,1,1965,bowled,40.88,39.33,27.0,38.0,36.69,38.11,40.88,,B Sutcliffe
-70,0,8,Pakistan,1,1965,bowled,40.25,38.0,26.44,35.3,35.33,37.76,39.97,,B Sutcliffe
-71,23,6,Pakistan,1,1965,bowled,39.98,33.78,26.72,34.78,35.67,35.7,39.83,,B Sutcliffe
-72,13,10,Pakistan,0,1965,not out,40.18,32.62,29.06,26.74,36.63,36.56,39.37,,B Sutcliffe
-73,18,6,Pakistan,1,1965,caught,39.85,14.22,29.76,26.48,36.66,35.49,38.75,,B Sutcliffe
-74,4,5,England,0,1965,retired notout,39.91,15.75,31.88,27.46,37.74,36.39,39.29,,B Sutcliffe
-75,53,7,England,1,1965,caught,40.1,21.88,32.62,27.69,38.56,37.07,38.52,,B Sutcliffe
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,B Sutcliffe,58.0,caught,2,England,58.0,58.0,1,1947,1,,,,,,,
+1,B Sutcliffe,32.0,caught,1,England,45.0,90.0,2,1949,1,,,,,,,
+2,B Sutcliffe,82.0,caught,1,England,57.33,172.0,3,1949,1,,,,,,,
+3,B Sutcliffe,57.0,caught,1,England,57.25,229.0,4,1949,1,,,,,,,
+4,B Sutcliffe,9.0,bowled,1,England,47.6,238.0,5,1949,1,,,,,,,
+5,B Sutcliffe,101.0,lbw,1,England,56.5,339.0,6,1949,1,,,,,,,
+6,B Sutcliffe,88.0,caught,1,England,61.0,427.0,7,1949,1,,,,,,,
+7,B Sutcliffe,54.0,caught,1,England,60.12,481.0,8,1949,1,,,,,,,
+8,B Sutcliffe,116.0,bowled,1,England,66.33,597.0,9,1951,1,,,,,,,
+9,B Sutcliffe,20.0,caught,1,England,61.7,617.0,10,1951,1,61.7,,,,,,
+10,B Sutcliffe,11.0,bowled,1,England,57.09,628.0,11,1951,1,57.0,,,,,,
+11,B Sutcliffe,45.0,caught,4,West Indies,56.08,673.0,12,1952,1,58.3,,,,,,
+12,B Sutcliffe,36.0,bowled,5,West Indies,54.54,709.0,13,1952,1,53.7,,,,,,
+13,B Sutcliffe,20.0,caught,4,West Indies,52.07,729.0,14,1952,1,50.0,,,,,,
+14,B Sutcliffe,2.0,not out,3,West Indies,52.21,731.0,14,1952,0,54.78,,,,,,
+15,B Sutcliffe,62.0,caught,1,South Africa,52.87,793.0,15,1953,1,50.44,,,,,,
+16,B Sutcliffe,33.0,bowled,1,South Africa,51.62,826.0,16,1953,1,44.33,,,,,,
+17,B Sutcliffe,45.0,caught,1,South Africa,51.24,871.0,17,1953,1,43.33,,,,,,
+18,B Sutcliffe,10.0,run out,1,South Africa,48.94,881.0,18,1953,1,31.56,,,,,,
+19,B Sutcliffe,20.0,caught,1,South Africa,47.42,901.0,19,1953,1,31.56,47.42,,,,,
+20,B Sutcliffe,16.0,caught,1,South Africa,45.85,917.0,20,1953,1,32.11,45.21,,,,,
+21,B Sutcliffe,80.0,not out,4,South Africa,49.85,997.0,20,1953,0,40.5,50.39,,,,,
+22,B Sutcliffe,10.0,caught,4,South Africa,47.95,1007.0,21,1953,1,37.25,46.39,,,,,
+23,B Sutcliffe,66.0,caught,4,South Africa,48.77,1073.0,22,1954,1,43.0,46.89,,,,,
+24,B Sutcliffe,0.0,caught,4,South Africa,46.65,1073.0,23,1954,1,38.0,46.39,,,,,
+25,B Sutcliffe,23.0,bowled,6,South Africa,45.67,1096.0,24,1954,1,33.67,42.06,,,,,
+26,B Sutcliffe,38.0,caught,4,South Africa,45.36,1134.0,25,1954,1,34.22,39.28,,,,,
+27,B Sutcliffe,52.0,caught,4,South Africa,45.62,1186.0,26,1954,1,35.0,39.17,,,,,
+28,B Sutcliffe,74.0,caught,3,England,46.67,1260.0,27,1955,1,42.11,36.83,,,,,
+29,B Sutcliffe,35.0,run out,2,England,46.25,1295.0,28,1955,1,43.78,37.67,46.25,,,,
+30,B Sutcliffe,49.0,caught,1,England,46.34,1344.0,29,1955,1,47.44,39.78,45.93,,,,
+31,B Sutcliffe,11.0,bowled,1,England,45.17,1355.0,30,1955,1,35.8,37.89,45.18,,,,
+32,B Sutcliffe,15.0,caught,2,Pakistan,44.19,1370.0,31,1955,1,36.3,36.72,42.79,,,,
+33,B Sutcliffe,17.0,bowled,2,Pakistan,43.34,1387.0,32,1955,1,31.4,36.56,41.36,,,,
+34,B Sutcliffe,4.0,caught,1,Pakistan,42.15,1391.0,33,1955,1,31.8,34.74,41.18,,,,
+35,B Sutcliffe,25.0,lbw,1,Pakistan,41.65,1416.0,34,1955,1,32.0,32.79,38.46,,,,
+36,B Sutcliffe,3.0,bowled,2,Pakistan,40.54,1419.0,35,1955,1,28.5,31.21,35.43,,,,
+37,B Sutcliffe,17.0,caught,2,Pakistan,39.89,1436.0,36,1955,1,25.0,29.74,34.11,,,,
+38,B Sutcliffe,17.0,caught,1,India,39.27,1453.0,37,1955,1,19.3,30.11,30.57,,,,
+39,B Sutcliffe,137.0,not out,1,India,42.97,1590.0,37,1955,0,32.78,38.28,36.04,42.97,,,
+40,B Sutcliffe,73.0,caught,1,India,43.76,1663.0,38,1955,1,35.44,41.44,38.33,43.38,,,
+41,B Sutcliffe,37.0,caught,1,India,43.59,1700.0,39,1955,1,38.33,37.0,38.04,43.51,,,
+42,B Sutcliffe,230.0,not out,2,India,49.49,1930.0,39,1955,0,70.0,51.28,46.96,48.83,,,
+43,B Sutcliffe,25.0,caught,2,India,48.88,1955.0,40,1955,1,71.0,49.0,47.15,47.94,,,
+44,B Sutcliffe,5.0,lbw,2,India,47.8,1960.0,41,1955,1,71.12,49.28,45.52,47.83,,,
+45,B Sutcliffe,47.0,caught,2,India,47.79,2007.0,42,1956,1,73.88,50.61,44.96,46.33,,,
+46,B Sutcliffe,40.0,caught,2,India,47.6,2047.0,43,1956,1,78.5,50.72,45.22,45.0,,,
+47,B Sutcliffe,9.0,bowled,2,West Indies,46.73,2056.0,44,1956,1,77.5,48.33,43.89,43.75,,,
+48,B Sutcliffe,48.0,caught,2,West Indies,46.76,2104.0,45,1956,1,81.38,46.89,45.3,41.86,,,
+49,B Sutcliffe,26.0,stumped,1,West Indies,46.3,2130.0,46,1956,1,60.0,46.39,45.52,42.03,46.3,,
+50,B Sutcliffe,10.0,stumped,1,West Indies,45.53,2140.0,47,1956,1,53.0,44.22,45.3,42.0,45.26,,
+51,B Sutcliffe,18.0,bowled,6,England,44.96,2158.0,48,1958,1,50.89,44.61,41.46,41.25,44.96,,
+52,B Sutcliffe,0.0,bowled,6,England,44.04,2158.0,49,1958,1,22.8,43.78,41.11,40.25,43.17,,
+53,B Sutcliffe,6.0,bowled,4,England,43.28,2164.0,50,1958,1,20.9,43.17,38.96,39.86,42.07,,
+54,B Sutcliffe,0.0,lbw,4,England,42.43,2164.0,51,1958,1,20.4,42.94,38.96,38.73,41.87,,
+55,B Sutcliffe,41.0,bowled,1,England,42.4,2205.0,52,1958,1,19.8,43.83,39.61,38.16,40.57,,
+56,B Sutcliffe,28.0,bowled,1,England,42.13,2233.0,53,1958,1,18.6,45.22,39.25,38.03,39.26,,
+57,B Sutcliffe,11.0,caught,4,England,41.56,2244.0,54,1958,1,18.8,44.89,37.79,37.11,38.33,,
+58,B Sutcliffe,18.0,not out,4,England,41.89,2262.0,54,1958,0,17.56,47.59,37.11,38.36,37.0,,
+59,B Sutcliffe,0.0,caught,5,England,41.13,2262.0,55,1959,1,14.67,37.33,35.81,37.81,36.56,,
+60,B Sutcliffe,12.0,caught,5,England,40.61,2274.0,56,1959,1,14.89,33.94,34.44,37.69,36.58,,
+61,B Sutcliffe,61.0,bowled,5,England,40.96,2335.0,57,1959,1,19.67,35.28,36.3,36.16,36.93,,
+62,B Sutcliffe,56.0,bowled,6,India,41.22,2391.0,58,1965,1,25.89,24.26,37.81,37.41,37.38,,
+63,B Sutcliffe,151.0,not out,5,India,43.83,2542.0,58,1965,0,47.25,32.61,44.42,40.81,41.2,,
+64,B Sutcliffe,6.0,caught,6,India,43.19,2548.0,59,1965,1,48.0,32.67,44.5,40.97,40.38,,
+65,B Sutcliffe,4.0,run out,5,India,42.53,2552.0,60,1965,1,43.38,30.28,43.69,40.44,39.09,,
+66,B Sutcliffe,1.0,caught,6,India,41.85,2553.0,61,1965,1,40.0,28.11,43.62,39.42,38.38,,
+67,B Sutcliffe,2.0,bowled,6,India,41.21,2555.0,62,1965,1,38.88,27.72,43.04,38.03,37.42,,
+68,B Sutcliffe,54.0,caught,6,India,41.41,2609.0,63,1965,1,38.56,28.06,44.46,37.47,38.4,,
+69,B Sutcliffe,7.0,bowled,6,Pakistan,40.88,2616.0,64,1965,1,39.33,27.0,38.0,36.69,38.11,40.88,
+70,B Sutcliffe,0.0,bowled,8,Pakistan,40.25,2616.0,65,1965,1,38.0,26.44,35.3,35.33,37.76,39.97,
+71,B Sutcliffe,23.0,bowled,6,Pakistan,39.98,2639.0,66,1965,1,33.78,26.72,34.78,35.67,35.7,39.83,
+72,B Sutcliffe,13.0,not out,10,Pakistan,40.18,2652.0,66,1965,0,32.62,29.06,26.74,36.63,36.56,39.37,
+73,B Sutcliffe,18.0,caught,6,Pakistan,39.85,2670.0,67,1965,1,14.22,29.76,26.48,36.66,35.49,38.75,
+74,B Sutcliffe,4.0,retired notout,5,England,39.91,2674.0,67,1965,0,15.75,31.88,27.46,37.74,36.39,39.29,
+75,B Sutcliffe,53.0,caught,7,England,40.1,2727.0,68,1965,1,21.88,32.62,27.69,38.56,37.07,38.52,

@@ -1,85 +1,85 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,64,2,South Africa,1,1924,bowled,64.0,,,,,,,,H Sutcliffe
-1,122,2,South Africa,1,1924,bowled,93.0,,,,,,,,H Sutcliffe
-2,83,2,South Africa,1,1924,caught,89.67,,,,,,,,H Sutcliffe
-3,29,2,South Africa,0,1924,not out,99.33,,,,,,,,H Sutcliffe
-4,5,2,South Africa,1,1924,caught,75.75,,,,,,,,H Sutcliffe
-5,59,2,Australia,1,1924,caught,72.4,,,,,,,,H Sutcliffe
-6,115,2,Australia,1,1924,caught,79.5,,,,,,,,H Sutcliffe
-7,176,2,Australia,1,1925,bowled,93.29,,,,,,,,H Sutcliffe
-8,127,2,Australia,1,1925,caught,97.5,,,,,,,,H Sutcliffe
-9,33,6,Australia,1,1925,caught,90.33,90.33,,,,,,,H Sutcliffe
-10,59,2,Australia,1,1925,caught,87.2,89.78,,,,,,,H Sutcliffe
-11,143,2,Australia,1,1925,lbw,92.27,92.11,,,,,,,H Sutcliffe
-12,22,2,Australia,1,1925,caught,86.42,85.33,,,,,,,H Sutcliffe
-13,0,2,Australia,1,1925,bowled,79.77,73.9,,,,,,,H Sutcliffe
-14,13,2,Australia,0,1926,not out,80.77,83.0,,,,,,,H Sutcliffe
-15,82,2,Australia,1,1926,bowled,80.86,85.56,,,,,,,H Sutcliffe
-16,26,2,Australia,1,1926,caught,77.2,75.67,,,,,,,H Sutcliffe
-17,94,2,Australia,1,1926,bowled,78.25,66.56,,,,,,,H Sutcliffe
-18,20,2,Australia,1,1926,caught,74.82,54.67,,,,,,,H Sutcliffe
-19,76,2,Australia,1,1926,bowled,74.89,59.44,74.89,,,,,,H Sutcliffe
-20,161,2,Australia,1,1926,bowled,79.42,70.78,80.28,,,,,,H Sutcliffe
-21,102,2,South Africa,1,1927,caught,80.55,66.22,79.17,,,,,,H Sutcliffe
-22,41,2,South Africa,0,1927,not out,82.6,76.88,81.35,,,,,,H Sutcliffe
-23,29,2,South Africa,1,1927,caught,80.05,80.5,76.83,,,,,,H Sutcliffe
-24,99,2,South Africa,1,1927,bowled,80.91,81.11,82.06,,,,,,H Sutcliffe
-25,25,2,South Africa,1,1928,bowled,78.48,74.78,80.17,,,,,,H Sutcliffe
-26,8,2,South Africa,1,1928,caught,75.54,72.78,74.22,,,,,,H Sutcliffe
-27,37,2,South Africa,1,1928,lbw,74.0,66.44,66.5,,,,,,H Sutcliffe
-28,3,2,South Africa,1,1928,caught,71.27,64.56,59.61,,,,,,H Sutcliffe
-29,51,2,South Africa,1,1928,caught,70.52,61.78,60.61,70.52,,,,,H Sutcliffe
-30,23,2,South Africa,1,1928,lbw,68.82,46.44,58.61,69.0,,,,,H Sutcliffe
-31,48,1,West Indies,1,1928,caught,68.1,40.44,53.33,66.26,,,,,H Sutcliffe
-32,54,2,West Indies,1,1928,caught,67.63,37.7,55.11,65.19,,,,,H Sutcliffe
-33,63,2,West Indies,1,1928,bowled,67.48,41.1,58.61,64.07,,,,,H Sutcliffe
-34,38,2,Australia,1,1928,caught,66.56,35.0,56.84,65.25,,,,,H Sutcliffe
-35,32,2,Australia,1,1928,caught,65.52,35.7,54.21,64.29,,,,,H Sutcliffe
-36,11,2,Australia,1,1928,caught,63.91,36.0,53.42,60.57,,,,,H Sutcliffe
-37,58,2,Australia,1,1928,bowled,63.74,38.1,51.53,56.36,,,,,H Sutcliffe
-38,135,2,Australia,1,1928,lbw,65.72,51.3,57.58,56.64,,,,,H Sutcliffe
-39,64,2,Australia,1,1929,stumped,65.68,52.6,56.95,57.75,65.68,,,,H Sutcliffe
-40,17,2,Australia,1,1929,caught,64.39,52.0,49.37,56.25,64.41,,,,H Sutcliffe
-41,26,1,South Africa,1,1929,caught,63.41,49.8,45.37,52.07,61.81,,,,H Sutcliffe
-42,114,1,South Africa,1,1929,bowled,64.68,55.8,46.75,55.36,62.65,,,,H Sutcliffe
-43,100,1,South Africa,1,1929,caught,65.54,59.5,50.3,58.93,62.87,,,,H Sutcliffe
-44,10,1,South Africa,1,1929,caught,64.21,56.7,45.85,56.79,63.0,,,,H Sutcliffe
-45,37,1,South Africa,1,1929,caught,63.58,57.2,46.45,55.24,62.42,,,,H Sutcliffe
-46,4,1,South Africa,1,1929,caught,62.23,56.5,46.25,54.48,59.5,,,,H Sutcliffe
-47,9,1,South Africa,1,1929,bowled,61.04,51.6,44.85,51.55,55.11,,,,H Sutcliffe
-48,104,2,South Africa,1,1929,caught,61.98,48.5,49.9,54.45,54.5,,,,H Sutcliffe
-49,109,2,South Africa,0,1929,not out,64.35,58.89,55.58,57.57,58.03,64.35,,,H Sutcliffe
-50,29,2,Australia,1,1930,caught,63.6,60.22,55.89,52.86,57.22,63.59,,,H Sutcliffe
-51,58,2,Australia,0,1930,retired notout,64.83,71.75,59.56,53.19,56.44,63.58,,,H Sutcliffe
-52,32,2,Australia,1,1930,caught,64.15,61.5,58.33,50.96,56.72,62.44,,,H Sutcliffe
-53,28,2,Australia,0,1930,not out,64.73,60.0,59.71,52.81,59.14,62.42,,,H Sutcliffe
-54,74,2,Australia,1,1930,caught,64.92,69.14,61.82,51.89,59.19,63.96,,,H Sutcliffe
-55,161,2,Australia,1,1930,caught,66.84,86.86,69.41,56.93,61.39,66.22,,,H Sutcliffe
-56,54,2,Australia,1,1930,caught,66.59,94.0,71.94,58.63,62.17,64.87,,,H Sutcliffe
-57,117,1,New Zealand,1,1931,stumped,67.56,109.43,75.41,61.59,62.81,63.56,,,H Sutcliffe
-58,109,1,New Zealand,0,1931,not out,69.65,128.5,78.5,68.04,67.14,64.59,,,H Sutcliffe
-59,3,2,India,1,1932,bowled,68.4,95.0,74.69,66.19,65.06,63.91,,,H Sutcliffe
-60,19,2,India,1,1932,caught,67.48,93.57,74.81,66.04,61.0,63.0,,,H Sutcliffe
-61,194,1,Australia,1,1932,lbw,69.78,98.88,85.31,71.65,63.63,64.16,,,H Sutcliffe
-62,1,1,Australia,0,1932,not out,69.8,108.57,83.47,72.4,62.49,65.16,,,H Sutcliffe
-63,52,1,Australia,1,1932,caught,69.48,98.0,80.27,71.96,63.14,66.37,,,H Sutcliffe
-64,33,1,Australia,1,1932,bowled,68.84,92.88,81.8,71.76,61.26,65.32,,,H Sutcliffe
-65,9,1,Australia,1,1933,caught,67.81,73.88,79.93,70.84,60.8,63.66,,,H Sutcliffe
-66,7,1,Australia,1,1933,caught,66.78,68.0,80.13,70.68,60.77,63.23,,,H Sutcliffe
-67,86,2,Australia,1,1933,lbw,67.1,64.12,85.27,71.8,62.17,63.05,,,H Sutcliffe
-68,2,2,Australia,1,1933,caught,66.03,45.11,78.47,66.48,62.14,62.64,,,H Sutcliffe
-69,56,2,Australia,1,1933,caught,65.87,51.0,70.25,66.16,62.29,62.18,65.87,,H Sutcliffe
-70,0,1,New Zealand,1,1933,caught,64.83,48.89,68.44,65.48,61.63,58.52,64.84,,H Sutcliffe
-71,24,1,New Zealand,1,1933,caught,64.19,30.0,62.41,65.4,60.94,56.75,63.26,,H Sutcliffe
-72,21,2,West Indies,1,1933,caught,63.52,29.0,61.76,61.68,60.0,55.04,62.26,,H Sutcliffe
-73,20,2,West Indies,1,1933,run out,62.86,25.8,57.89,58.48,58.77,54.84,61.13,,H Sutcliffe
-74,62,2,Australia,1,1934,caught,62.85,28.7,57.22,60.56,59.46,54.02,62.03,,H Sutcliffe
-75,24,1,Australia,1,1934,caught,62.28,30.2,49.61,60.04,59.23,54.0,61.48,,H Sutcliffe
-76,20,2,Australia,1,1934,lbw,61.67,31.5,47.72,60.68,59.49,54.27,59.97,,H Sutcliffe
-77,63,2,Australia,1,1934,caught,61.69,29.2,44.72,62.84,59.63,54.84,58.17,,H Sutcliffe
-78,69,2,Australia,0,1934,not out,62.67,39.89,42.5,64.0,59.44,57.59,58.18,,H Sutcliffe
-79,38,2,Australia,1,1934,caught,62.32,37.89,44.44,58.6,58.68,57.3,58.26,,H Sutcliffe
-80,28,2,Australia,1,1934,caught,61.85,41.0,44.94,58.56,59.0,57.41,57.76,,H Sutcliffe
-81,61,1,South Africa,1,1935,lbw,61.84,45.11,37.56,56.42,60.03,57.7,56.44,,H Sutcliffe
-82,3,2,South Africa,1,1935,lbw,61.04,43.11,35.68,55.31,56.76,56.55,56.13,,H Sutcliffe
-83,38,2,South Africa,1,1935,lbw,60.73,45.11,34.95,53.63,54.94,55.98,56.74,,H Sutcliffe
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,H Sutcliffe,64.0,bowled,2,South Africa,64.0,64.0,1,1924,1,,,,,,,
+1,H Sutcliffe,122.0,bowled,2,South Africa,93.0,186.0,2,1924,1,,,,,,,
+2,H Sutcliffe,83.0,caught,2,South Africa,89.67,269.0,3,1924,1,,,,,,,
+3,H Sutcliffe,29.0,not out,2,South Africa,99.33,298.0,3,1924,0,,,,,,,
+4,H Sutcliffe,5.0,caught,2,South Africa,75.75,303.0,4,1924,1,,,,,,,
+5,H Sutcliffe,59.0,caught,2,Australia,72.4,362.0,5,1924,1,,,,,,,
+6,H Sutcliffe,115.0,caught,2,Australia,79.5,477.0,6,1924,1,,,,,,,
+7,H Sutcliffe,176.0,bowled,2,Australia,93.29,653.0,7,1925,1,,,,,,,
+8,H Sutcliffe,127.0,caught,2,Australia,97.5,780.0,8,1925,1,,,,,,,
+9,H Sutcliffe,33.0,caught,6,Australia,90.33,813.0,9,1925,1,90.33,,,,,,
+10,H Sutcliffe,59.0,caught,2,Australia,87.2,872.0,10,1925,1,89.78,,,,,,
+11,H Sutcliffe,143.0,lbw,2,Australia,92.27,1015.0,11,1925,1,92.11,,,,,,
+12,H Sutcliffe,22.0,caught,2,Australia,86.42,1037.0,12,1925,1,85.33,,,,,,
+13,H Sutcliffe,0.0,bowled,2,Australia,79.77,1037.0,13,1925,1,73.9,,,,,,
+14,H Sutcliffe,13.0,not out,2,Australia,80.77,1050.0,13,1926,0,83.0,,,,,,
+15,H Sutcliffe,82.0,bowled,2,Australia,80.86,1132.0,14,1926,1,85.56,,,,,,
+16,H Sutcliffe,26.0,caught,2,Australia,77.2,1158.0,15,1926,1,75.67,,,,,,
+17,H Sutcliffe,94.0,bowled,2,Australia,78.25,1252.0,16,1926,1,66.56,,,,,,
+18,H Sutcliffe,20.0,caught,2,Australia,74.82,1272.0,17,1926,1,54.67,,,,,,
+19,H Sutcliffe,76.0,bowled,2,Australia,74.89,1348.0,18,1926,1,59.44,74.89,,,,,
+20,H Sutcliffe,161.0,bowled,2,Australia,79.42,1509.0,19,1926,1,70.78,80.28,,,,,
+21,H Sutcliffe,102.0,caught,2,South Africa,80.55,1611.0,20,1927,1,66.22,79.17,,,,,
+22,H Sutcliffe,41.0,not out,2,South Africa,82.6,1652.0,20,1927,0,76.88,81.35,,,,,
+23,H Sutcliffe,29.0,caught,2,South Africa,80.05,1681.0,21,1927,1,80.5,76.83,,,,,
+24,H Sutcliffe,99.0,bowled,2,South Africa,80.91,1780.0,22,1927,1,81.11,82.06,,,,,
+25,H Sutcliffe,25.0,bowled,2,South Africa,78.48,1805.0,23,1928,1,74.78,80.17,,,,,
+26,H Sutcliffe,8.0,caught,2,South Africa,75.54,1813.0,24,1928,1,72.78,74.22,,,,,
+27,H Sutcliffe,37.0,lbw,2,South Africa,74.0,1850.0,25,1928,1,66.44,66.5,,,,,
+28,H Sutcliffe,3.0,caught,2,South Africa,71.27,1853.0,26,1928,1,64.56,59.61,,,,,
+29,H Sutcliffe,51.0,caught,2,South Africa,70.52,1904.0,27,1928,1,61.78,60.61,70.52,,,,
+30,H Sutcliffe,23.0,lbw,2,South Africa,68.82,1927.0,28,1928,1,46.44,58.61,69.0,,,,
+31,H Sutcliffe,48.0,caught,1,West Indies,68.1,1975.0,29,1928,1,40.44,53.33,66.26,,,,
+32,H Sutcliffe,54.0,caught,2,West Indies,67.63,2029.0,30,1928,1,37.7,55.11,65.19,,,,
+33,H Sutcliffe,63.0,bowled,2,West Indies,67.48,2092.0,31,1928,1,41.1,58.61,64.07,,,,
+34,H Sutcliffe,38.0,caught,2,Australia,66.56,2130.0,32,1928,1,35.0,56.84,65.25,,,,
+35,H Sutcliffe,32.0,caught,2,Australia,65.52,2162.0,33,1928,1,35.7,54.21,64.29,,,,
+36,H Sutcliffe,11.0,caught,2,Australia,63.91,2173.0,34,1928,1,36.0,53.42,60.57,,,,
+37,H Sutcliffe,58.0,bowled,2,Australia,63.74,2231.0,35,1928,1,38.1,51.53,56.36,,,,
+38,H Sutcliffe,135.0,lbw,2,Australia,65.72,2366.0,36,1928,1,51.3,57.58,56.64,,,,
+39,H Sutcliffe,64.0,stumped,2,Australia,65.68,2430.0,37,1929,1,52.6,56.95,57.75,65.68,,,
+40,H Sutcliffe,17.0,caught,2,Australia,64.39,2447.0,38,1929,1,52.0,49.37,56.25,64.41,,,
+41,H Sutcliffe,26.0,caught,1,South Africa,63.41,2473.0,39,1929,1,49.8,45.37,52.07,61.81,,,
+42,H Sutcliffe,114.0,bowled,1,South Africa,64.68,2587.0,40,1929,1,55.8,46.75,55.36,62.65,,,
+43,H Sutcliffe,100.0,caught,1,South Africa,65.54,2687.0,41,1929,1,59.5,50.3,58.93,62.87,,,
+44,H Sutcliffe,10.0,caught,1,South Africa,64.21,2697.0,42,1929,1,56.7,45.85,56.79,63.0,,,
+45,H Sutcliffe,37.0,caught,1,South Africa,63.58,2734.0,43,1929,1,57.2,46.45,55.24,62.42,,,
+46,H Sutcliffe,4.0,caught,1,South Africa,62.23,2738.0,44,1929,1,56.5,46.25,54.48,59.5,,,
+47,H Sutcliffe,9.0,bowled,1,South Africa,61.04,2747.0,45,1929,1,51.6,44.85,51.55,55.11,,,
+48,H Sutcliffe,104.0,caught,2,South Africa,61.98,2851.0,46,1929,1,48.5,49.9,54.45,54.5,,,
+49,H Sutcliffe,109.0,not out,2,South Africa,64.35,2960.0,46,1929,0,58.89,55.58,57.57,58.03,64.35,,
+50,H Sutcliffe,29.0,caught,2,Australia,63.6,2989.0,47,1930,1,60.22,55.89,52.86,57.22,63.59,,
+51,H Sutcliffe,58.0,retired notout,2,Australia,64.83,3047.0,47,1930,0,71.75,59.56,53.19,56.44,63.58,,
+52,H Sutcliffe,32.0,caught,2,Australia,64.15,3079.0,48,1930,1,61.5,58.33,50.96,56.72,62.44,,
+53,H Sutcliffe,28.0,not out,2,Australia,64.73,3107.0,48,1930,0,60.0,59.71,52.81,59.14,62.42,,
+54,H Sutcliffe,74.0,caught,2,Australia,64.92,3181.0,49,1930,1,69.14,61.82,51.89,59.19,63.96,,
+55,H Sutcliffe,161.0,caught,2,Australia,66.84,3342.0,50,1930,1,86.86,69.41,56.93,61.39,66.22,,
+56,H Sutcliffe,54.0,caught,2,Australia,66.59,3396.0,51,1930,1,94.0,71.94,58.63,62.17,64.87,,
+57,H Sutcliffe,117.0,stumped,1,New Zealand,67.56,3513.0,52,1931,1,109.43,75.41,61.59,62.81,63.56,,
+58,H Sutcliffe,109.0,not out,1,New Zealand,69.65,3622.0,52,1931,0,128.5,78.5,68.04,67.14,64.59,,
+59,H Sutcliffe,3.0,bowled,2,India,68.4,3625.0,53,1932,1,95.0,74.69,66.19,65.06,63.91,,
+60,H Sutcliffe,19.0,caught,2,India,67.48,3644.0,54,1932,1,93.57,74.81,66.04,61.0,63.0,,
+61,H Sutcliffe,194.0,lbw,1,Australia,69.78,3838.0,55,1932,1,98.88,85.31,71.65,63.63,64.16,,
+62,H Sutcliffe,1.0,not out,1,Australia,69.8,3839.0,55,1932,0,108.57,83.47,72.4,62.49,65.16,,
+63,H Sutcliffe,52.0,caught,1,Australia,69.48,3891.0,56,1932,1,98.0,80.27,71.96,63.14,66.37,,
+64,H Sutcliffe,33.0,bowled,1,Australia,68.84,3924.0,57,1932,1,92.88,81.8,71.76,61.26,65.32,,
+65,H Sutcliffe,9.0,caught,1,Australia,67.81,3933.0,58,1933,1,73.88,79.93,70.84,60.8,63.66,,
+66,H Sutcliffe,7.0,caught,1,Australia,66.78,3940.0,59,1933,1,68.0,80.13,70.68,60.77,63.23,,
+67,H Sutcliffe,86.0,lbw,2,Australia,67.1,4026.0,60,1933,1,64.12,85.27,71.8,62.17,63.05,,
+68,H Sutcliffe,2.0,caught,2,Australia,66.03,4028.0,61,1933,1,45.11,78.47,66.48,62.14,62.64,,
+69,H Sutcliffe,56.0,caught,2,Australia,65.87,4084.0,62,1933,1,51.0,70.25,66.16,62.29,62.18,65.87,
+70,H Sutcliffe,0.0,caught,1,New Zealand,64.83,4084.0,63,1933,1,48.89,68.44,65.48,61.63,58.52,64.84,
+71,H Sutcliffe,24.0,caught,1,New Zealand,64.19,4108.0,64,1933,1,30.0,62.41,65.4,60.94,56.75,63.26,
+72,H Sutcliffe,21.0,caught,2,West Indies,63.52,4129.0,65,1933,1,29.0,61.76,61.68,60.0,55.04,62.26,
+73,H Sutcliffe,20.0,run out,2,West Indies,62.86,4149.0,66,1933,1,25.8,57.89,58.48,58.77,54.84,61.13,
+74,H Sutcliffe,62.0,caught,2,Australia,62.85,4211.0,67,1934,1,28.7,57.22,60.56,59.46,54.02,62.03,
+75,H Sutcliffe,24.0,caught,1,Australia,62.28,4235.0,68,1934,1,30.2,49.61,60.04,59.23,54.0,61.48,
+76,H Sutcliffe,20.0,lbw,2,Australia,61.67,4255.0,69,1934,1,31.5,47.72,60.68,59.49,54.27,59.97,
+77,H Sutcliffe,63.0,caught,2,Australia,61.69,4318.0,70,1934,1,29.2,44.72,62.84,59.63,54.84,58.17,
+78,H Sutcliffe,69.0,not out,2,Australia,62.67,4387.0,70,1934,0,39.89,42.5,64.0,59.44,57.59,58.18,
+79,H Sutcliffe,38.0,caught,2,Australia,62.32,4425.0,71,1934,1,37.89,44.44,58.6,58.68,57.3,58.26,
+80,H Sutcliffe,28.0,caught,2,Australia,61.85,4453.0,72,1934,1,41.0,44.94,58.56,59.0,57.41,57.76,
+81,H Sutcliffe,61.0,lbw,1,South Africa,61.84,4514.0,73,1935,1,45.11,37.56,56.42,60.03,57.7,56.44,
+82,H Sutcliffe,3.0,lbw,2,South Africa,61.04,4517.0,74,1935,1,43.11,35.68,55.31,56.76,56.55,56.13,
+83,H Sutcliffe,38.0,lbw,2,South Africa,60.73,4555.0,75,1935,1,45.11,34.95,53.63,54.94,55.98,56.74,

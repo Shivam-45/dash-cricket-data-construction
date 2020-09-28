@@ -1,81 +1,81 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,41,5,India,1,1992,caught,41.0,,,,,,,,JN Rhodes
-1,26,5,India,0,1992,not out,67.0,,,,,,,,JN Rhodes
-2,91,5,India,1,1992,lbw,79.0,,,,,,,,JN Rhodes
-3,13,6,India,1,1992,bowled,57.0,,,,,,,,JN Rhodes
-4,2,6,India,1,1992,caught,43.25,,,,,,,,JN Rhodes
-5,86,6,India,1,1993,caught,51.8,,,,,,,,JN Rhodes
-6,16,6,India,1,1993,caught,45.83,,,,,,,,JN Rhodes
-7,8,6,Sri Lanka,1,1993,caught,40.43,,,,,,,,JN Rhodes
-8,101,6,Sri Lanka,0,1993,not out,54.86,,,,,,,,JN Rhodes
-9,10,5,Sri Lanka,1,1993,run out,49.25,49.25,,,,,,,JN Rhodes
-10,7,5,Sri Lanka,1,1993,stumped,44.56,45.0,,,,,,,JN Rhodes
-11,19,5,Sri Lanka,1,1993,bowled,42.0,39.22,,,,,,,JN Rhodes
-12,35,5,Australia,0,1993,not out,45.5,37.12,,,,,,,JN Rhodes
-13,4,5,Australia,1,1994,lbw,41.73,36.0,,,,,,,JN Rhodes
-14,76,6,Australia,0,1994,not out,48.64,51.71,,,,,,,JN Rhodes
-15,5,5,Australia,1,1994,bowled,45.0,40.14,,,,,,,JN Rhodes
-16,4,6,Australia,1,1994,lbw,41.85,38.43,,,,,,,JN Rhodes
-17,69,6,Australia,1,1994,caught,43.79,47.14,,,,,,,JN Rhodes
-18,14,6,Australia,1,1994,caught,41.8,30.38,,,,,,,JN Rhodes
-19,5,6,Australia,1,1994,lbw,39.5,29.75,39.5,,,,,,JN Rhodes
-20,27,6,Australia,1,1994,caught,38.76,32.25,38.62,,,,,,JN Rhodes
-21,78,6,Australia,1,1994,lbw,40.94,39.62,39.41,,,,,,JN Rhodes
-22,32,6,England,1,1994,bowled,40.47,34.89,35.94,,,,,,JN Rhodes
-23,32,6,England,1,1994,bowled,40.05,38.0,37.06,,,,,,JN Rhodes
-24,46,7,England,1,1994,caught,40.33,31.2,39.65,,,,,,JN Rhodes
-25,8,6,England,0,1994,retired notout,40.71,35.0,37.25,,,,,,JN Rhodes
-26,10,9,England,1,1994,caught,39.32,35.67,36.88,,,,,,JN Rhodes
-27,37,6,New Zealand,1,1994,lbw,39.22,32.11,38.69,,,,,,JN Rhodes
-28,0,6,New Zealand,1,1994,lbw,37.58,30.56,30.47,,,,,,JN Rhodes
-29,1,6,New Zealand,1,1994,caught,36.12,30.11,29.94,36.12,,,,,JN Rhodes
-30,18,6,New Zealand,1,1995,bowled,35.42,29.11,30.59,35.2,,,,,JN Rhodes
-31,72,6,Pakistan,1,1995,caught,36.78,28.44,33.71,35.62,,,,,JN Rhodes
-32,16,5,Pakistan,1,1995,caught,36.04,26.67,30.78,32.73,,,,,JN Rhodes
-33,0,7,New Zealand,1,1995,caught,34.79,23.11,30.56,32.23,,,,,JN Rhodes
-34,28,6,New Zealand,1,1995,bowled,34.57,21.11,26.42,33.23,,,,,JN Rhodes
-35,15,6,Zimbabwe,1,1995,caught,33.94,19.7,26.95,30.5,,,,,JN Rhodes
-36,6,4,Zimbabwe,1,1995,bowled,33.06,19.3,27.05,30.12,,,,,JN Rhodes
-37,5,5,England,1,1995,caught,32.21,16.1,23.68,30.0,,,,,JN Rhodes
-38,57,5,England,1,1995,caught,32.94,21.8,25.95,27.26,,,,,JN Rhodes
-39,38,5,England,1,1995,lbw,33.09,25.5,27.68,28.3,33.09,,,,JN Rhodes
-40,49,5,England,1,1995,caught,33.53,28.6,28.84,29.85,33.31,,,,JN Rhodes
-41,0,5,England,1,1995,lbw,32.62,21.4,24.74,29.15,31.67,,,,JN Rhodes
-42,16,5,England,1,1996,caught,32.18,21.4,23.89,27.43,29.58,,,,JN Rhodes
-43,14,5,India,1,1996,caught,31.72,22.8,22.95,27.79,29.61,,,,JN Rhodes
-44,0,7,India,1,1996,lbw,30.92,20.0,20.53,24.21,29.56,,,,JN Rhodes
-45,22,6,Australia,1,1997,caught,30.71,20.7,20.2,24.79,27.78,,,,JN Rhodes
-46,8,6,Australia,1,1997,lbw,30.17,20.9,20.1,24.93,27.56,,,,JN Rhodes
-47,11,6,Pakistan,1,1997,bowled,29.72,21.5,18.8,22.93,27.64,,,,JN Rhodes
-48,6,7,Australia,1,1998,caught,29.18,16.4,19.1,22.66,24.32,,,,JN Rhodes
-49,19,8,Australia,0,1998,not out,29.61,16.11,21.05,23.96,25.25,29.61,,,JN Rhodes
-50,95,6,England,1,1998,caught,31.07,21.22,25.11,26.39,27.69,30.84,,,JN Rhodes
-51,117,6,England,1,1998,caught,32.93,34.22,27.47,27.79,30.42,32.18,,,JN Rhodes
-52,12,6,England,1,1998,caught,32.49,33.78,27.26,27.07,28.97,30.42,,,JN Rhodes
-53,24,6,England,1,1998,lbw,32.31,34.89,28.53,26.79,29.51,30.67,,,JN Rhodes
-54,2,6,England,1,1998,caught,31.69,35.11,27.16,25.21,26.79,30.67,,,JN Rhodes
-55,32,6,England,1,1998,caught,31.7,36.22,28.05,25.17,27.5,29.47,,,JN Rhodes
-56,85,6,England,1,1998,caught,32.75,44.78,32.21,27.76,29.63,31.0,,,JN Rhodes
-57,17,6,West Indies,1,1998,lbw,32.44,45.44,32.84,27.07,28.26,31.2,,,JN Rhodes
-58,9,6,West Indies,1,1998,caught,32.0,45.78,30.32,27.38,28.13,28.52,,,JN Rhodes
-59,17,6,West Indies,1,1998,caught,31.72,41.0,29.21,27.93,28.45,28.67,,,JN Rhodes
-60,64,6,West Indies,1,1998,bowled,32.31,37.9,30.0,29.52,29.42,29.91,,,JN Rhodes
-61,87,6,West Indies,1,1998,caught,33.29,34.9,34.58,30.03,29.66,31.39,,,JN Rhodes
-62,34,6,West Indies,1,1999,bowled,33.3,37.1,35.53,30.66,29.71,30.7,,,JN Rhodes
-63,23,6,West Indies,1,1999,lbw,33.12,37.0,36.0,31.45,29.47,31.11,,,JN Rhodes
-64,24,6,West Indies,1,1999,caught,32.97,39.2,37.26,31.31,28.89,29.38,,,JN Rhodes
-65,103,6,West Indies,0,1999,not out,34.71,51.44,43.83,35.57,31.39,32.09,,,JN Rhodes
-66,63,6,New Zealand,1,1999,caught,35.18,49.0,46.89,37.61,32.79,33.34,,,JN Rhodes
-67,3,6,New Zealand,1,1999,caught,34.66,47.44,46.44,37.54,31.89,31.94,,,JN Rhodes
-68,70,6,Zimbabwe,1,1999,lbw,35.23,54.22,50.0,38.0,33.74,33.13,,,JN Rhodes
-69,4,7,Zimbabwe,1,1999,caught,34.73,52.78,46.58,36.79,33.82,33.11,34.73,,JN Rhodes
-70,26,6,England,1,1999,lbw,34.59,48.56,42.95,35.96,34.03,33.09,34.49,,JN Rhodes
-71,50,6,England,1,1999,caught,34.83,44.44,39.42,37.75,33.45,32.49,34.33,,JN Rhodes
-72,57,6,England,0,1999,not out,35.71,52.88,44.11,40.67,35.46,33.74,34.33,,JN Rhodes
-73,16,6,England,1,2000,caught,35.41,52.0,43.67,40.74,35.89,33.39,34.38,,JN Rhodes
-74,12,5,Sri Lanka,1,2000,bowled,35.06,50.5,44.22,41.19,35.46,32.65,34.54,,JN Rhodes
-75,63,5,Sri Lanka,0,2000,not out,36.0,45.5,48.65,44.35,37.78,33.85,34.73,,JN Rhodes
-76,12,5,Sri Lanka,1,2000,bowled,35.65,39.12,44.35,44.5,37.94,33.89,34.66,,JN Rhodes
-77,33,5,Sri Lanka,1,2000,caught,35.61,42.88,45.29,45.35,38.72,33.8,35.06,,JN Rhodes
-78,21,5,Sri Lanka,1,2000,bowled,35.4,36.75,46.0,45.92,37.72,34.26,33.24,,JN Rhodes
-79,54,5,Sri Lanka,1,2000,caught,35.66,43.0,48.18,45.52,38.17,35.41,33.94,,JN Rhodes
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,JN Rhodes,41.0,caught,5,India,41.0,41.0,1,1992,1,,,,,,,
+1,JN Rhodes,26.0,not out,5,India,67.0,67.0,1,1992,0,,,,,,,
+2,JN Rhodes,91.0,lbw,5,India,79.0,158.0,2,1992,1,,,,,,,
+3,JN Rhodes,13.0,bowled,6,India,57.0,171.0,3,1992,1,,,,,,,
+4,JN Rhodes,2.0,caught,6,India,43.25,173.0,4,1992,1,,,,,,,
+5,JN Rhodes,86.0,caught,6,India,51.8,259.0,5,1993,1,,,,,,,
+6,JN Rhodes,16.0,caught,6,India,45.83,275.0,6,1993,1,,,,,,,
+7,JN Rhodes,8.0,caught,6,Sri Lanka,40.43,283.0,7,1993,1,,,,,,,
+8,JN Rhodes,101.0,not out,6,Sri Lanka,54.86,384.0,7,1993,0,,,,,,,
+9,JN Rhodes,10.0,run out,5,Sri Lanka,49.25,394.0,8,1993,1,49.25,,,,,,
+10,JN Rhodes,7.0,stumped,5,Sri Lanka,44.56,401.0,9,1993,1,45.0,,,,,,
+11,JN Rhodes,19.0,bowled,5,Sri Lanka,42.0,420.0,10,1993,1,39.22,,,,,,
+12,JN Rhodes,35.0,not out,5,Australia,45.5,455.0,10,1993,0,37.12,,,,,,
+13,JN Rhodes,4.0,lbw,5,Australia,41.73,459.0,11,1994,1,36.0,,,,,,
+14,JN Rhodes,76.0,not out,6,Australia,48.64,535.0,11,1994,0,51.71,,,,,,
+15,JN Rhodes,5.0,bowled,5,Australia,45.0,540.0,12,1994,1,40.14,,,,,,
+16,JN Rhodes,4.0,lbw,6,Australia,41.85,544.0,13,1994,1,38.43,,,,,,
+17,JN Rhodes,69.0,caught,6,Australia,43.79,613.0,14,1994,1,47.14,,,,,,
+18,JN Rhodes,14.0,caught,6,Australia,41.8,627.0,15,1994,1,30.38,,,,,,
+19,JN Rhodes,5.0,lbw,6,Australia,39.5,632.0,16,1994,1,29.75,39.5,,,,,
+20,JN Rhodes,27.0,caught,6,Australia,38.76,659.0,17,1994,1,32.25,38.62,,,,,
+21,JN Rhodes,78.0,lbw,6,Australia,40.94,737.0,18,1994,1,39.62,39.41,,,,,
+22,JN Rhodes,32.0,bowled,6,England,40.47,769.0,19,1994,1,34.89,35.94,,,,,
+23,JN Rhodes,32.0,bowled,6,England,40.05,801.0,20,1994,1,38.0,37.06,,,,,
+24,JN Rhodes,46.0,caught,7,England,40.33,847.0,21,1994,1,31.2,39.65,,,,,
+25,JN Rhodes,8.0,retired notout,6,England,40.71,855.0,21,1994,0,35.0,37.25,,,,,
+26,JN Rhodes,10.0,caught,9,England,39.32,865.0,22,1994,1,35.67,36.88,,,,,
+27,JN Rhodes,37.0,lbw,6,New Zealand,39.22,902.0,23,1994,1,32.11,38.69,,,,,
+28,JN Rhodes,0.0,lbw,6,New Zealand,37.58,902.0,24,1994,1,30.56,30.47,,,,,
+29,JN Rhodes,1.0,caught,6,New Zealand,36.12,903.0,25,1994,1,30.11,29.94,36.12,,,,
+30,JN Rhodes,18.0,bowled,6,New Zealand,35.42,921.0,26,1995,1,29.11,30.59,35.2,,,,
+31,JN Rhodes,72.0,caught,6,Pakistan,36.78,993.0,27,1995,1,28.44,33.71,35.62,,,,
+32,JN Rhodes,16.0,caught,5,Pakistan,36.04,1009.0,28,1995,1,26.67,30.78,32.73,,,,
+33,JN Rhodes,0.0,caught,7,New Zealand,34.79,1009.0,29,1995,1,23.11,30.56,32.23,,,,
+34,JN Rhodes,28.0,bowled,6,New Zealand,34.57,1037.0,30,1995,1,21.11,26.42,33.23,,,,
+35,JN Rhodes,15.0,caught,6,Zimbabwe,33.94,1052.0,31,1995,1,19.7,26.95,30.5,,,,
+36,JN Rhodes,6.0,bowled,4,Zimbabwe,33.06,1058.0,32,1995,1,19.3,27.05,30.12,,,,
+37,JN Rhodes,5.0,caught,5,England,32.21,1063.0,33,1995,1,16.1,23.68,30.0,,,,
+38,JN Rhodes,57.0,caught,5,England,32.94,1120.0,34,1995,1,21.8,25.95,27.26,,,,
+39,JN Rhodes,38.0,lbw,5,England,33.09,1158.0,35,1995,1,25.5,27.68,28.3,33.09,,,
+40,JN Rhodes,49.0,caught,5,England,33.53,1207.0,36,1995,1,28.6,28.84,29.85,33.31,,,
+41,JN Rhodes,0.0,lbw,5,England,32.62,1207.0,37,1995,1,21.4,24.74,29.15,31.67,,,
+42,JN Rhodes,16.0,caught,5,England,32.18,1223.0,38,1996,1,21.4,23.89,27.43,29.58,,,
+43,JN Rhodes,14.0,caught,5,India,31.72,1237.0,39,1996,1,22.8,22.95,27.79,29.61,,,
+44,JN Rhodes,0.0,lbw,7,India,30.92,1237.0,40,1996,1,20.0,20.53,24.21,29.56,,,
+45,JN Rhodes,22.0,caught,6,Australia,30.71,1259.0,41,1997,1,20.7,20.2,24.79,27.78,,,
+46,JN Rhodes,8.0,lbw,6,Australia,30.17,1267.0,42,1997,1,20.9,20.1,24.93,27.56,,,
+47,JN Rhodes,11.0,bowled,6,Pakistan,29.72,1278.0,43,1997,1,21.5,18.8,22.93,27.64,,,
+48,JN Rhodes,6.0,caught,7,Australia,29.18,1284.0,44,1998,1,16.4,19.1,22.66,24.32,,,
+49,JN Rhodes,19.0,not out,8,Australia,29.61,1303.0,44,1998,0,16.11,21.05,23.96,25.25,29.61,,
+50,JN Rhodes,95.0,caught,6,England,31.07,1398.0,45,1998,1,21.22,25.11,26.39,27.69,30.84,,
+51,JN Rhodes,117.0,caught,6,England,32.93,1515.0,46,1998,1,34.22,27.47,27.79,30.42,32.18,,
+52,JN Rhodes,12.0,caught,6,England,32.49,1527.0,47,1998,1,33.78,27.26,27.07,28.97,30.42,,
+53,JN Rhodes,24.0,lbw,6,England,32.31,1551.0,48,1998,1,34.89,28.53,26.79,29.51,30.67,,
+54,JN Rhodes,2.0,caught,6,England,31.69,1553.0,49,1998,1,35.11,27.16,25.21,26.79,30.67,,
+55,JN Rhodes,32.0,caught,6,England,31.7,1585.0,50,1998,1,36.22,28.05,25.17,27.5,29.47,,
+56,JN Rhodes,85.0,caught,6,England,32.75,1670.0,51,1998,1,44.78,32.21,27.76,29.63,31.0,,
+57,JN Rhodes,17.0,lbw,6,West Indies,32.44,1687.0,52,1998,1,45.44,32.84,27.07,28.26,31.2,,
+58,JN Rhodes,9.0,caught,6,West Indies,32.0,1696.0,53,1998,1,45.78,30.32,27.38,28.13,28.52,,
+59,JN Rhodes,17.0,caught,6,West Indies,31.72,1713.0,54,1998,1,41.0,29.21,27.93,28.45,28.67,,
+60,JN Rhodes,64.0,bowled,6,West Indies,32.31,1777.0,55,1998,1,37.9,30.0,29.52,29.42,29.91,,
+61,JN Rhodes,87.0,caught,6,West Indies,33.29,1864.0,56,1998,1,34.9,34.58,30.03,29.66,31.39,,
+62,JN Rhodes,34.0,bowled,6,West Indies,33.3,1898.0,57,1999,1,37.1,35.53,30.66,29.71,30.7,,
+63,JN Rhodes,23.0,lbw,6,West Indies,33.12,1921.0,58,1999,1,37.0,36.0,31.45,29.47,31.11,,
+64,JN Rhodes,24.0,caught,6,West Indies,32.97,1945.0,59,1999,1,39.2,37.26,31.31,28.89,29.38,,
+65,JN Rhodes,103.0,not out,6,West Indies,34.71,2048.0,59,1999,0,51.44,43.83,35.57,31.39,32.09,,
+66,JN Rhodes,63.0,caught,6,New Zealand,35.18,2111.0,60,1999,1,49.0,46.89,37.61,32.79,33.34,,
+67,JN Rhodes,3.0,caught,6,New Zealand,34.66,2114.0,61,1999,1,47.44,46.44,37.54,31.89,31.94,,
+68,JN Rhodes,70.0,lbw,6,Zimbabwe,35.23,2184.0,62,1999,1,54.22,50.0,38.0,33.74,33.13,,
+69,JN Rhodes,4.0,caught,7,Zimbabwe,34.73,2188.0,63,1999,1,52.78,46.58,36.79,33.82,33.11,34.73,
+70,JN Rhodes,26.0,lbw,6,England,34.59,2214.0,64,1999,1,48.56,42.95,35.96,34.03,33.09,34.49,
+71,JN Rhodes,50.0,caught,6,England,34.83,2264.0,65,1999,1,44.44,39.42,37.75,33.45,32.49,34.33,
+72,JN Rhodes,57.0,not out,6,England,35.71,2321.0,65,1999,0,52.88,44.11,40.67,35.46,33.74,34.33,
+73,JN Rhodes,16.0,caught,6,England,35.41,2337.0,66,2000,1,52.0,43.67,40.74,35.89,33.39,34.38,
+74,JN Rhodes,12.0,bowled,5,Sri Lanka,35.06,2349.0,67,2000,1,50.5,44.22,41.19,35.46,32.65,34.54,
+75,JN Rhodes,63.0,not out,5,Sri Lanka,36.0,2412.0,67,2000,0,45.5,48.65,44.35,37.78,33.85,34.73,
+76,JN Rhodes,12.0,bowled,5,Sri Lanka,35.65,2424.0,68,2000,1,39.12,44.35,44.5,37.94,33.89,34.66,
+77,JN Rhodes,33.0,caught,5,Sri Lanka,35.61,2457.0,69,2000,1,42.88,45.29,45.35,38.72,33.8,35.06,
+78,JN Rhodes,21.0,bowled,5,Sri Lanka,35.4,2478.0,70,2000,1,36.75,46.0,45.92,37.72,34.26,33.24,
+79,JN Rhodes,54.0,caught,5,Sri Lanka,35.66,2532.0,71,2000,1,43.0,48.18,45.52,38.17,35.41,33.94,

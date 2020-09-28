@@ -1,58 +1,58 @@
-event_at,removed,observed,censored,entrance,at_risk
-0.0,0,0,0,109,109
-1.0,10,10,0,0,109
-5.0,6,6,0,0,99
-7.0,2,2,0,0,93
-8.0,3,2,1,0,91
-9.0,3,3,0,0,88
-10.0,4,4,0,0,85
-11.0,1,0,1,0,81
-12.0,4,3,1,0,80
-13.0,3,2,1,0,76
-14.0,2,2,0,0,73
-15.0,2,2,0,0,71
-16.0,1,1,0,0,69
-18.0,4,4,0,0,68
-19.0,2,2,0,0,64
-21.0,2,2,0,0,62
-22.0,2,2,0,0,60
-23.0,2,2,0,0,58
-26.0,1,1,0,0,56
-27.0,1,1,0,0,55
-28.0,2,2,0,0,54
-30.0,2,1,1,0,52
-33.0,2,2,0,0,50
-35.0,4,3,1,0,48
-38.0,2,2,0,0,44
-39.0,1,1,0,0,42
-40.0,1,1,0,0,41
-45.0,3,3,0,0,40
-46.0,2,1,1,0,37
-47.0,2,2,0,0,35
-51.0,1,1,0,0,33
-52.0,1,1,0,0,32
-54.0,1,1,0,0,31
-56.0,1,1,0,0,30
-58.0,2,2,0,0,29
-68.0,1,1,0,0,27
-72.0,1,1,0,0,26
-73.0,1,1,0,0,25
-76.0,1,1,0,0,24
-77.0,1,1,0,0,23
-81.0,2,2,0,0,22
-92.0,1,1,0,0,20
-93.0,2,1,1,0,19
-94.0,2,2,0,0,17
-98.0,1,1,0,0,15
-99.0,2,2,0,0,14
-101.0,1,0,1,0,12
-102.0,2,2,0,0,11
-104.0,1,0,1,0,9
-107.0,1,1,0,0,8
-116.0,1,1,0,0,7
-120.0,1,1,0,0,6
-125.0,1,1,0,0,5
-127.0,1,1,0,0,4
-128.0,1,1,0,0,3
-159.0,1,1,0,0,2
-188.0,1,1,0,0,1
+event_at,removed,observed,censored,entrance,at_risk,Name
+0.0,0,0,0,109,109,AI Kallicharran
+1.0,10,10,0,0,109,AI Kallicharran
+5.0,6,6,0,0,99,AI Kallicharran
+7.0,2,2,0,0,93,AI Kallicharran
+8.0,3,2,1,0,91,AI Kallicharran
+9.0,3,3,0,0,88,AI Kallicharran
+10.0,4,4,0,0,85,AI Kallicharran
+11.0,1,0,1,0,81,AI Kallicharran
+12.0,4,3,1,0,80,AI Kallicharran
+13.0,3,2,1,0,76,AI Kallicharran
+14.0,2,2,0,0,73,AI Kallicharran
+15.0,2,2,0,0,71,AI Kallicharran
+16.0,1,1,0,0,69,AI Kallicharran
+18.0,4,4,0,0,68,AI Kallicharran
+19.0,2,2,0,0,64,AI Kallicharran
+21.0,2,2,0,0,62,AI Kallicharran
+22.0,2,2,0,0,60,AI Kallicharran
+23.0,2,2,0,0,58,AI Kallicharran
+26.0,1,1,0,0,56,AI Kallicharran
+27.0,1,1,0,0,55,AI Kallicharran
+28.0,2,2,0,0,54,AI Kallicharran
+30.0,2,1,1,0,52,AI Kallicharran
+33.0,2,2,0,0,50,AI Kallicharran
+35.0,4,3,1,0,48,AI Kallicharran
+38.0,2,2,0,0,44,AI Kallicharran
+39.0,1,1,0,0,42,AI Kallicharran
+40.0,1,1,0,0,41,AI Kallicharran
+45.0,3,3,0,0,40,AI Kallicharran
+46.0,2,1,1,0,37,AI Kallicharran
+47.0,2,2,0,0,35,AI Kallicharran
+51.0,1,1,0,0,33,AI Kallicharran
+52.0,1,1,0,0,32,AI Kallicharran
+54.0,1,1,0,0,31,AI Kallicharran
+56.0,1,1,0,0,30,AI Kallicharran
+58.0,2,2,0,0,29,AI Kallicharran
+68.0,1,1,0,0,27,AI Kallicharran
+72.0,1,1,0,0,26,AI Kallicharran
+73.0,1,1,0,0,25,AI Kallicharran
+76.0,1,1,0,0,24,AI Kallicharran
+77.0,1,1,0,0,23,AI Kallicharran
+81.0,2,2,0,0,22,AI Kallicharran
+92.0,1,1,0,0,20,AI Kallicharran
+93.0,2,1,1,0,19,AI Kallicharran
+94.0,2,2,0,0,17,AI Kallicharran
+98.0,1,1,0,0,15,AI Kallicharran
+99.0,2,2,0,0,14,AI Kallicharran
+101.0,1,0,1,0,12,AI Kallicharran
+102.0,2,2,0,0,11,AI Kallicharran
+104.0,1,0,1,0,9,AI Kallicharran
+107.0,1,1,0,0,8,AI Kallicharran
+116.0,1,1,0,0,7,AI Kallicharran
+120.0,1,1,0,0,6,AI Kallicharran
+125.0,1,1,0,0,5,AI Kallicharran
+127.0,1,1,0,0,4,AI Kallicharran
+128.0,1,1,0,0,3,AI Kallicharran
+159.0,1,1,0,0,2,AI Kallicharran
+188.0,1,1,0,0,1,AI Kallicharran

@@ -1,63 +1,63 @@
-,Runs,Pos,Opposition,Dismissed,Date,DisType,Ave,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100,Name
-0,4,4,England,1,1935,caught,4.0,,,,,,,,AD Nourse
-1,3,4,England,1,1935,bowled,3.5,,,,,,,,AD Nourse
-2,2,4,England,1,1935,bowled,3.0,,,,,,,,AD Nourse
-3,29,4,England,1,1935,lbw,9.5,,,,,,,,AD Nourse
-4,53,4,England,0,1935,not out,22.75,,,,,,,,AD Nourse
-5,32,4,England,1,1935,caught,24.6,,,,,,,,AD Nourse
-6,34,4,England,1,1935,bowled,26.17,,,,,,,,AD Nourse
-7,30,5,Australia,1,1935,bowled,26.71,,,,,,,,AD Nourse
-8,91,5,Australia,1,1935,caught,34.75,,,,,,,,AD Nourse
-9,0,4,Australia,1,1935,bowled,30.89,30.89,,,,,,,AD Nourse
-10,231,5,Australia,1,1935,caught,50.9,56.11,,,,,,,AD Nourse
-11,44,6,Australia,0,1936,not out,55.3,68.25,,,,,,,AD Nourse
-12,25,4,Australia,1,1936,caught,52.55,71.12,,,,,,,AD Nourse
-13,3,3,Australia,1,1936,caught,48.42,67.88,,,,,,,AD Nourse
-14,3,5,Australia,1,1936,bowled,44.92,54.78,,,,,,,AD Nourse
-15,50,4,Australia,1,1936,lbw,45.29,56.78,,,,,,,AD Nourse
-16,41,4,Australia,1,1936,bowled,45.0,57.56,,,,,,,AD Nourse
-17,73,4,England,1,1938,caught,46.75,62.33,,,,,,,AD Nourse
-18,17,3,England,0,1938,not out,47.81,60.88,,,,,,,AD Nourse
-19,120,4,England,1,1938,lbw,52.06,75.88,52.06,,,,,,AD Nourse
-20,19,4,England,0,1938,not out,53.18,56.43,56.25,,,,,,AD Nourse
-21,0,4,England,1,1939,caught,50.22,43.88,56.06,,,,,,AD Nourse
-22,27,4,England,1,1939,caught,49.0,44.12,57.62,,,,,,AD Nourse
-23,38,5,England,1,1939,hit wicket,48.45,48.5,58.19,,,,,,AD Nourse
-24,103,5,England,1,1939,bowled,51.05,61.0,57.71,,,,,,AD Nourse
-25,25,4,England,1,1939,caught,49.86,57.88,57.29,,,,,,AD Nourse
-26,149,4,England,1,1947,bowled,54.17,71.38,64.06,,,,,,AD Nourse
-27,61,4,England,1,1947,lbw,54.46,69.88,65.88,,,,,,AD Nourse
-28,58,4,England,1,1947,bowled,54.6,66.67,63.94,,,,,,AD Nourse
-29,23,4,England,1,1947,caught,53.38,55.89,65.29,53.38,,,,,AD Nourse
-30,115,4,England,1,1947,bowled,55.67,59.9,58.47,57.65,,,,,AD Nourse
-31,51,4,England,1,1947,bowled,55.5,65.0,55.61,59.5,,,,,AD Nourse
-32,57,4,England,1,1947,lbw,55.55,68.0,57.39,61.62,,,,,AD Nourse
-33,10,4,England,1,1947,caught,54.03,65.2,57.78,60.88,,,,,AD Nourse
-34,97,4,England,1,1947,bowled,55.42,64.6,63.0,60.26,,,,,AD Nourse
-35,37,4,England,1,1948,caught,54.84,65.8,62.28,60.44,,,,,AD Nourse
-36,32,4,England,1,1948,caught,54.15,54.1,61.78,60.37,,,,,AD Nourse
-37,32,4,England,1,1948,lbw,53.5,51.2,59.5,60.44,,,,,AD Nourse
-38,56,4,England,0,1948,not out,55.15,56.67,61.67,61.42,,,,,AD Nourse
-39,112,4,England,1,1949,caught,56.77,66.56,61.22,65.73,56.77,,,,AD Nourse
-40,34,4,England,1,1949,stumped,56.14,57.56,58.79,58.15,57.63,,,,AD Nourse
-41,129,4,England,0,1949,not out,59.72,74.5,69.22,61.42,63.03,,,,AD Nourse
-42,1,4,England,1,1949,bowled,58.14,67.5,67.78,60.5,63.0,,,,AD Nourse
-43,73,4,England,1,1949,bowled,58.53,75.38,69.72,63.19,64.29,,,,AD Nourse
-44,30,4,England,0,1949,not out,59.32,76.57,69.53,66.8,63.62,,,,AD Nourse
-45,0,4,Australia,1,1949,caught,57.79,71.29,68.06,64.8,62.68,,,,AD Nourse
-46,36,4,Australia,1,1949,caught,57.25,71.86,61.41,64.6,62.74,,,,AD Nourse
-47,65,4,Australia,1,1949,caught,57.44,76.57,61.65,64.28,63.76,,,,AD Nourse
-48,114,4,Australia,1,1949,lbw,58.79,74.25,64.94,65.54,64.44,,,,AD Nourse
-49,66,4,Australia,1,1950,caught,58.95,68.5,67.47,63.46,66.38,58.95,,,AD Nourse
-50,27,4,Australia,1,1950,caught,58.23,67.62,62.29,61.41,60.38,59.49,,,AD Nourse
-51,5,4,Australia,1,1950,caught,57.04,46.33,59.59,61.59,57.54,59.53,,,AD Nourse
-52,37,4,Australia,1,1950,caught,56.61,50.33,58.41,61.96,57.89,60.35,,,AD Nourse
-53,55,4,Australia,1,1950,bowled,56.57,48.33,61.06,62.59,59.37,60.95,,,AD Nourse
-54,208,4,England,1,1951,run out,59.73,61.3,67.59,66.48,65.23,63.09,,,AD Nourse
-55,20,4,England,1,1951,caught,58.92,63.3,66.59,66.3,64.37,62.82,,,AD Nourse
-56,3,4,England,1,1951,lbw,57.8,60.0,64.88,60.89,63.29,62.11,,,AD Nourse
-57,29,4,England,1,1951,caught,57.24,56.4,64.71,59.7,62.03,62.09,,,AD Nourse
-58,20,4,England,1,1951,caught,56.52,47.0,59.11,58.3,60.39,60.48,,,AD Nourse
-59,13,4,England,1,1951,lbw,55.7,41.7,53.61,57.93,57.42,60.77,,,AD Nourse
-60,4,4,England,1,1951,lbw,54.74,39.4,51.94,53.81,55.46,55.61,,,AD Nourse
-61,4,4,England,1,1951,bowled,53.82,39.3,42.63,52.07,55.57,53.49,,,AD Nourse
+,Name,Runs,Dismissal,Pos,Opposition,Ave,RunTally,DisTally,Date,Out,rolling10,rolling20,rolling30,rolling40,rolling50,rolling70,rolling100
+0,AD Nourse,4.0,caught,4,England,4.0,4.0,1,1935,1,,,,,,,
+1,AD Nourse,3.0,bowled,4,England,3.5,7.0,2,1935,1,,,,,,,
+2,AD Nourse,2.0,bowled,4,England,3.0,9.0,3,1935,1,,,,,,,
+3,AD Nourse,29.0,lbw,4,England,9.5,38.0,4,1935,1,,,,,,,
+4,AD Nourse,53.0,not out,4,England,22.75,91.0,4,1935,0,,,,,,,
+5,AD Nourse,32.0,caught,4,England,24.6,123.0,5,1935,1,,,,,,,
+6,AD Nourse,34.0,bowled,4,England,26.17,157.0,6,1935,1,,,,,,,
+7,AD Nourse,30.0,bowled,5,Australia,26.71,187.0,7,1935,1,,,,,,,
+8,AD Nourse,91.0,caught,5,Australia,34.75,278.0,8,1935,1,,,,,,,
+9,AD Nourse,0.0,bowled,4,Australia,30.89,278.0,9,1935,1,30.89,,,,,,
+10,AD Nourse,231.0,caught,5,Australia,50.9,509.0,10,1935,1,56.11,,,,,,
+11,AD Nourse,44.0,not out,6,Australia,55.3,553.0,10,1936,0,68.25,,,,,,
+12,AD Nourse,25.0,caught,4,Australia,52.55,578.0,11,1936,1,71.12,,,,,,
+13,AD Nourse,3.0,caught,3,Australia,48.42,581.0,12,1936,1,67.88,,,,,,
+14,AD Nourse,3.0,bowled,5,Australia,44.92,584.0,13,1936,1,54.78,,,,,,
+15,AD Nourse,50.0,lbw,4,Australia,45.29,634.0,14,1936,1,56.78,,,,,,
+16,AD Nourse,41.0,bowled,4,Australia,45.0,675.0,15,1936,1,57.56,,,,,,
+17,AD Nourse,73.0,caught,4,England,46.75,748.0,16,1938,1,62.33,,,,,,
+18,AD Nourse,17.0,not out,3,England,47.81,765.0,16,1938,0,60.88,,,,,,
+19,AD Nourse,120.0,lbw,4,England,52.06,885.0,17,1938,1,75.88,52.06,,,,,
+20,AD Nourse,19.0,not out,4,England,53.18,904.0,17,1938,0,56.43,56.25,,,,,
+21,AD Nourse,0.0,caught,4,England,50.22,904.0,18,1939,1,43.88,56.06,,,,,
+22,AD Nourse,27.0,caught,4,England,49.0,931.0,19,1939,1,44.12,57.62,,,,,
+23,AD Nourse,38.0,hit wicket,5,England,48.45,969.0,20,1939,1,48.5,58.19,,,,,
+24,AD Nourse,103.0,bowled,5,England,51.05,1072.0,21,1939,1,61.0,57.71,,,,,
+25,AD Nourse,25.0,caught,4,England,49.86,1097.0,22,1939,1,57.88,57.29,,,,,
+26,AD Nourse,149.0,bowled,4,England,54.17,1246.0,23,1947,1,71.38,64.06,,,,,
+27,AD Nourse,61.0,lbw,4,England,54.46,1307.0,24,1947,1,69.88,65.88,,,,,
+28,AD Nourse,58.0,bowled,4,England,54.6,1365.0,25,1947,1,66.67,63.94,,,,,
+29,AD Nourse,23.0,caught,4,England,53.38,1388.0,26,1947,1,55.89,65.29,53.38,,,,
+30,AD Nourse,115.0,bowled,4,England,55.67,1503.0,27,1947,1,59.9,58.47,57.65,,,,
+31,AD Nourse,51.0,bowled,4,England,55.5,1554.0,28,1947,1,65.0,55.61,59.5,,,,
+32,AD Nourse,57.0,lbw,4,England,55.55,1611.0,29,1947,1,68.0,57.39,61.62,,,,
+33,AD Nourse,10.0,caught,4,England,54.03,1621.0,30,1947,1,65.2,57.78,60.88,,,,
+34,AD Nourse,97.0,bowled,4,England,55.42,1718.0,31,1947,1,64.6,63.0,60.26,,,,
+35,AD Nourse,37.0,caught,4,England,54.84,1755.0,32,1948,1,65.8,62.28,60.44,,,,
+36,AD Nourse,32.0,caught,4,England,54.15,1787.0,33,1948,1,54.1,61.78,60.37,,,,
+37,AD Nourse,32.0,lbw,4,England,53.5,1819.0,34,1948,1,51.2,59.5,60.44,,,,
+38,AD Nourse,56.0,not out,4,England,55.15,1875.0,34,1948,0,56.67,61.67,61.42,,,,
+39,AD Nourse,112.0,caught,4,England,56.77,1987.0,35,1949,1,66.56,61.22,65.73,56.77,,,
+40,AD Nourse,34.0,stumped,4,England,56.14,2021.0,36,1949,1,57.56,58.79,58.15,57.63,,,
+41,AD Nourse,129.0,not out,4,England,59.72,2150.0,36,1949,0,74.5,69.22,61.42,63.03,,,
+42,AD Nourse,1.0,bowled,4,England,58.14,2151.0,37,1949,1,67.5,67.78,60.5,63.0,,,
+43,AD Nourse,73.0,bowled,4,England,58.53,2224.0,38,1949,1,75.38,69.72,63.19,64.29,,,
+44,AD Nourse,30.0,not out,4,England,59.32,2254.0,38,1949,0,76.57,69.53,66.8,63.62,,,
+45,AD Nourse,0.0,caught,4,Australia,57.79,2254.0,39,1949,1,71.29,68.06,64.8,62.68,,,
+46,AD Nourse,36.0,caught,4,Australia,57.25,2290.0,40,1949,1,71.86,61.41,64.6,62.74,,,
+47,AD Nourse,65.0,caught,4,Australia,57.44,2355.0,41,1949,1,76.57,61.65,64.28,63.76,,,
+48,AD Nourse,114.0,lbw,4,Australia,58.79,2469.0,42,1949,1,74.25,64.94,65.54,64.44,,,
+49,AD Nourse,66.0,caught,4,Australia,58.95,2535.0,43,1950,1,68.5,67.47,63.46,66.38,58.95,,
+50,AD Nourse,27.0,caught,4,Australia,58.23,2562.0,44,1950,1,67.62,62.29,61.41,60.38,59.49,,
+51,AD Nourse,5.0,caught,4,Australia,57.04,2567.0,45,1950,1,46.33,59.59,61.59,57.54,59.53,,
+52,AD Nourse,37.0,caught,4,Australia,56.61,2604.0,46,1950,1,50.33,58.41,61.96,57.89,60.35,,
+53,AD Nourse,55.0,bowled,4,Australia,56.57,2659.0,47,1950,1,48.33,61.06,62.59,59.37,60.95,,
+54,AD Nourse,208.0,run out,4,England,59.73,2867.0,48,1951,1,61.3,67.59,66.48,65.23,63.09,,
+55,AD Nourse,20.0,caught,4,England,58.92,2887.0,49,1951,1,63.3,66.59,66.3,64.37,62.82,,
+56,AD Nourse,3.0,lbw,4,England,57.8,2890.0,50,1951,1,60.0,64.88,60.89,63.29,62.11,,
+57,AD Nourse,29.0,caught,4,England,57.24,2919.0,51,1951,1,56.4,64.71,59.7,62.03,62.09,,
+58,AD Nourse,20.0,caught,4,England,56.52,2939.0,52,1951,1,47.0,59.11,58.3,60.39,60.48,,
+59,AD Nourse,13.0,lbw,4,England,55.7,2952.0,53,1951,1,41.7,53.61,57.93,57.42,60.77,,
+60,AD Nourse,4.0,lbw,4,England,54.74,2956.0,54,1951,1,39.4,51.94,53.81,55.46,55.61,,
+61,AD Nourse,4.0,bowled,4,England,53.82,2960.0,55,1951,1,39.3,42.63,52.07,55.57,53.49,,

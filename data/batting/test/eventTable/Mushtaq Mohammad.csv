@@ -1,58 +1,58 @@
-event_at,removed,observed,censored,entrance,at_risk
-0.0,0,0,0,100,100
-1.0,5,4,1,0,100
-2.0,3,3,0,0,95
-3.0,1,1,0,0,92
-4.0,1,1,0,0,91
-5.0,5,5,0,0,90
-6.0,5,4,1,0,85
-7.0,4,4,0,0,80
-8.0,1,1,0,0,76
-9.0,3,3,0,0,75
-10.0,3,3,0,0,72
-11.0,1,1,0,0,69
-13.0,1,1,0,0,68
-14.0,2,2,0,0,67
-15.0,3,3,0,0,65
-16.0,1,1,0,0,62
-18.0,2,2,0,0,61
-19.0,2,2,0,0,59
-20.0,3,3,0,0,57
-22.0,1,1,0,0,54
-23.0,1,1,0,0,53
-24.0,2,2,0,0,52
-25.0,2,2,0,0,50
-26.0,1,1,0,0,48
-27.0,1,1,0,0,47
-28.0,2,2,0,0,46
-29.0,2,2,0,0,44
-30.0,1,1,0,0,42
-31.0,1,0,1,0,41
-32.0,1,1,0,0,40
-33.0,1,1,0,0,39
-35.0,1,0,1,0,38
-37.0,1,1,0,0,37
-38.0,1,1,0,0,36
-42.0,3,2,1,0,35
-44.0,2,2,0,0,32
-49.0,1,1,0,0,30
-53.0,2,2,0,0,29
-56.0,1,1,0,0,27
-57.0,1,1,0,0,26
-58.0,1,1,0,0,25
-61.0,1,1,0,0,24
-62.0,2,2,0,0,23
-64.0,1,1,0,0,21
-67.0,2,2,0,0,20
-68.0,2,1,1,0,18
-73.0,1,1,0,0,16
-77.0,3,3,0,0,15
-79.0,1,1,0,0,12
-100.0,1,1,0,0,11
-101.0,2,1,1,0,10
-102.0,2,2,0,0,8
-108.0,1,1,0,0,6
-122.0,2,2,0,0,5
-124.0,1,1,0,0,3
-158.0,1,1,0,0,2
-202.0,1,1,0,0,1
+event_at,removed,observed,censored,entrance,at_risk,Name
+0.0,0,0,0,100,100,Mushtaq Mohammad
+1.0,5,4,1,0,100,Mushtaq Mohammad
+2.0,3,3,0,0,95,Mushtaq Mohammad
+3.0,1,1,0,0,92,Mushtaq Mohammad
+4.0,1,1,0,0,91,Mushtaq Mohammad
+5.0,5,5,0,0,90,Mushtaq Mohammad
+6.0,5,4,1,0,85,Mushtaq Mohammad
+7.0,4,4,0,0,80,Mushtaq Mohammad
+8.0,1,1,0,0,76,Mushtaq Mohammad
+9.0,3,3,0,0,75,Mushtaq Mohammad
+10.0,3,3,0,0,72,Mushtaq Mohammad
+11.0,1,1,0,0,69,Mushtaq Mohammad
+13.0,1,1,0,0,68,Mushtaq Mohammad
+14.0,2,2,0,0,67,Mushtaq Mohammad
+15.0,3,3,0,0,65,Mushtaq Mohammad
+16.0,1,1,0,0,62,Mushtaq Mohammad
+18.0,2,2,0,0,61,Mushtaq Mohammad
+19.0,2,2,0,0,59,Mushtaq Mohammad
+20.0,3,3,0,0,57,Mushtaq Mohammad
+22.0,1,1,0,0,54,Mushtaq Mohammad
+23.0,1,1,0,0,53,Mushtaq Mohammad
+24.0,2,2,0,0,52,Mushtaq Mohammad
+25.0,2,2,0,0,50,Mushtaq Mohammad
+26.0,1,1,0,0,48,Mushtaq Mohammad
+27.0,1,1,0,0,47,Mushtaq Mohammad
+28.0,2,2,0,0,46,Mushtaq Mohammad
+29.0,2,2,0,0,44,Mushtaq Mohammad
+30.0,1,1,0,0,42,Mushtaq Mohammad
+31.0,1,0,1,0,41,Mushtaq Mohammad
+32.0,1,1,0,0,40,Mushtaq Mohammad
+33.0,1,1,0,0,39,Mushtaq Mohammad
+35.0,1,0,1,0,38,Mushtaq Mohammad
+37.0,1,1,0,0,37,Mushtaq Mohammad
+38.0,1,1,0,0,36,Mushtaq Mohammad
+42.0,3,2,1,0,35,Mushtaq Mohammad
+44.0,2,2,0,0,32,Mushtaq Mohammad
+49.0,1,1,0,0,30,Mushtaq Mohammad
+53.0,2,2,0,0,29,Mushtaq Mohammad
+56.0,1,1,0,0,27,Mushtaq Mohammad
+57.0,1,1,0,0,26,Mushtaq Mohammad
+58.0,1,1,0,0,25,Mushtaq Mohammad
+61.0,1,1,0,0,24,Mushtaq Mohammad
+62.0,2,2,0,0,23,Mushtaq Mohammad
+64.0,1,1,0,0,21,Mushtaq Mohammad
+67.0,2,2,0,0,20,Mushtaq Mohammad
+68.0,2,1,1,0,18,Mushtaq Mohammad
+73.0,1,1,0,0,16,Mushtaq Mohammad
+77.0,3,3,0,0,15,Mushtaq Mohammad
+79.0,1,1,0,0,12,Mushtaq Mohammad
+100.0,1,1,0,0,11,Mushtaq Mohammad
+101.0,2,1,1,0,10,Mushtaq Mohammad
+102.0,2,2,0,0,8,Mushtaq Mohammad
+108.0,1,1,0,0,6,Mushtaq Mohammad
+122.0,2,2,0,0,5,Mushtaq Mohammad
+124.0,1,1,0,0,3,Mushtaq Mohammad
+158.0,1,1,0,0,2,Mushtaq Mohammad
+202.0,1,1,0,0,1,Mushtaq Mohammad

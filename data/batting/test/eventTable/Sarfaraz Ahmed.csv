@@ -1,59 +1,59 @@
-event_at,removed,observed,censored,entrance,at_risk
-0.0,0,0,0,86,86
-1.0,4,4,0,0,86
-2.0,1,1,0,0,82
-3.0,4,4,0,0,81
-4.0,2,1,1,0,77
-5.0,1,1,0,0,75
-6.0,3,3,0,0,74
-7.0,2,2,0,0,71
-8.0,3,3,0,0,69
-9.0,2,2,0,0,66
-10.0,2,2,0,0,64
-11.0,1,1,0,0,62
-14.0,2,1,1,0,61
-15.0,3,3,0,0,59
-16.0,4,3,1,0,56
-17.0,1,1,0,0,52
-18.0,1,1,0,0,51
-19.0,3,2,1,0,50
-20.0,3,2,1,0,47
-21.0,1,1,0,0,44
-22.0,1,0,1,0,43
-24.0,1,1,0,0,42
-25.0,2,1,1,0,41
-26.0,2,2,0,0,39
-27.0,1,1,0,0,37
-28.0,1,1,0,0,36
-29.0,1,1,0,0,35
-31.0,1,0,1,0,34
-33.0,1,1,0,0,33
-37.0,1,1,0,0,32
-38.0,1,1,0,0,31
-40.0,1,1,0,0,30
-41.0,1,1,0,0,29
-42.0,1,1,0,0,28
-43.0,1,1,0,0,27
-44.0,1,1,0,0,26
-45.0,1,1,0,0,25
-46.0,1,1,0,0,24
-47.0,1,0,1,0,23
-49.0,1,1,0,0,22
-51.0,1,1,0,0,21
-52.0,2,2,0,0,20
-53.0,1,0,1,0,18
-55.0,1,1,0,0,17
-56.0,2,2,0,0,16
-57.0,2,2,0,0,14
-60.0,1,0,1,0,12
-69.0,1,1,0,0,11
-73.0,1,0,1,0,10
-75.0,1,1,0,0,9
-79.0,1,0,1,0,8
-82.0,1,1,0,0,7
-83.0,1,1,0,0,6
-95.0,1,1,0,0,5
-97.0,1,1,0,0,4
-104.0,1,1,0,0,3
-110.0,1,1,0,0,2
-113.0,1,1,0,0,1
+event_at,removed,observed,censored,entrance,at_risk,Name
+0.0,0,0,0,86,86,Sarfaraz Ahmed
+1.0,4,4,0,0,86,Sarfaraz Ahmed
+2.0,1,1,0,0,82,Sarfaraz Ahmed
+3.0,4,4,0,0,81,Sarfaraz Ahmed
+4.0,2,1,1,0,77,Sarfaraz Ahmed
+5.0,1,1,0,0,75,Sarfaraz Ahmed
+6.0,3,3,0,0,74,Sarfaraz Ahmed
+7.0,2,2,0,0,71,Sarfaraz Ahmed
+8.0,3,3,0,0,69,Sarfaraz Ahmed
+9.0,2,2,0,0,66,Sarfaraz Ahmed
+10.0,2,2,0,0,64,Sarfaraz Ahmed
+11.0,1,1,0,0,62,Sarfaraz Ahmed
+14.0,2,1,1,0,61,Sarfaraz Ahmed
+15.0,3,3,0,0,59,Sarfaraz Ahmed
+16.0,4,3,1,0,56,Sarfaraz Ahmed
+17.0,1,1,0,0,52,Sarfaraz Ahmed
+18.0,1,1,0,0,51,Sarfaraz Ahmed
+19.0,3,2,1,0,50,Sarfaraz Ahmed
+20.0,3,2,1,0,47,Sarfaraz Ahmed
+21.0,1,1,0,0,44,Sarfaraz Ahmed
+22.0,1,0,1,0,43,Sarfaraz Ahmed
+24.0,1,1,0,0,42,Sarfaraz Ahmed
+25.0,2,1,1,0,41,Sarfaraz Ahmed
+26.0,2,2,0,0,39,Sarfaraz Ahmed
+27.0,1,1,0,0,37,Sarfaraz Ahmed
+28.0,1,1,0,0,36,Sarfaraz Ahmed
+29.0,1,1,0,0,35,Sarfaraz Ahmed
+31.0,1,0,1,0,34,Sarfaraz Ahmed
+33.0,1,1,0,0,33,Sarfaraz Ahmed
+37.0,1,1,0,0,32,Sarfaraz Ahmed
+38.0,1,1,0,0,31,Sarfaraz Ahmed
+40.0,1,1,0,0,30,Sarfaraz Ahmed
+41.0,1,1,0,0,29,Sarfaraz Ahmed
+42.0,1,1,0,0,28,Sarfaraz Ahmed
+43.0,1,1,0,0,27,Sarfaraz Ahmed
+44.0,1,1,0,0,26,Sarfaraz Ahmed
+45.0,1,1,0,0,25,Sarfaraz Ahmed
+46.0,1,1,0,0,24,Sarfaraz Ahmed
+47.0,1,0,1,0,23,Sarfaraz Ahmed
+49.0,1,1,0,0,22,Sarfaraz Ahmed
+51.0,1,1,0,0,21,Sarfaraz Ahmed
+52.0,2,2,0,0,20,Sarfaraz Ahmed
+53.0,1,0,1,0,18,Sarfaraz Ahmed
+55.0,1,1,0,0,17,Sarfaraz Ahmed
+56.0,2,2,0,0,16,Sarfaraz Ahmed
+57.0,2,2,0,0,14,Sarfaraz Ahmed
+60.0,1,0,1,0,12,Sarfaraz Ahmed
+69.0,1,1,0,0,11,Sarfaraz Ahmed
+73.0,1,0,1,0,10,Sarfaraz Ahmed
+75.0,1,1,0,0,9,Sarfaraz Ahmed
+79.0,1,0,1,0,8,Sarfaraz Ahmed
+82.0,1,1,0,0,7,Sarfaraz Ahmed
+83.0,1,1,0,0,6,Sarfaraz Ahmed
+95.0,1,1,0,0,5,Sarfaraz Ahmed
+97.0,1,1,0,0,4,Sarfaraz Ahmed
+104.0,1,1,0,0,3,Sarfaraz Ahmed
+110.0,1,1,0,0,2,Sarfaraz Ahmed
+113.0,1,1,0,0,1,Sarfaraz Ahmed
