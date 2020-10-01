@@ -13,13 +13,13 @@ pd.options.mode.chained_assignment = None
 def _rolling_df(i_n, download=False):
     """create csv's with all average/opposition/dismissal data"""
     master_df = pd.DataFrame(columns=[
-        'Name', 'Runs', 'DisTally', 'RunTally', 'Dismissal', 'Opposition', 'Date', 'Pos',
-        'Out', 'Ave', 'rolling10', 'rolling20', 'rolling30',
+        'Name', 'Runs', 'DisTally', 'RunTally', 'Dismissal', 'Opponent', 'Date', 'Pos',
+        'Out', 'Avg', 'rolling10', 'rolling20', 'rolling30',
         'rolling40', 'rolling50', 'rolling70', 'rolling100'
         ]
     )
     summary_master_df = pd.DataFrame(columns=[
-        'Name', 'Span', 'Mat', 'Inns', 'Runs', 'HS', 'Ave', '50', '100'
+        'Name', 'Span', 'Mat', 'Inns', 'Runs', 'HS', 'Avg', '50', '100'
         ]
     )
     for i, n in i_n.items():
@@ -28,8 +28,8 @@ def _rolling_df(i_n, download=False):
         master_df = master_df.append(df)
         summary_df = player.get_summary_df()
         summary_master_df = summary_master_df.append(summary_df)
-    master_df = master_df.replace({'Dismissal': ['retired notout']}, 'not out')
-    master_df = master_df.replace({'Dismissal': ['handled ball', 'hit wicket', 'obstruct field', 'retired out']}, 'other')
+    master_df = master_df.replace({'Dismissal': ['Retired Notout']}, 'Not out')
+    master_df = master_df.replace({'Dismissal': ['Handled Ball', 'Hit wicket', 'Obstruct Field', 'Retired Out']}, 'Other')
     master_df.to_csv('data/batting/test/final/rollingMaster.csv')
     summary_master_df.to_csv('data/batting/test/final/summaryMaster.csv')
 
